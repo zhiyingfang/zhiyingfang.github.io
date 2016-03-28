@@ -1,7 +1,7 @@
 # Site settings
-title: Brian's Personal Website
-email: weichuyang@163.com
-description: 魏楚阳的博客
+title: All for PPTer
+email: zhiyingfang@foxmail.com
+description: All for PPTer
 # > # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
@@ -10,17 +10,8 @@ description: 魏楚阳的博客
 # baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-github_username: brianway
+github_username: zhiyingfang
 permalink: /:year/:month/:day/:title/
-
-#########################################
-# for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
-duoshuo_shortname: brianway
-duoshuo_url: "http://brianway.github.io"
-# disqus.com commenting system. please note that it is exclusive with duoshuo.com
-#disqus_shortname: lixizhi
-#disqus_url: "http://lixizhi.github.io"
-#########################################
 
 timezone: '+0800'
 

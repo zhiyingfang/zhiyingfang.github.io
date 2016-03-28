@@ -1,6 +1,6 @@
 ---
 layout: page
-title: templates
+title: 模板
 permalink: /templates/
 icon: glyphicon-star
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: 导航
 permalink: /links/
 icon: glyphicon-paperclip
 ---

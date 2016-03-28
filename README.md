@@ -1,60 +1,14 @@
-# Brian's Personal Website
+# ALL for PPTer
 
 ---
 
-## Introduction
+## 网站介绍
 
-This is my personal website based on jekyll.**Please give a star at this repository if you think it's nice.** Then you can clone it as your blog model.
+“ALL for PPTer”网站由PPT设计师“职影房”创建并维护，网站基于jekyll，该网站的主题由[Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)最初设计,我在由[brianway](https://github.com/brianway)改进的版本上进行修改与维护，在此对他们表示感谢。
 
-You can see the Site by clicking [here](http://brianway.github.io/) 
+点击此处可进入该网站: [ALL for PPTer](http://zhiyingfang.github.io/)
 
-Runing on Github + Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)
-Also thanks for [LiXizhi](https://github.com/LiXizhi),who improves the theme.
+该网站的创建目的是为广大PPT设计师与爱好者提供一个网络资源导航，努力成为他们学习与创作的有力助手，同时让我自己不断总结并进步。
 
-�����ҵĸ�����վ������jekyll��������ò���������������ֿ��ϵ��star�ɣ���Ҳ�Ƕ��ҵĿ϶��͹�����лл�ˡ�
-
-�ҵĸ�����վ��ַ: [Brian's Personal Website](http://brianway.github.io/)
-
-����վ��������[Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)������,������[LiXizhi](https://github.com/LiXizhi)�İ汾�ϸĽ���
-
-
-## Sample
-
-
-![site-demo](assets/site-demo.png)
-
-
-
-
-## My modification
-
-- delete some useless dirs
-- create "_data" dir to store my personal infomation,not in the "_config.yml"
-- change the "static/css/index.css":`width: 95px;`,like below,solving long-words-unfitting in nav bar.
-
-```css
-.navbar-nav li{
-	min-width: 95px;
-	text-align: center;
-}
-```
-
-- add navbar such as "Archive" and "Links",the data in "Links" page also loaded from "_data" dir.
-
-
-## Important Update
-
-| Time        | update |  
-| :--------:  | :----- |
-| 2016.03.10  | post 19 new articles,mybatis series           |
-| 2016.02.06  | post 9 new articles,java&javaweb series       |
-| 2016.02.04  | update jekyll from 2.x to 3.0.2       		  |  
-| 2016.01.09  | change theme from kunka to wiki       		  | 
-| 2016.01.08  | set up this website,using theme kunka         |  
-
-
-
-
-
-
+这是我在演界网的店铺地址：[职影房](http://zyf.yanj.cn)，专注职场幻灯片的设计与制作，目前模板正在加紧制作中，如果有相关需求可进店铺购买我制作的模板或联系我进行PPT定制，职影房祝您生活愉快、工作顺利！
 

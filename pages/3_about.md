@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Me
+title: 联系
 permalink: /about/
 icon: glyphicon-user
 comments: true

@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: templates
+permalink: /templates/
 icon: glyphicon-star
 ---
 
 * content
 {:toc}
 
-## 项目
+## 模板
 
 ----
 

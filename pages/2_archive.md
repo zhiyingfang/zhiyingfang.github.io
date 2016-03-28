@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 归档
+title:  归档
 permalink: /archive/
 icon: glyphicon-folder-open
 ---

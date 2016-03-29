@@ -1,7 +1,7 @@
-﻿---
+---
 layout: page
 title: 导航
-permalink: /stock/
+permalink: /links/
 icon: glyphicon-paperclip
 ---
 

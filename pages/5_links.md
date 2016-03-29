@@ -12,7 +12,7 @@ icon: glyphicon-paperclip
 
 -----
 
-{% for contact in site.data.links.stock %}
+{% for contact in site.data.links %}
 	{% assign i = contact[1] %}
 ### {{ i.message }}
 ---

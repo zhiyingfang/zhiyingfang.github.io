@@ -2,6 +2,7 @@ message: API/开发官网
 items:
   - text: JAVA 8 API
     url: https://docs.oracle.com/javase/8/docs/api/
+    note: 这是一个说明示例
   - text: maven中央仓库
     url: http://mvnrepository.com/
   - text: apache-nutch 1.7 API

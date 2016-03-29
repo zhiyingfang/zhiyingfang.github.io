@@ -14,4 +14,4 @@ icon: glyphicon-star
 
 有空再更新
 
-![download](https://github.com/neutraltone/awesome-stock-resources/blob/master/img/splash.jpg?raw=true)
+![](https://github.com/neutraltone/awesome-stock-resources/blob/master/img/splash.jpg?raw=true)

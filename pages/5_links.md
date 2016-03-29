@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: 导航
 permalink: /links/
@@ -12,7 +12,7 @@ icon: glyphicon-paperclip
 
 -----
 
-{% for contact in site.data.links %}
+{% for contact in site.data.links.stock %}
 	{% assign i = contact[1] %}
 ### {{ i.message }}
 ---

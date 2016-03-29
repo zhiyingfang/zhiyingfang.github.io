@@ -2,7 +2,7 @@
 layout: page
 title: 模板
 permalink: /templates/
-icon: glyphicons-display
+icon: glyphicon-star
 ---
 
 * content

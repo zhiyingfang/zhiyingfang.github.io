@@ -17,9 +17,11 @@ icon: glyphicon-paperclip
 ### {{ i.message }}
 ---
 		{% for link in i.items %}
-- [{{ link.text }}]({{ link.url }}) 
+- [{{ link.text }}]({{ link.url }}) ：{{ link.note }}
 		{% endfor %}
 
----
 {% endfor %}
+
+---
+
 

@@ -25,13 +25,12 @@ permalink: /links/free-stock
     <header>
         <div class="sponsor"></div>
         <a class="feedback" target="_blank" href="http://zhiyingfang.github.io">
-            返回主页/ALL for PPTer
+            本页为图库资源导航，点击此处返回本站主页
         </a>
     </header>
 	<aside> 
         <div class="logo">  
             <img src="/images/logoweb.png" alt="">
-            欢迎来到图库资源导航
             </img>
         </div>
         <ul>

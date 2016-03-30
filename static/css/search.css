@@ -5736,7 +5736,7 @@ aside ul li a.new:after {
 	top: -2px;
 	left: 16px;
 	padding: 2px 6px;
-	border-radius: 4px;
+	border-radius: 2px;
 	background: #FFA500;
 	color: #fff;
 	content: "NEW";

@@ -1,7 +1,6 @@
 ---
 permalink: /links/free-stock
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
@@ -31,7 +30,7 @@ permalink: /links/free-stock
     </header>
 	<aside> 
         <div class="logo">  
-            <img src="img/logo.svg" alt="" />
+            <img src="/images/logo.svg" alt="" />
         </div>
         <ul>
             <li class="color3" data-target="http://www.filmmakingstack.com/" onmouseover="tooltip.pop(this, '#tip18', {cssClass: 'color3'})">

@@ -35,7 +35,7 @@ permalink: /links/free-stock
         </div>
         <ul>
             <li class="color3" data-target="http://www.filmmakingstack.com/" onmouseover="tooltip.pop(this, '#tip18', {cssClass: 'color3'})">
-                <a href="javascript:;">
+                <a href="http://www.filmmakingstack.com/">
                     Film Making Stack
                 </a>
             </li>

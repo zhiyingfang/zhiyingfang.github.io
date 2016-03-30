@@ -1,5 +1,5 @@
 ---
-permalink: /ceshi/
+permalink: /links/free-stock
 ---
 
 <!DOCTYPE html>

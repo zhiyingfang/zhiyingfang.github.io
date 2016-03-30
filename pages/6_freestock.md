@@ -136,7 +136,7 @@ permalink: /links/free-stock
         </ul>
         <footer>
             <a href="http://zhiyingfang.github.io/links/" target="_blank">
-            说明：部分网站请自备梯子
+            部分国外网站请自备梯子-职影房
             </a>
         </footer>
 	</aside>

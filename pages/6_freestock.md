@@ -1,7 +1,6 @@
 ---
 permalink: /links/free-stock
 ---
-
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -5653,6 +5653,7 @@ aside footer {
 	height: 40px;
 	text-align: center;
 	line-height: 40px
+	background: #fff
 }
 
 aside footer a {
@@ -5662,7 +5663,6 @@ aside footer a {
 	height: 40px
 	text-align: center;
 	font-size:14px
-	background: #fff
 }
 
 aside footer a svg {

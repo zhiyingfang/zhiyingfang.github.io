@@ -5632,37 +5632,35 @@ aside {
 	overflow: hidden;
 	width: 270px;
 	height: 100%;
-	border-right: 2px solid #ddd
 }
 
 aside .logo {
 	width: 270px;
-	height: 90px;
-	border-bottom: 2px solid #ddd;
+	height: 70px;
 	text-align: center;
-	line-height: 90px
+	line-height: 70px
 }
 
 aside .logo img {
 	position: relative;
-	top: 6px
+	top: 8px
 }
 
 aside footer {
 	position: fixed;
 	bottom: 0;
 	width: 270px;
-	height: 60px;
-	border-top: 2px solid #ddd;
+	height: 40px;
 	text-align: center;
-	line-height: 60px
+	line-height: 40px
 }
 
 aside footer a {
 	float: left;
 	display: inline-block;
 	width: 270px;
-	height: 60px
+	height: 40px
+	font-size:14px
 }
 
 aside footer a svg {
@@ -5736,7 +5734,7 @@ aside ul li a.new:after {
 	left: 6px;
 	padding: 4px 6px;
 	border-radius: 4px;
-	background: #ccc;
+	background: #FFA500;
 	color: #fff;
 	content: "NEW";
 	font-size: 12px
@@ -5812,12 +5810,11 @@ aside ul li.color3 a:before {
 header {
 	z-index: 900;
 	width: 100%;
-	height: 92px;
-	border-bottom: 2px solid #ddd;
+	height: 62px;
 	background: #f4f4f4;
 	text-indent: 23px;
 	font-size: 20px;
-	line-height: 90px
+	line-height: 60px
 }
 
 header .sponsor {

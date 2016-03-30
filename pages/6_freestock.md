@@ -60,7 +60,7 @@ permalink: /links/free-stock
                 </a>
             </li>
             <li class="color3" data-target="http://slackstack.io/" onmouseover="tooltip.pop(this, '#tip2', {cssClass: 'color3'})">
-                <a href="javascript:;">
+                <a href="javascript:;" class="top">
                     Slack Stack
                 </a>
             </li>

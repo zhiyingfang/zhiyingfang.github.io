@@ -5589,7 +5589,7 @@ aside,aside .logo,aside footer {
 
 div#mcTooltipWrapper {
 	position: absolute;
-	top: -2000px;
+	top: -1000px;
 	z-index: 9999999999;
 	visibility: hidden;
 	overflow: visible;

@@ -32,7 +32,8 @@ permalink: /links/free-stock
     </header>
 	<aside> 
         <div class="logo">  
-            <img src="/images/logo200.png" alt="我的演界网店铺" href="http://zyf.yanj.cn"/>
+            <img src="/images/logo.svg" alt="我的演界网店铺" href="http://zyf.yanj.cn" target="_blank">
+            </img>
         </div>
         <ul>
             <li class="color3" data-target="http://www.filmmakingstack.com/" onmouseover="tooltip.pop(this, '#tip18', {cssClass: 'color3'})">
@@ -137,7 +138,7 @@ permalink: /links/free-stock
         </ul>
         <footer>
             <a href="http://panda.network?ref=thestacks" target="_blank">
-            返回本站导航页
+            点此返回本站导航页
             </a>
         </footer>
 	</aside>

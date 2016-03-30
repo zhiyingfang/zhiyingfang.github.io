@@ -3738,7 +3738,7 @@ var tooltipOptions = {
 					c = "-webkit-";
 					var d = "@" + c + "keyframes mcttSpinner {from{transform:rotate(0deg);} to{transform:rotate(360deg);}}";
 					a.insertRule(d, 0);
-					var e = "div#tooltipAjaxSpin {margin:30px;font-size:0;width:20px;height:20px;border-width:3px;border-color:rgba(255,255,255,.8);border-style:solid;border-top-color:black;border-right-color:rgba(0,0,0,.8);border-radius:50%;" + c + "animation:mcttSpinner .6s linear infinite;}";
+					var e = "div#tooltipAjaxSpin {margin:10px;font-size:0;width:20px;height:20px;border-width:3px;border-color:rgba(255,255,255,.8);border-style:solid;border-top-color:black;border-right-color:rgba(0,0,0,.8);border-radius:50%;" + c + "animation:mcttSpinner .6s linear infinite;}";
 					a.insertRule(e, 0)
 				}
 			},

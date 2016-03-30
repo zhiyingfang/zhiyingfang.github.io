@@ -138,7 +138,7 @@ permalink: /links/free-stock
             <a href="http://panda.network?ref=thestacks" target="_blank">
             点此返回本站导航页
             </a>
-            说明：部分网站请自备梯子
+            <P 说明：部分网站请自备梯子 />
         </footer>
 	</aside>
 	

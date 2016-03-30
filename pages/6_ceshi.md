@@ -7,36 +7,32 @@ permalink: /links/free-stock
 <head>
 	<meta charset="utf-8">
 	<meta name="keywords" content="" >
-	<meta name="description" content="Most popular collections listed in one place." >
-	<meta property="og:title" content="The Stacks" />
-	<meta property="og:url" content="http://thestacks.im"/>
-	<meta property="og:image" content="http://thestacks.im/img/facebook-share.png"/>
+	<meta name="description" content="便捷浏览你所需的所有图库网站" >
+	<meta property="og:title" content="图库资源导航-职影房-free stock-All for PPTer" />
+	<meta property="og:url" content="http://zhiyingfang.github.io/links/free-stock"/>
+	<meta property="og:image" content=""/>
 	<meta property="og:type" content="website" />
 	
-	<title>The Stacks</title>
+	<title>图库资源导航</title>
 	
 	<!--[if lt IE 9]>
 	<script src="/static/js/html5.js"></script>
 	<![endif]-->
 	<meta content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
-	<link rel="icon" type="image/png" href="img/favicon-32x32.png" sizes="32x32" />
-	<link rel="icon" type="image/png" href="img/favicon-16x16.png" sizes="16x16" />
+	<link rel="icon" type="image/png" href="/images/zyf32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="/images/zyf16.png" sizes="16x16" />
 	<link rel="stylesheet" type="text/css" href="{{ "/static/css/search.css" | prepend: site.baseurl }}">
 </head>
 <body>
     <header>
         <div class="sponsor"></div>
-        <a class="feedback" target="_blank" href="mailto:hello@usepanda.com?subject=Feedback / Suggestion for TheStacks">
-            Feedback / Suggestion
-        </a>
-        <span>•</span>
-        <a class="tweet" target="_blank" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fthestacks.im&via=usepanda&text=The%20Stacks%20-%20Most%20popular%20collections%20listed%20in%20one%20place.&">
-            Tweet
+        <a class="feedback" target="_blank" href="http://zhiyingfang.github.io">
+            返回主页/ALL for PPTer
         </a>
     </header>
 	<aside> 
         <div class="logo">  
-            <img src="img/logo.svg" alt="" />
+            <img src="/images/logo200.png" alt="我的演界网店铺" href="http://zyf.yanj.cn"/>
         </div>
         <ul>
             <li class="color3" data-target="http://www.filmmakingstack.com/" onmouseover="tooltip.pop(this, '#tip18', {cssClass: 'color3'})">
@@ -139,6 +135,11 @@ permalink: /links/free-stock
                 </a>
             </li>
         </ul>
+        <footer>
+            <a href="http://panda.network?ref=thestacks" target="_blank">
+            返回本站导航页
+            </a>
+        </footer>
 	</aside>
 	
     <div class="tip" id="tip1">
@@ -198,18 +199,6 @@ permalink: /links/free-stock
     <div class="tip" id="tip19">
         The ultimate Wordpress toolkit
     </div>    
-    
-    <div class="mobile">
-        <img src="img/logo.svg" alt="" />
-        <p> 
-            Most popular collections listed in one place.
-            <br>
-            This website is only useful when you are on desktop. We prepared a reminder email for you just click to the button below and hit send!
-        </p>
-        <a target="_blank" class="mobile-reminder" href="mailto:?&subject=The Stacks - Reminder&body=Hey%20Myself,%0A%0ADon't%20forget%20to%20check%20out%20The%20Stacks%20when%20you're%20back%20on%20your%20desktop.%0A%0Ahttp%3A//thestacks.im%0A%0A(and%20if%20you%20like%20this%20one%20you%20might%20like%20what%20pandas%20do,%20check%20out%20http%3A//panda.network)%0A%0ACheers,%0AMe">
-            Send Reminder Email
-        </a>
-    </div>
 	
 	<iframe src="" id="iframe" frameborder="0"></iframe>
 	<script src="/static/js/berghain.js"></script>

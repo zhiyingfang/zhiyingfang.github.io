@@ -200,7 +200,7 @@ permalink: /links/free-stock
     </div>    
 	
 	<iframe src="" id="iframe" frameborder="0"></iframe>
-	<script src="/static/js/berghain.js"></script>
+	<script src="/static/js/berghain1.js"></script>
 	
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

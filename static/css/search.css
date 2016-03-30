@@ -5741,6 +5741,18 @@ aside ul li a.new:after {
 	font-size: 8px
 }
 
+aside ul li a.top:after {
+	position: relative;
+	top: -2px;
+	left: 16px;
+	padding: 1px 4px;
+	border-radius: 2px;
+	background: #f04877;
+	color: #fff;
+	content: "TOP";
+	font-size: 8px
+}
+
 header,iframe {
 	position: absolute;
 	padding-left: 270px

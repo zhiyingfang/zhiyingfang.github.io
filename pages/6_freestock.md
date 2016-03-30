@@ -32,7 +32,7 @@ permalink: /links/free-stock
     </header>
 	<aside> 
         <div class="logo">  
-            <img src="/images/logo.svg" alt="我的演界网店铺" href="http://zyf.yanj.cn" target="_blank">
+            <img src="/images/logo.svg" alt="" href="http://zyf.yanj.cn" target="_blank">
             </img>
         </div>
         <ul>

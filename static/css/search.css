@@ -5695,7 +5695,7 @@ aside footer .color3 {
 aside ul {
 	position: fixed;
 	overflow: scroll;
-	padding-top: 70px;
+	padding-top: 100px;
 	padding-bottom: 70px;
 	width: 270px;
 	height: 100%
@@ -5727,7 +5727,6 @@ aside ul li a {
 	height: 30px;
 	text-indent: 40px;
 	line-height: 30px
-	border-bottom:2px solid #00ced1
 }
 
 aside ul li a.new:after {
@@ -5749,7 +5748,7 @@ header,iframe {
 
 aside ul li a:before {
 	position: absolute;
-	top: 6px;
+	top: 60px;
 	left: 20px;
 	display: block;
 	width: 6px;

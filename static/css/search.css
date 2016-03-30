@@ -5589,7 +5589,7 @@ aside,aside .logo,aside footer {
 
 div#mcTooltipWrapper {
 	position: absolute;
-	top: -6000px;
+	top: -2000px;
 	z-index: 9999999999;
 	visibility: hidden;
 	overflow: visible;
@@ -5636,14 +5636,14 @@ aside {
 
 aside .logo {
 	width: 270px;
-	height: 70px;
+	height: 60px;
 	text-align: center;
-	line-height: 70px
+	line-height: 60px
 }
 
 aside .logo img {
 	position: relative;
-	top: 6px
+	top: 1px
 }
 
 aside footer {
@@ -5665,7 +5665,7 @@ aside footer a {
 }
 
 aside footer a svg {
-	margin-top: 15px
+	margin-top: 6px
 }
 
 aside footer path {
@@ -5695,7 +5695,7 @@ aside footer .color3 {
 aside ul {
 	position: fixed;
 	overflow: scroll;
-	padding-top: 110px;
+	padding-top: 70px;
 	padding-bottom: 70px;
 	width: 270px;
 	height: 100%
@@ -5706,7 +5706,6 @@ aside ul li {
 	width: 100%;
 	height: 30px;
 	font-size: 14px
-	border-bottom:2px solid #00ced1
 }
 
 aside ul li.active a:before {
@@ -5813,10 +5812,10 @@ aside ul li.color3 a:before {
 header {
 	z-index: 900;
 	width: 100%;
-	height: 62px;
+	height: 60px;
 	background: #f4f4f4;
 	text-indent: 23px;
-	font-size: 20px;
+	font-size: 18px;
 	line-height: 60px
 }
 
@@ -5856,7 +5855,7 @@ iframe {
 	top: 0;
 	left: 0;
 	z-index: 100;
-	padding-top: 90px;
+	padding-top: 60px;
 	width: 100%;
 	height: 100%;
 	background: #fff

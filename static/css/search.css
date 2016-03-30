@@ -5532,7 +5532,7 @@ body,html {
 }
 
 div#mcTooltip {
-	padding: 14px;
+	padding: 1px;
 	border-color: #666;
 	border-width: 2px;
 	border-radius: 3px;

@@ -30,7 +30,7 @@ a,ins {
 }
 
 .ns-box,body,div#mcTooltip,html {
-	font-family: Avenir,"Avenir LT W01_45 Book1475508";
+	font-family: 'Microsoft YaHei', 'Helvetica','Arial','SimHei', sans-serif;
 	-webkit-font-smoothing: antialiased
 }
 

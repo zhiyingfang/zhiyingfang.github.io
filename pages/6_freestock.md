@@ -135,7 +135,7 @@ permalink: /links/free-stock
             </li>
         </ul>
         <footer>
-            <a href="http://panda.network?ref=thestacks" target="_blank">
+            <a href="http://zhiyingfang.github.io/links/" target="_blank">
             说明：部分网站请自备梯子
             </a>
         </footer>

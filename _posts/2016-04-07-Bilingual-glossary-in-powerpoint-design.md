@@ -190,13 +190,13 @@ author: 职影房
 - **furniture design** : ！家具设计
 
 ## G
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
+- **game** : ！游戏
+- **garden design** : ！园林设计 园艺设计
+- **gender** : ！性别
+- **globalization** : ！全球化
+- **good** : ！好的 好
+- **graphic design** : ！平面设计
+- **green design** : ！绿色设计 环保设计 生态设计
 - **** : ！
 - **** : ！
 - **** : ！
@@ -210,14 +210,14 @@ author: 职影房
 - **** : ！
 
 ## H
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
+- **handicraft** : ！手工艺品
+- **haptics** : ！触觉
+- **hardware** : ！硬件
+- **heuristics** : ！启发
+- **high tech** : ！高科技
+- **history** : ！历史
+- **human computer interaction** : ！人机交互（HCI）
+- **human factors** : ！人为因素
 - **** : ！
 - **** : ！
 - **** : ！
@@ -230,19 +230,20 @@ author: 职影房
 - **** : ！
 
 ## I
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
+- **illustration** : ！插图 插画 图解
+- **imitation** : ！模仿 仿造 仿制品
+- **industrial design** : ！工业设计
+- **infographic** : ！信息图
+- **information** : ！信息 资料 知识 情报 通知
+- **innovation** : ！创新 革新
+- **integration** : ！整合 一体化 综合
+- **intellectual property** : ！知识产权 著作权
+- **interaction design** : ！交互设计
+- **interdisciplinary** : ！跨学科的
+- **interface design** : ！界面设计
+- **interior design** : ！室内设计
+- **international** : ！国际的
+- **intuition** : ！直觉
 - **** : ！
 - **** : ！
 - **** : ！

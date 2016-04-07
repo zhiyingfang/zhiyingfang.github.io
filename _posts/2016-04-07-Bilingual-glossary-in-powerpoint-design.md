@@ -19,36 +19,75 @@ author: 职影房
 
 ## A
 - **abstracts** : 摘要
+- **added value** : 附加值 增值价值
+- **advertisement** : 广告 宣传
+- **aerodynamics** : 空气动力学
+- **aesthetics** : 美学
+- **affordance** : 功能可见性 可视性
+- **agit prop** : 宣传鼓动
 - **album** : 相册 相簿
-- **avatar** : 头像
 - **android** : 安卓
 - **animal** : 动物
+- **animation** : 动画
+- **anonymous design** : 匿名设计
 - **app** : 应用软件
+- **architectural design** : 建筑设计 结构设计 构架设计
 - **art** : 艺术
+- **art deco** : 装饰艺术
+- **art direction** : 艺术指导 艺术方向 美术指导 美术设计
 - **artical** : 文章 内容
+- **artifact** : 人工制品 手工艺品
+- **art nouveau** : 新艺术派
+- **arts & crafts** : 艺术和工艺
+- **audiovisual design** : 视听设计
+- **automobile design** : 汽车设计
+- **avatar** : 头像
 
 ## B
 - **background** : 背景
 - **badge** : 徽章 像章
-- **border** : 边框 边框线
 - **banner** : 横幅 广告条
 - **bar** : 条 栏
+- **beauty** : 美丽
+- **bel design** : beautiful design
+- **benchmarking** : 基准测试
+- **bionics** : 仿生学
 - **black** : 黑色
 - **blog** : 博客
 - **blue** : 蓝色
+- **blueprint** : 蓝图 设计图 计划大纲
 - **book** : 书
+- **border** : 边框 边框线
+- **bottom** : 底部
 - **box** : 盒子
+- **brainstorming** : 头脑风暴
+- **brand** : 商标 品牌
+- **branding** : 品牌化 品牌设计
+- **brief** : 简介 简要 简报 摘要 概要
+- **broadcast design** : 广播设计 广电设计 视频设计
 - **brown** : 棕色 褐色
 - **brush** : 刷子 笔刷
 - **building** : 建筑物
 - **business** : 商业 商务
 - **business card** : 名片
-- **bottom** : 底部
 - **button** : 按钮
 
 ## C
+- **campaign** : ！运动 活动 战役
+- **car design** : ！汽车设计
+- **character design** : ！角色设计 人物设计 人物设定
+- **collaborative design** : ！协同设计
+- **collections** : ！集合 收藏 作品集
+- **commercial** : ！商业的 盈利的
+- **communication design** : ！通信设计
+- **components** : ！构件 组件 构成要素
+- **compositing** : ！合成 混合 影像合成
+- **conceptual design** : ！概念设计
+- **construction** : ！建设 建筑物 解释 造句
+- **consumption** : ！消费 消耗
 - **content** : ！内容 目录
 - **Contents page** : ！目录页
+- **continuity** : ！连续性
 - **calendar** : ！日历 日程表
 - **calligraphy** : ！美术字 书法
 - **camera** : ！照相机 摄影机
@@ -63,44 +102,80 @@ author: 职影房
 - **color** : ！颜色
 - **colorful** : ！多彩的
 - **comic** : ！滑稽的 搞笑的
+- **coordination** : ！ 协调 调和 对等 同等
+- **copy** : ！ 复制
+- **copyright** : ！ 版权 著作权
+- **corporate culture** : ！ 企业文化
 - **cover** : ！封面
+- **corporate identity** : ！企业形象
+- **craft** : ！工艺
 - **creative** : ！有创意的 创新的
+- **creativity** : ！创造力
+- **credibility** : ！信誉
+- **critical design** : ！关键设计 批判性设计 批判式设计 临界设计
+- **criticism** : ！批评 考证 苛求
+- **critique** : ！批评 批判 讨论
+- **cross-cultural design** : ！跨文化设计
 - **css** : ！层叠样式表
+- **customization** : ！定制
 - **cute** : ！可爱的 漂亮的 机灵的
 - **cut** : ！分割 切开
 
 ## D
 - **dark** : ！黑暗
+- **darwing** : ！绘画
 - **dashboard** : ！仪表盘 控制盘
 - **data** : ！资料 数据
+- **debut** : ！初次 处女秀
+- **deconstruction** : ！解构 解构主义
 - **design** : ！设计
+- **design associations** : ！设计协会
+- **design awards** : ！设计奖项
+- **design centers** : ！设计中心
+- **design competence** : ！设计能力
+- **design management** : ！设计管理
+- **design methods** : ！设计方法
+- **design planning** : ！设计规划 设计计划
+- **design process** : ！设计阶段 设计过程 设计流程
+- **design theory** : ！设计理论
 - **digital** : ！数字 数码
+- **digital design** : ！数字设计 数字化设计 数码设计 数位设计 电子设计
+- **display** : ！显示 表现 陈列
 - **drop** : ！落下 滴下 投下
 - **doodle** : ！涂鸦 乱画
 - **download** : ！下载
-- **darwing** : ！绘画
-- **debut** : ！初次 处女秀
 
 ## E
-- **extension** : ！扩展 延伸
-- **edit** : ！编辑
+- **eco design** : ！生态设计
 - **ecommerce** : ！电子商务
+- **edit** : ！编辑
+- **education** : ！教育
 - **email** : ！电子邮箱
-- **eye** : ！眼睛
-- **event** : ！事件 活动 通知
+- **engineering design** : ！工程设计
+- **environmental design** : ！环境设计
 - **equipment** : ！设备 装备 器材
+- **ergonomics** : ！人体工程学
+- **ethics** : ！道德 伦理学
+- **evaluation** : ！项目评价 评估
+- **event** : ！事件 活动 通知
+- **event design** : ！活动设计
+- **exhibition** : ！展览
+- **extension** : ！扩展 延伸
+- **eye** : ！眼睛
 
 ## F
 - **face** : ！脸 表情 头像
+- **fake** : ！假的
 - **fashion** : ！时尚 潮流
+- **feasibility studies** : ！可行性研究
 - **film** : ！电影
 - **fire** : ！火
-- **flash** : ！瞬间 闪过
 - **fish** : ！鱼
 - **flag** : ！旗帜
+- **flash** : ！瞬间 闪过
 - **flat** : ！扁平 扁平化的
 - **flower** : ！花朵
-- **flyer** : ！飞翔的 飞行员 飞鸟
+- **flyer** : ！飞翔的 飞行员 飞鸟 传单 飞行器
 - **font** : ！文字 字体
 - **food** : ！食物
 - **foot** : ！页脚 脚
@@ -110,6 +185,9 @@ author: 职影房
 - **free** : ！免费 自由的
 - **freebie** : ！免费赠品
 - **fun** : ！嬉戏 乐趣 开心的
+- **function** : ！功能 函数
+- **function model** : ！功能模型 函数模型
+- **furniture design** : ！家具设计
 
 ## G
 - **** : ！

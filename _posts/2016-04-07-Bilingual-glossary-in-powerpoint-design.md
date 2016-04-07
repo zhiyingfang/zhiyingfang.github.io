@@ -19,17 +19,17 @@ author: 职影房
 
 
 ## A
-**album** : 相册 相簿
-**avatar** : 头像
-**android** : 安卓
-**animal** : 动物
-**app** : 应用软件
-**art** : 艺术
-**artical** : 文章 内容
+- **album** : 相册 相簿
+- **avatar** : 头像
+- **android** : 安卓
+- **animal** : 动物
+- **app** : 应用软件
+- **art** : 艺术
+- **artical** : 文章 内容
 
 
 ## B
-**background** : 背景
+- **background** : 背景
 
 
 

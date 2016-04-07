@@ -251,7 +251,7 @@ author: 职影房
 - **** : ！
 
 ## J
-- **** : ！
+- **jewelry design** : ！首饰设计 珠宝设计
 - **** : ！
 - **** : ！
 - **** : ！
@@ -271,8 +271,8 @@ author: 职影房
 - **** : ！
 
 ## K
-- **** : ！
-- **** : ！
+- **kitsch** : ！媚俗 粗劣作品
+- **knowledge management** : ！知识管理
 - **** : ！
 - **** : ！
 - **** : ！
@@ -291,15 +291,15 @@ author: 职影房
 - **** : ！
 
 ## L
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
+- **landscape design** : ！景观设计 园林设计
+- **layout** : ！布局 安排 陈列
+- **life cycle** : ！生命周期
+- **lifestyle** : ！生活方式 生活态度
+- **lighting design** : ！照明设计 灯光设计
+- **logistics** : ！物流 后勤 逻辑学 组织工作
+- **logo** : ！标志 商标
+- **look and feel** : ！观感
+- **luxury** : ！奢侈品 奢华
 - **** : ！
 - **** : ！
 - **** : ！
@@ -311,17 +311,17 @@ author: 职影房
 - **** : ！
 
 ## M
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
+- **market research** : ！市场研究 市场调查
+- **materials** : ！材料 材质
+- **mechatronic design** : ！机电一体化设计
+- **media design** : ！媒体设计
+- **misinformation** : ！误报 误传 错误信息
+- **mobility** : ！流动性 机动性
+- **mock up** : ！样机
+- **model** : ！模型 样式
+- **modernity** : ！时代性 现代主义
+- **motion graphic** : ！运动图形
+- **multidisciplinary** : ！多学科的
 - **** : ！
 - **** : ！
 - **** : ！
@@ -331,11 +331,11 @@ author: 职影房
 - **** : ！
 
 ## N
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
+- **need** : ！需要 需求
+- **needs assessment** : ！需求评估
+- **networking** : ！网络
+- **nostalgia** : ！怀旧
+- **not for profit** : ！非营利的
 - **** : ！
 - **** : ！
 - **** : ！
@@ -351,15 +351,15 @@ author: 职影房
 - **** : ！
 
 ## O
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
+- **object** : ！对象 目标
+- **observational research** : ！观察研究
+- **Original Design Manufacturer** : ！原始设计制造商（ODM）
+- **Original Equipment Manufacturer** : ！原始设备制造商（OEM）
+- **olfactory design** : ！嗅觉设计
+- **organization** : ！组织 机构 团体
+- **orientation system** : ！定位系统
+- **ornament** : ！装饰 饰品
+- **outsourcing** : ！外包
 - **** : ！
 - **** : ！
 - **** : ！
@@ -371,19 +371,31 @@ author: 职影房
 - **** : ！
 
 ## P
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
+- **packaging design** : ！包装设计
+- **patent** : ！专利
+- **pattern** : ！模式 图案 样式
+- **perception** : ！知觉 观念
+- **performance** : ！性能 表现 绩效
+- **persona** : ！人
+- **photographic** : ！摄影
+- **pictogram** : ！象形图
+- **plagiarism** : ！剽窃
+- **point of sale** : ！销售点 卖点
+- **poster design** : ！海报设计
+- **postmodernism** : ！后现代主义
+- **practice** : ！实践 练习
+- **presentation** : ！展示 演示 描述 陈述 介绍
+- **problem solving** : ！解决问题
+- **process** : ！过程 方法 步骤
+- **product** : ！产品 作品
+- **product development** : ！产品开发
+- **product family** : ！产品族
+- **production technology** : ！生产技术 生产工艺
+- **product semantics** : ！产品语义
+- **project** : ！项目 计划 课件 课题
+- **prototype** : ！原型
+- **publications** : ！出版物
+- **public design** : ！公众设计
 - **** : ！
 - **** : ！
 - **** : ！
@@ -391,8 +403,8 @@ author: 职影房
 - **** : ！
 
 ## Q
-- **** : ！
-- **** : ！
+- **quality** : ！质量 品质
+- **quality assurance** : ！质量保证 品质保证
 - **** : ！
 - **** : ！
 - **** : ！
@@ -411,14 +423,14 @@ author: 职影房
 - **** : ！
 
 ## R
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
+- **redesign** : ！重新设计
+- **registered design** : ！已注册外观专利
+- **rendering** : ！渲染
+- **research** : ！研究 调查
+- **responsibility** : ！责任 职责 义务
+- **retail** : ！零售
+- **retro design ** : ！复古设计
+- **rhetoric** : ！修辞
 - **** : ！
 - **** : ！
 - **** : ！
@@ -431,18 +443,34 @@ author: 职影房
 - **** : ！
 
 ## S
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
+- **safety design** : ！安全设计
+- **scenario planning** : ！情景规划 远景规划
+- **scenography** : ！透视画法
+- **screen design** : ！屏幕设计 页面分割
+- **semantics** : ！语义
+- **service design** : ！服务设计
+- **set design** : ！舞台设计 布景设计
+- **shop design** : ！商店设计 专柜设计
+- **signature design** : ！签名设计
+- **simplicity** : ！简单 朴素
+- **sketch** : ！素描 草图 速写
+- **skills** : ！技能 技巧
+- **smart materials** : ！智能材料
+- **social** : ！社会 社交
+- **software** : ！软件
+- **sound design** : ！音效设计
+- **sound effect** : ！音效
+- **stage design** : ！舞台设计
+- **storyboard** : ！故事情节
+- **strategic design** : ！战略设计
+- **streamline design** : ！流线设计
+- **style** : ！风格 时尚 类型
+- **styling** : ！样式 款式
+- **sustainability** : ！持续性 可持续发展
+- **symbol** : ！符号 象征 标志
+- **synergy** : ！协同 配合
+- **synthesis** : ！合成 综合
+- **system** : ！系统 体制
 - **** : ！
 - **** : ！
 - **** : ！
@@ -451,31 +479,31 @@ author: 职影房
 - **** : ！
 
 ## T
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
+- **target group** : ！目标群体
+- **teamwork** : ！团队合作
+- **template** : ！模板
+- **testing** : ！测试
+- **texture** : ！纹理 质地
+- **theory** : ！理论 学说
+- **title** : ！标题
 - **title page** : ！标题页
+- **tools** : ！工具
+- **trademark** : ！商标 标志
+- **transdisciplinary** : ！跨学科的
+- **trend** : ！趋势
+- **typography** : ！排版
+- **** : ！
+- **** : ！
+- **** : ！
+- **** : ！
+- **** : ！
 
 ## U
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
+- **understanding** : ！理解
+- **universal design** : ！通用设计
+- **urban design** : ！城市设计
+- **usability** : ！可用性
+- **use** : ！使用
 - **** : ！
 - **** : ！
 - **** : ！
@@ -491,13 +519,13 @@ author: 职影房
 - **** : ！
 
 ## V
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
+- **value** : ！价值 重要性
+- **virtuality** : ！虚拟
+- **virtual reality** : ！虚拟现实
+- **virtual set** : ！虚拟场景 虚拟布景
+- **visual communication** : ！视觉传达
+- **visual effects** : ！视觉效果
+- **visualization** : ！可视化
 - **** : ！
 - **** : ！
 - **** : ！
@@ -511,8 +539,8 @@ author: 职影房
 - **** : ！
 
 ## W
-- **** : ！
-- **** : ！
+- **web design** : ！网页设计
+- **wicked problems** : ！棘手问题
 - **** : ！
 - **** : ！
 - **** : ！

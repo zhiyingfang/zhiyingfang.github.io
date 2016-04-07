@@ -19,6 +19,20 @@ author: 职影房
 
 
 ## A
+**album** : 相册 相簿
+**avatar** : 头像
+**android** : 安卓
+**animal** : 动物
+**app** : 应用软件
+**art** : 艺术
+**artical** : 文章 内容
 
-|两个字 性别| - |三字 哇哈哈|
+
+## B
+**background** : 背景
+
+
+
+
+
 

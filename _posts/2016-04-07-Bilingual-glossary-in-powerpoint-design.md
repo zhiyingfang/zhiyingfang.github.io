@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "PPTÉè¼Æ³£ÓÃ´Ê»ãÖĞÓ¢¶ÔÕÕ±í"
+title:  "PPTè®¾è®¡å¸¸ç”¨è¯æ±‡ä¸­è‹±å¯¹ç…§è¡¨"
 date:   2016-04-07 08:40:00
-categories: ÊµÓÃ¹¤¾ß
+category: å®ç”¨å·¥å…·
 ---
 
 * content

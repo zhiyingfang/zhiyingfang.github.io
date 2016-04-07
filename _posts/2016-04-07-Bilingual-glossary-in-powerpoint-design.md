@@ -10,7 +10,6 @@ tags:
 - powerpoint
 - 中英对照
 - 设计词汇
-comments: true
 author: 职影房
 ---
 

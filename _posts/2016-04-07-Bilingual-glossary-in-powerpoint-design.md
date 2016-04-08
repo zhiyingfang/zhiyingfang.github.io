@@ -624,16 +624,3 @@ author: 职影房
 
 
 
-
-<style>
-#nav { width:200px; height: 80px; position:fixed;left:4%;top:70% }
-</style>
-<div id="nav">
-转换为大写字母：<br />
-<input type="text" style="background-color:rgb(248,248,253) width:200px; height:28px; text-transform:uppercase;" /><br />
-转换为小写字母：<br />
-<input type="text" style="background-color:rgb(248,248,253) width:200px; height:28px; text-transform:lowercase;" /><br />
-单词首字母大写：<br />
-<input type="text" style="background-color:rgb(248,248,253) width:200px; height:28px; text-transform:capitalize;" /><br />
-<a href="http://fanyi.baidu.com" target="_blank">点击此处转到百度翻译</a>
-</div>

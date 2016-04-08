@@ -625,3 +625,14 @@ author: 职影房
 
 
 
+<style>
+#nav { width:200px; height: 80px; position:fixed;left:1%;top:80% }
+</style>
+<div id="nav">
+转换为大写字母：<br />
+<input type="text" style="width:200px; height:20px; text-transform:uppercase;" /><br />
+转换为小写字母：<br />
+<input type="text" style="width:200px; height:20px; text-transform:lowercase;" /><br />
+单词首字母大写：<br />
+<input type="text" style="width:200px; height:20px; text-transform:capitalize;" /><br />
+</div>

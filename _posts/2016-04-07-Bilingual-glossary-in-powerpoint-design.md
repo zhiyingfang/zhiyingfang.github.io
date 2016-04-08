@@ -193,12 +193,23 @@ author: 职影房
 - **game** : ！游戏
 - **garden design** : ！园林设计 园艺设计
 - **gender** : ！性别
+- **geometric** : ！几何图形
+- **gif** : ！动态图像格式
 - **globalization** : ！全球化
+- **glass** : ！玻璃 玻璃杯
+- **glasses** : ！眼镜
+- **gold** : ！金 黄金 金币 金色的 金属的
 - **good** : ！好的 好
+- **gradient** : ！倾斜的 梯度曲线
+- **graph** : ！图表 曲线
+- **graphic** : ！图表
 - **graphic design** : ！平面设计
+- **gray** : ！灰色
+- **green** : ！绿色
 - **green design** : ！绿色设计 环保设计 生态设计
-- **** : ！
-- **** : ！
+- **grid** : ！格子 网格
+- **grunge** : ！垃圾 难看的
+- **GUI** : ！图形用户界面 graphical user interface
 - **** : ！
 - **** : ！
 - **** : ！
@@ -210,12 +221,21 @@ author: 职影房
 - **** : ！
 
 ## H
+- **hand** : ！手
 - **handicraft** : ！手工艺品
 - **haptics** : ！触觉
 - **hardware** : ！硬件
+- **header** : ！头部 顶部
+- **header bar** : ！顶部条
+- **heart** : ！心形的
 - **heuristics** : ！启发
 - **high tech** : ！高科技
 - **history** : ！历史
+- **holiday** : ！假日 假期
+- **home** : ！主页 首页 家
+- **homepage** : ！主页 首页
+- **house** : ！房子 屋子
+- **html** : ！超文本链接标记语言
 - **human computer interaction** : ！人机交互（HCI）
 - **human factors** : ！人为因素
 - **** : ！
@@ -227,23 +247,39 @@ author: 职影房
 - **** : ！
 - **** : ！
 - **** : ！
-- **** : ！
 
 ## I
+- **icon** : ！图标
+- **identify** : ！识别 确定 认同 辨认
 - **illustration** : ！插图 插画 图解
+- **illustrator** : ！插画家
 - **imitation** : ！模仿 仿造 仿制品
 - **industrial design** : ！工业设计
 - **infographic** : ！信息图
 - **information** : ！信息 资料 知识 情报 通知
+- **ink** : ！墨水 墨汁
 - **innovation** : ！创新 革新
 - **integration** : ！整合 一体化 综合
 - **intellectual property** : ！知识产权 著作权
 - **interaction design** : ！交互设计
 - **interdisciplinary** : ！跨学科的
+- **interface** : ！界面 接口
 - **interface design** : ！界面设计
 - **interior design** : ！室内设计
 - **international** : ！国际的
 - **intuition** : ！直觉
+- **invitation** : ！邀请卡 请柬
+- **invite** : ！邀请 招待
+- **iOS** : ！苹果移动操作系统
+- **iPad** : ！苹果平板电脑
+- **iPhone** : ！苹果手机
+- **** : ！
+- **** : ！
+- **** : ！
+- **** : ！
+- **** : ！
+- **** : ！
+- **** : ！
 - **** : ！
 - **** : ！
 - **** : ！
@@ -251,11 +287,11 @@ author: 职影房
 - **** : ！
 
 ## J
+- **jerk** : ！反射 颠簸 冲击
 - **jewelry design** : ！首饰设计 珠宝设计
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
+- **join** : ！加入 加盟 参加
+- **joke** : ！玩笑 笑话
+- **juice** : ！果汁
 - **** : ！
 - **** : ！
 - **** : ！
@@ -271,6 +307,10 @@ author: 职影房
 - **** : ！
 
 ## K
+- **kids** : ！孩子 儿童
+- **kind** : ！种类
+- **king** : ！国王 君王
+- **kiss** : ！飞吻 亲吻
 - **kitsch** : ！媚俗 粗劣作品
 - **knowledge management** : ！知识管理
 - **** : ！
@@ -285,21 +325,29 @@ author: 职影房
 - **** : ！
 - **** : ！
 - **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
 
 ## L
+- **label** : ！标签 标记
+- **landing** : ！着陆
+- **landing page** : ！着陆页
 - **landscape design** : ！景观设计 园林设计
 - **layout** : ！布局 安排 陈列
+- **letter** : ！信 信封 证书 字母
 - **life cycle** : ！生命周期
 - **lifestyle** : ！生活方式 生活态度
+- **light** : ！明亮的 光 灯光 光线
 - **lighting design** : ！照明设计 灯光设计
+- **line** : ！线 线条
+- **list** : ！列表
+- **login** : ！登入 登录
 - **logistics** : ！物流 后勤 逻辑学 组织工作
 - **logo** : ！标志 商标
+- **logotype** : ！商标
 - **look and feel** : ！观感
+- **love** : ！爱 爱情
 - **luxury** : ！奢侈品 奢华
+- **login** : ！登入 登录
+- **** : ！
 - **** : ！
 - **** : ！
 - **** : ！
@@ -311,19 +359,39 @@ author: 职影房
 - **** : ！
 
 ## M
+- **mac os** : ！苹果电脑系统
+- **magazine** : ！杂志
+- **mail** : ！邮件 邮政
+- **man** : ！人 男人
+- **map** : ！地图
+- **mark** : ！记号 标记
 - **market research** : ！市场研究 市场调查
+- **master** : ！师父 大师 教师
 - **materials** : ！材料 材质
 - **mechatronic design** : ！机电一体化设计
 - **media design** : ！媒体设计
+- **menu** : ！菜单 选单
+- **metal** : ！金属的
+- **minimal** : ！最小的
 - **misinformation** : ！误报 误传 错误信息
+- **mobile** : ！手机 移动
 - **mobility** : ！流动性 机动性
-- **mock up** : ！样机
+- **mock up** : ！样机 模型 样本
 - **model** : ！模型 样式
+- **modern** : ！现代的 时髦的
 - **modernity** : ！时代性 现代主义
+- **money** : ！钱
+- **monogram** : ！字母组合 印花
+- **monochrome** : ！单色的 黑白的
+- **monster** : ！怪兽 魔头
 - **motion graphic** : ！运动图形
 - **multidisciplinary** : ！多学科的
-- **** : ！
-- **** : ！
+- **monster** : ！怪兽 魔头
+- **moon** : ！月亮 月球
+- **motion** : ！运动 动作 手势
+- **movie** : ！电影
+- **move** : ！移动 搬动 迁移
+- **music** : ！音乐
 - **** : ！
 - **** : ！
 - **** : ！
@@ -331,16 +399,16 @@ author: 职影房
 - **** : ！
 
 ## N
+- **nature** : ！自然 本质 景物
+- **nav** : ！导航 航海
+- **nav bar** : ！导航条
+- **navigation** : ！导航 航海
 - **need** : ！需要 需求
 - **needs assessment** : ！需求评估
 - **networking** : ！网络
+- **new** : ！新的 最新的
 - **nostalgia** : ！怀旧
 - **not for profit** : ！非营利的
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
 - **** : ！
 - **** : ！
 - **** : ！

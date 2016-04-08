@@ -179,6 +179,7 @@ author: 职影房
 - **font** : ！文字 字体
 - **food** : ！食物
 - **foot** : ！页脚 脚
+- **footage** : ！视频片段
 - **footer** : ！页脚
 - **football** : ！足球
 - **form** : ！表单
@@ -421,9 +422,13 @@ author: 职影房
 ## O
 - **object** : ！对象 目标
 - **observational research** : ！观察研究
+- **ocean** : ！大海 海洋
 - **Original Design Manufacturer** : ！原始设计制造商（ODM）
 - **Original Equipment Manufacturer** : ！原始设备制造商（OEM）
+- **old** : ！旧的 老的
 - **olfactory design** : ！嗅觉设计
+- **orange** : ！橙色 橙子
+- **order** : ！规则 秩序 订单 命令
 - **organization** : ！组织 机构 团体
 - **orientation system** : ！定位系统
 - **ornament** : ！装饰 饰品
@@ -433,26 +438,42 @@ author: 职影房
 - **** : ！
 - **** : ！
 - **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
 
 ## P
+- **packaging** : ！包装 封装 打包 组装
 - **packaging design** : ！包装设计
+- **page** : ！页 页面 网页
+- **paint** : ！颜料 油漆 涂料 绘画
+- **painting** : ！绘画 油画
+- **paper** : ！纸 论文 文章
 - **patent** : ！专利
 - **pattern** : ！模式 图案 样式
+- **pen** : ！笔
+- **pencil** : ！铅笔
 - **perception** : ！知觉 观念
 - **performance** : ！性能 表现 绩效
-- **persona** : ！人
+- **personal** : ！个人的 私人的
+- **phone** : ！电话
+- **photo** : ！相片 照片
+- **photograph** : ！相片 照片
 - **photographic** : ！摄影
 - **pictogram** : ！象形图
+- **pie graph** : ！饼图
+- **pink** : ！粉色 粉红色
+- **pixel** : ！像素
 - **plagiarism** : ！剽窃
+- **play** : ！播放 玩
+- **player** : ！玩家
 - **point of sale** : ！销售点 卖点
+- **polygon** : ！多边形
+- **portrait** : ！肖像 画像 写真
+- **poster** : ！海报 招贴 告示
 - **poster design** : ！海报设计
 - **postmodernism** : ！后现代主义
+- **PPTer** : ！PPT制作者（Chinglish）
 - **practice** : ！实践 练习
 - **presentation** : ！展示 演示 描述 陈述 介绍
+- **print** : ！打印 输出
 - **problem solving** : ！解决问题
 - **process** : ！过程 方法 步骤
 - **product** : ！产品 作品
@@ -460,10 +481,29 @@ author: 职影房
 - **product family** : ！产品族
 - **production technology** : ！生产技术 生产工艺
 - **product semantics** : ！产品语义
+- **profile** : ！个人简介 轮廓 外形
 - **project** : ！项目 计划 课件 课题
 - **prototype** : ！原型
 - **publications** : ！出版物
 - **public design** : ！公众设计
+- **purple** : ！紫色
+- **pie graph** : ！饼图
+- **** : ！
+- **** : ！
+- **** : ！
+- **** : ！
+- **** : ！
+- **** : ！
+- **** : ！
+- **** : ！
+- **** : ！
+- **** : ！
+- **** : ！
+- **** : ！
+- **** : ！
+- **** : ！
+- **** : ！
+- **** : ！
 - **** : ！
 - **** : ！
 - **** : ！
@@ -473,9 +513,9 @@ author: 职影房
 ## Q
 - **quality** : ！质量 品质
 - **quality assurance** : ！质量保证 品质保证
-- **** : ！
-- **** : ！
-- **** : ！
+- **quote** : ！引用
+- **quick** : ！快的 急速的
+- **quit** : ！离开 退出 登出
 - **** : ！
 - **** : ！
 - **** : ！
@@ -491,21 +531,21 @@ author: 职影房
 - **** : ！
 
 ## R
+- **rebound** : ！反弹 弹回
+- **red** : ！红色
 - **redesign** : ！重新设计
 - **registered design** : ！已注册外观专利
+- **render** : ！递交 提交 表达
 - **rendering** : ！渲染
 - **research** : ！研究 调查
 - **responsibility** : ！责任 职责 义务
 - **retail** : ！零售
+- **retina** : ！视网膜
+- **retro** : ！复古的 怀旧的
 - **retro design ** : ！复古设计
 - **rhetoric** : ！修辞
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
+- **ribbon** : ！缎带 长条
+- **robot** : ！机器人
 - **** : ！
 - **** : ！
 - **** : ！
@@ -514,31 +554,60 @@ author: 职影房
 - **safety design** : ！安全设计
 - **scenario planning** : ！情景规划 远景规划
 - **scenography** : ！透视画法
+- **screen** : ！屏幕
 - **screen design** : ！屏幕设计 页面分割
+- **script** : ！脚本 手稿
+- **sea** : ！海洋
+- **search** : ！搜索
+- **sector graph** : ！饼图
 - **semantics** : ！语义
 - **service design** : ！服务设计
 - **set design** : ！舞台设计 布景设计
+- **shadow** : ！阴影 投影
+- **shirt** : ！衬衣 衬衫
+- **shop** : ！商店
 - **shop design** : ！商店设计 专柜设计
+- **sign** : ！记号 符号
 - **signature design** : ！签名设计
+- **simple** : ！简单的 简易的
 - **simplicity** : ！简单 朴素
+- **site** : ！地点 位置 站点
 - **sketch** : ！素描 草图 速写
 - **skills** : ！技能 技巧
+- **skull** : ！骷髅 头骨
+- **sky** : ！天空 蓝天
+- **slide ** : ！幻灯片
+- **slider** : ！侧边栏
+- **slider bar** : ！侧边栏
+- **slideshow** : ！幻灯片
 - **smart materials** : ！智能材料
+- **snow** : ！雪花 雪
+- **soccer** : ！足球
 - **social** : ！社会 社交
 - **software** : ！软件
 - **sound design** : ！音效设计
 - **sound effect** : ！音效
+- **space** : ！空间 空白 太空
+- **sport** : ！运动 体育
 - **stage design** : ！舞台设计
+- **stamp** : ！邮票 图章 戳子 盖印
+- **star** : ！星星
+- **store** : ！商店
 - **storyboard** : ！故事情节
 - **strategic design** : ！战略设计
 - **streamline design** : ！流线设计
 - **style** : ！风格 时尚 类型
 - **styling** : ！样式 款式
+- **summer** : ！夏天
+- **sun** : ！太阳
 - **sustainability** : ！持续性 可持续发展
 - **symbol** : ！符号 象征 标志
 - **synergy** : ！协同 配合
 - **synthesis** : ！合成 综合
 - **system** : ！系统 体制
+- **** : ！
+- **** : ！
+- **** : ！
 - **** : ！
 - **** : ！
 - **** : ！
@@ -551,15 +620,26 @@ author: 职影房
 - **teamwork** : ！团队合作
 - **template** : ！模板
 - **testing** : ！测试
+- **text** : ！文本
 - **texture** : ！纹理 质地
+- **theme** : ！主题
 - **theory** : ！理论 学说
+- **time** : ！时光 时间
+- **time line** : ！时间线
 - **title** : ！标题
 - **title page** : ！标题页
 - **tools** : ！工具
+- **top** : ！顶部
 - **trademark** : ！商标 标志
 - **transdisciplinary** : ！跨学科的
+- **travel** : ！旅行 旅游
+- **tree** : ！树
 - **trend** : ！趋势
+- **tv** : ！电视 电视台
+- **type** : ！类型
+- **typeface** : ！字体 字型
 - **typography** : ！排版
+- **** : ！
 - **** : ！
 - **** : ！
 - **** : ！
@@ -572,9 +652,9 @@ author: 职影房
 - **urban design** : ！城市设计
 - **usability** : ！可用性
 - **use** : ！使用
-- **** : ！
-- **** : ！
-- **** : ！
+- **user** : ！用户
+- **user interface** : ！用户界面（UI）
+- **user experience** : ！用户体验（UE）
 - **** : ！
 - **** : ！
 - **** : ！
@@ -588,6 +668,9 @@ author: 职影房
 
 ## V
 - **value** : ！价值 重要性
+- **vector** : ！矢量
+- **video** : ！视频
+- **vintage** : ！复古
 - **virtuality** : ！虚拟
 - **virtual reality** : ！虚拟现实
 - **virtual set** : ！虚拟场景 虚拟布景
@@ -602,24 +685,21 @@ author: 职影房
 - **** : ！
 - **** : ！
 - **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
 
 ## W
+- **wallpaper** : ！壁纸 墙纸
+- **water** : ！水
+- **watercolor** : ！水彩 水彩画
+- **weather** : ！天气 气象
 - **web design** : ！网页设计
+- **website** : ！网站
+- **white** : ！白色
 - **wicked problems** : ！棘手问题
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
-- **** : ！
+- **widget** : ！小程序 小工具
+- **wine** : ！葡萄酒 紫红色 深红色
+- **wireframe** : ！线框图 示意图
+- **woman** : ！女人 女性
+- **wood** : ！木材 木头 木纹
 - **** : ！
 - **** : ！
 - **** : ！
@@ -627,8 +707,8 @@ author: 职影房
 - **** : ！
 
 ## X
-- **** : ！
-- **** : ！
+- **xylophone** : ！木琴
+- **xerox** : ！复印 影印
 - **** : ！
 - **** : ！
 - **** : ！
@@ -647,7 +727,7 @@ author: 职影房
 - **** : ！
 
 ## Y
-- **** : ！
+- **yellow** : ！黄色
 - **** : ！
 - **** : ！
 - **** : ！
@@ -667,8 +747,8 @@ author: 职影房
 - **** : ！
 
 ## Z
-- **** : ！
-- **** : ！
+- **zoo** : ！动物园
+- **zero** : ！零
 - **** : ！
 - **** : ！
 - **** : ！

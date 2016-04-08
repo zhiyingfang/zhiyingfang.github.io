@@ -769,5 +769,8 @@ author: 职影房
 
 
 
+> 转载请注明本文来源：[ALL for PPTer](http://zhiyingfang.github.io/2016/04/07/Bilingual-glossary-in-powerpoint-design/)-职影房
+
+
 
 

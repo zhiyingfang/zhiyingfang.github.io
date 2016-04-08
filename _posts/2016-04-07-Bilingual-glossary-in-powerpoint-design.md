@@ -52,6 +52,7 @@ author: 职影房
 - **bel design** : beautiful design
 - **benchmarking** : 基准测试
 - **bionics** : 仿生学
+- **bitmap** : 位图
 - **black** : 黑色
 - **blog** : 博客
 - **blue** : 蓝色
@@ -76,6 +77,7 @@ author: 职影房
 - **campaign** : ！运动 活动 战役
 - **car design** : ！汽车设计
 - **character design** : ！角色设计 人物设计 人物设定
+- **CMYK** : ！印刷色 (Cyan 青，Magenta 品红，Yellow 黄，blacK 黑)
 - **collaborative design** : ！协同设计
 - **collections** : ！集合 收藏 作品集
 - **commercial** : ！商业的 盈利的
@@ -143,7 +145,9 @@ author: 职影房
 - **display** : ！显示 表现 陈列
 - **drop** : ！落下 滴下 投下
 - **doodle** : ！涂鸦 乱画
+- **dots per inch** : ！每英寸点数（dpi）
 - **download** : ！下载
+- **duotone** : ！双色调
 
 ## E
 - **eco design** : ！生态设计
@@ -160,6 +164,7 @@ author: 职影房
 - **event** : ！事件 活动 通知
 - **event design** : ！活动设计
 - **exhibition** : ！展览
+- **Export** : ！输出 传播
 - **extension** : ！扩展 延伸
 - **eye** : ！眼睛
 
@@ -195,17 +200,18 @@ author: 职影房
 - **garden design** : ！园林设计 园艺设计
 - **gender** : ！性别
 - **geometric** : ！几何图形
-- **gif** : ！动态图像格式
+- **gif** : ！动态图像格式（graphics interchange format）
 - **globalization** : ！全球化
 - **glass** : ！玻璃 玻璃杯
 - **glasses** : ！眼镜
 - **gold** : ！金 黄金 金币 金色的 金属的
 - **good** : ！好的 好
-- **gradient** : ！倾斜的 梯度曲线
+- **gradient** : ！倾斜的 梯度曲
 - **graph** : ！图表 曲线
 - **graphic** : ！图表
 - **graphic design** : ！平面设计
 - **gray** : ！灰色
+- **greyscale** : ！灰度
 - **green** : ！绿色
 - **green design** : ！绿色设计 环保设计 生态设计
 - **grid** : ！格子 网格
@@ -222,6 +228,7 @@ author: 职影房
 - **** : ！
 
 ## H
+- **halftone** : ！中间色
 - **hand** : ！手
 - **handicraft** : ！手工艺品
 - **haptics** : ！触觉
@@ -237,6 +244,7 @@ author: 职影房
 - **homepage** : ！主页 首页
 - **house** : ！房子 屋子
 - **html** : ！超文本链接标记语言
+- **hue** : ！色调 色度
 - **human computer interaction** : ！人机交互（HCI）
 - **human factors** : ！人为因素
 - **** : ！
@@ -274,7 +282,7 @@ author: 职影房
 - **iOS** : ！苹果移动操作系统
 - **iPad** : ！苹果平板电脑
 - **iPhone** : ！苹果手机
-- **** : ！
+- **italics** : ！斜体字
 - **** : ！
 - **** : ！
 - **** : ！
@@ -308,6 +316,8 @@ author: 职影房
 - **** : ！
 
 ## K
+- **kerning** : ！字距调整
+- **keyline** : ！钩线
 - **kids** : ！孩子 儿童
 - **kind** : ！种类
 - **king** : ！国王 君王
@@ -336,6 +346,7 @@ author: 职影房
 - **letter** : ！信 信封 证书 字母
 - **life cycle** : ！生命周期
 - **lifestyle** : ！生活方式 生活态度
+- **ligature** : ！连体字母
 - **light** : ！明亮的 光 灯光 光线
 - **lighting design** : ！照明设计 灯光设计
 - **line** : ！线 线条
@@ -538,11 +549,13 @@ author: 职影房
 - **render** : ！递交 提交 表达
 - **rendering** : ！渲染
 - **research** : ！研究 调查
+- **resolution** : ！分辨率 决议
 - **responsibility** : ！责任 职责 义务
 - **retail** : ！零售
 - **retina** : ！视网膜
 - **retro** : ！复古的 怀旧的
-- **retro design ** : ！复古设计
+- **retro design** : ！复古设计
+- **RGB** : ！三原色
 - **rhetoric** : ！修辞
 - **ribbon** : ！缎带 长条
 - **robot** : ！机器人
@@ -561,12 +574,14 @@ author: 职影房
 - **search** : ！搜索
 - **sector graph** : ！饼图
 - **semantics** : ！语义
+- **serif font** : ！衬线字体
 - **service design** : ！服务设计
 - **set design** : ！舞台设计 布景设计
 - **shadow** : ！阴影 投影
 - **shirt** : ！衬衣 衬衫
 - **shop** : ！商店
 - **shop design** : ！商店设计 专柜设计
+- **spot color** : ！专色 单色印刷
 - **sign** : ！记号 符号
 - **signature design** : ！签名设计
 - **simple** : ！简单的 简易的
@@ -669,6 +684,7 @@ author: 职影房
 ## V
 - **value** : ！价值 重要性
 - **vector** : ！矢量
+- **vector graphic** : ！矢量图形
 - **video** : ！视频
 - **vintage** : ！复古
 - **virtuality** : ！虚拟
@@ -700,7 +716,7 @@ author: 职影房
 - **wireframe** : ！线框图 示意图
 - **woman** : ！女人 女性
 - **wood** : ！木材 木头 木纹
-- **** : ！
+- **WYSIWYG** : ！所见即所得（what you see is what you get）
 - **** : ！
 - **** : ！
 - **** : ！

@@ -630,10 +630,10 @@ author: 职影房
 </style>
 <div id="nav">
 转换为大写字母：<br />
-<input type="text" style="background-color:rgb(248,248,253) width:200px; height:20px; text-transform:uppercase;" /><br />
+<input type="text" style="background-color:rgb(248,248,253) width:200px; height:20px; text-transform:uppercase; border-radius:2px" /><br />
 转换为小写字母：<br />
-<input type="text" style="background-color:rgb(248,248,253) width:200px; height:20px; text-transform:lowercase;" /><br />
+<input type="text" style="background-color:rgb(248,248,253) width:200px; height:20px; text-transform:lowercase;" border-radius:2px" /><br />
 单词首字母大写：<br />
-<input type="text" style="background-color:rgb(248,248,253) width:200px; height:20px; text-transform:capitalize;" /><br />
+<input type="text" style="background-color:rgb(248,248,253) width:200px; height:20px; text-transform:capitalize;" border-radius:2px" /><br />
 <a href="http://fanyi.baidu.com" target="_blank">点击此处转到百度翻译</a>
 </div>

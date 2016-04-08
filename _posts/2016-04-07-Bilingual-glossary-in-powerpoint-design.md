@@ -626,7 +626,7 @@ author: 职影房
 
 
 <style>
-#nav { width:200px; height: 80px; position:fixed;left:4%;top:80% }
+#nav { width:200px; height: 80px; position:fixed;left:4%;top:70% }
 </style>
 <div id="nav">
 转换为大写字母：<br />

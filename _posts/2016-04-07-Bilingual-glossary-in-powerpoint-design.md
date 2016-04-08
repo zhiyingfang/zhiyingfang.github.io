@@ -20,29 +20,50 @@ author: 职影房
 ## A
 - **abstracts** : 摘要
 - **added value** : 附加值 增值价值
+- **adjustments** : 调整
 - **advertisement** : 广告 宣传
 - **aerodynamics** : 空气动力学
 - **aesthetics** : 美学
 - **affordance** : 功能可见性 可视性
+- **after effects** : 后期制作 影视特效
 - **agit prop** : 宣传鼓动
 - **album** : 相册 相簿
+- **align** : 对齐方式
+- **ambient light** : 自然光
+- **analogous colors** : 相似色
+- **analytics** : 分析 数据分析
+- **anchor** : 锚点
 - **android** : 安卓
 - **animal** : 动物
 - **animation** : 动画
 - **anonymous design** : 匿名设计
+- **apex** : 顶点
 - **app** : 应用软件
+- **appearance** : 外观
 - **architectural design** : 建筑设计 结构设计 构架设计
+- **arc** : 圆弧
+- **arc lower** : 下弧形
+- **arc upper** : 上弧形
+- **arm** : 手臂
 - **art** : 艺术
+- **artboard** : 画板
 - **art deco** : 装饰艺术
 - **art direction** : 艺术指导 艺术方向 美术指导 美术设计
 - **artical** : 文章 内容
 - **artifact** : 人工制品 手工艺品
+- **artificial light** : 人造光
 - **art nouveau** : 新艺术派
 - **arts & crafts** : 艺术和工艺
 - **artwork** : 艺术品
+- **aspect ratio** : 长宽比
+- **astigmatism** : 散光
+- **attribute** : 属性
 - **audiovisual design** : 视听设计
+- **autofocus** : 自动对焦 自动聚焦
 - **automobile design** : 汽车设计
 - **avatar** : 头像
+- **average** : 平均
+- **axis** : 轴
 
 ## B
 - **background** : 背景
@@ -443,6 +464,7 @@ author: 职影房
 - **rebound** : 反弹 弹回
 - **red** : 红色
 - **redesign** : 重新设计
+- **reference line** : 参考线
 - **registered design** : 已注册外观专利
 - **render** : 递交 提交 表达
 - **rendering** : 渲染
@@ -518,6 +540,7 @@ author: 职影房
 - **system** : 系统 体制
 
 ## T
+- **tag** : 标签
 - **target group** : 目标群体
 - **tab** : 标签 选项卡
 - **teamwork** : 团队合作

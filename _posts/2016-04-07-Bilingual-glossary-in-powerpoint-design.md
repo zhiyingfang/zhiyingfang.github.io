@@ -67,7 +67,9 @@ author: 职影房
 
 ## B
 - **background** : 背景
+- **backlighting** : 背光
 - **badge** : 徽章 像章
+- **bandwidth** : 带宽
 - **banner** : 横幅 广告条
 - **bar** : 条 栏
 - **beauty** : 美丽
@@ -77,10 +79,15 @@ author: 职影房
 - **bionics** : 仿生学
 - **bitmap** : 位图
 - **black** : 黑色
+- **blackletter type** : 黑体字 粗体字
 - **blog** : 博客
 - **blue** : 蓝色
 - **blueprint** : 蓝图 设计图 计划大纲
+- **blur** : 模糊
+- **body copy** : 正文
+- **bokeh** : 背景虚化
 - **book** : 书
+- **bookmark** : 书签
 - **border** : 边框 边框线
 - **bottom** : 底部
 - **box** : 盒子
@@ -90,11 +97,15 @@ author: 职影房
 - **brief** : 简介 简要 简报 摘要 概要
 - **broadcast design** : 广播设计 广电设计 视频设计
 - **brown** : 棕色 褐色
+- **browser** : 浏览器
 - **brush** : 刷子 笔刷
+- **bug** : 漏洞
 - **building** : 建筑物
 - **business** : 商业 商务
 - **business card** : 名片
 - **button** : 按钮
+- **byline** : 署名
+- **byte** : 字节
 
 ## C
 - **campaign** : 运动 活动 战役

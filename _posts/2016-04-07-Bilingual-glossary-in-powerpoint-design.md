@@ -207,6 +207,7 @@ author: 职影房
 - **ecommerce** : 电子商务
 - **edit** : 编辑
 - **education** : 教育
+- **ellipse** : 椭圆
 - **email** : 电子邮箱
 - **engineering design** : 工程设计
 - **environmental design** : 环境设计
@@ -217,7 +218,7 @@ author: 职影房
 - **event** : 事件 活动 通知
 - **event design** : 活动设计
 - **exhibition** : 展览
-- **Export** : 输出 传播
+- **export** : 输出 传播
 - **extension** : 扩展 延伸
 - **eye** : 眼睛
 

@@ -108,9 +108,14 @@ author: 职影房
 - **byte** : 字节
 
 ## C
+- **calligraphy** : 书法
+- **callout** : 标注
 - **campaign** : 运动 活动 战役
 - **car design** : 汽车设计
+- **centimeter** : 厘米
+- **channel** : 通道
 - **character design** : 角色设计 人物设计 人物设定
+- **character styles** : 字符样式
 - **CMYK** : 印刷色 (Cyan 青，Magenta 品红，Yellow 黄，blacK 黑)
 - **collate** : 核对 整理
 - **collaborative design** : 协同设计
@@ -139,12 +144,17 @@ author: 职影房
 - **color** : 颜色
 - **colorful** : 多彩的
 - **comic** : 滑稽的 搞笑的
+- **complementary colors** : 互补色
+- **compound path** : 复合路径
+- **concatenate** : 连接
+- **contour** : 外形 轮廓
+- **contrast** : 对比 对照 差异
 - **coordination** :  协调 调和 对等 同等
 - **copy** :  复制
 - **copyright** :  版权 著作权
 - **corporate culture** :  企业文化
-- **cover** : 封面
 - **corporate identity** : 企业形象
+- **cover** : 封面
 - **craft** : 工艺
 - **creative** : 有创意的 创新的
 - **creativity** : 创造力
@@ -154,6 +164,7 @@ author: 职影房
 - **critique** : 批评 批判 讨论
 - **cross-cultural design** : 跨文化设计
 - **css** : 层叠样式表
+- **curves** : 曲线 弧线
 - **customization** : 定制
 - **cute** : 可爱的 漂亮的 机灵的
 - **cut** : 分割 切开
@@ -163,9 +174,12 @@ author: 职影房
 - **darwing** : 绘画
 - **dashboard** : 仪表盘 控制盘
 - **data** : 资料 数据
+- **database** : 数据库 信息库
 - **deadline** : 截止日期
 - **debut** : 初次 处女秀
 - **deconstruction** : 解构 解构主义
+- **density** : 密度
+- **depth of field** : 景深
 - **design** : 设计
 - **design associations** : 设计协会
 - **design awards** : 设计奖项
@@ -176,8 +190,10 @@ author: 职影房
 - **design planning** : 设计规划 设计计划
 - **design process** : 设计阶段 设计过程 设计流程
 - **design theory** : 设计理论
+- **difference** : 差异 差别
 - **digital** : 数字 数码
 - **digital design** : 数字设计 数字化设计 数码设计 数位设计 电子设计
+- **direct selection tool** : 路径选择工具
 - **display** : 显示 表现 陈列
 - **drop** : 落下 滴下 投下
 - **drop cap** : 首字下沉

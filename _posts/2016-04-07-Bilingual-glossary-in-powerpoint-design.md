@@ -226,6 +226,7 @@ author: 职影房
 - **face** : 脸 表情 头像
 - **fake** : 假的
 - **fashion** : 时尚 潮流
+- **favicon** : 图标
 - **feasibility studies** : 可行性研究
 - **film** : 电影
 - **fire** : 火
@@ -644,6 +645,13 @@ author: 职影房
 ## Z
 - **zoo** : 动物园
 - **zero** : 零
+
+## 扩展阅读
+- 平面设计词汇表：[Comprehensive Graphic Design Glossary](https://gearside.com/resources/glossary)
+- 平面设计术语表：[Terminology Series: Graphic Design Glossary](http://www.malanenewman.com/glossary_graphic_design_terminology.html)
+- 二维动画及卡通术语表：[Terminology Series: (2D) Animation and Cartoon Glossary](http://www.malanenewman.com/glossary_animation_cartooning.html)
+- 计算机及网络术语表：[Terminology Series: Computer & Internet Glossary](http://www.malanenewman.com/glossary_computer_internet_terminology.html)
+
 
 
 

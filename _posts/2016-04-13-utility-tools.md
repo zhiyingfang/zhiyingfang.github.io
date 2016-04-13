@@ -21,7 +21,7 @@ author: 职影房
 - [摩尔斯码加解密](http://cmorse.supfree.net)：中文与摩尔斯码互相转换
 - [时间戳转换](http://timestamp.supfree.net)：Unix时间戳与北京时间互相转换
 - [在线秒表](http://stopwatch.supfree.net/stopwatch.html)
-- []()
+- []()<embed src="http://daxie.supfree.net/daxie.swf" width="300" height="220" />
 - []()
 - []()
 - []()

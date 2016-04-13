@@ -8,7 +8,7 @@ permalink: /2016/04/13/utility-tools/calculator
 <title>计算器</title>
 <style type="text/css"><!--
 * {margin:10 0px;padding:0px;font-size:12px;color:#333;border:0px;font-family:"microsoft yahei",Helvetica,sans-serif;}
-body {overflow:hidden;}
+body {line-height:200%}
 label {color:#FFF;}
 #calculator_base,#calculator_complete {position:relative;margin:0 auto;padding-top:10px;width:540px;}
 #calculator_base_cup,#calculator_complete_cup {padding-bottom:10px;}

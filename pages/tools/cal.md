@@ -1,5 +1,5 @@
 ---
-permalink: /2016/04/13/utility-tools/cal.html
+permalink: /2016/04/13/utility-tools/cal
 ---
 
 <embed src="/assets/tools/jisuanqi.swf" />

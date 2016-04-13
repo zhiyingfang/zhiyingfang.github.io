@@ -1,7 +1,7 @@
 ---
 permalink: /2016/04/13/utility-tools/calculator
 ---
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
@@ -18,7 +18,7 @@ label {color:#FFF;}
 #base_table_main td {height:53px;}
 #complete_table_main td {height:40px;*height:38px;}
 #complete_table_more td {height:40px;}
-.calculator_table {width:100%;}
+.calculator_table {width:90%;}
 .calculator_table td {text-align:center;padding:0px;margin:0px;}
 .topRowCss td {height:30px;*height:32px;color:#FFF;padding-top:3px;}
 #baseEprsPanel,#completeEprsPanel {text-align:right;}

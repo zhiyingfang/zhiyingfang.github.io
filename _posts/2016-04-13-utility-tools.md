@@ -15,7 +15,7 @@ author: 职影房
 
 > 说明：配合 **CTRL+F** 或 **F3** 可进行工具快速搜索
 
-- [在线计算器](http://cal.supfree.net/cal.html)
+- [在线计算器](http://zhiyingfang.github.io/2016/04/13/utility-tools/cal.html)
 - [二维码生成器](http://www.topscan.com)：可在线生成矢量二维码
 - [专业词典查询](http://zhuanye.supfree.net)：多专业英汉互译词典
 - [摩尔斯码加解密](http://cmorse.supfree.net)：中文与摩尔斯码互相转换
@@ -27,7 +27,6 @@ author: 职影房
 - [在线字数统计](http://zishu.supfree.net)：可分别统计出中英文字符、标点符号的个数以及行数
 - [下载地址加解密](http://xiazaidizhi.911cha.com)：迅雷、旋风、快车下载地址加解密
 - [进制转换工具](http://tool.httpcn.com/Tool/JinZhiZhuanHuan.html)：64位以下进制互转工具
-<embed src="/assets/tools/jisuanqi.swf" width="600" />
 - []()
 - []()
 - []()

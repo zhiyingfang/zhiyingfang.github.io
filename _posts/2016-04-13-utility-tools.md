@@ -17,14 +17,8 @@ author: 职影房
 
 ## 计算器
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title>计算器</title>
+
 <style type="text/css"><!--
-* {margin:10 0px;padding:0px;font-size:12px;color:#333;border:0px;font-family:"microsoft yahei",Helvetica,sans-serif;}
-body {overflow:hidden;}
 label {color:#FFF;}
 #calculator_base,#calculator_complete {position:relative;margin:0 auto;padding-top:10px;width:540px;}
 #calculator_base_cup,#calculator_complete_cup {padding-bottom:10px;}
@@ -1598,5 +1592,4 @@ var calculator = {
 </script>
 <script type="text/javascript" src="/assets/tools/js/unitpngfix.js"></script>
 <script type="text/javascript" src="/assets/tools/js/bdjs_client-1.0.js"></script>
-</body>
-</html>
+

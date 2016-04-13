@@ -15,7 +15,7 @@ author: 职影房
 
 > 说明：配合 **CTRL+F** 或 **F3** 可进行工具快速搜索
 
-- [在线计算器](http://zhiyingfang.github.io/2016/04/13/utility-tools/cal)
+- [在线计算器](http://zhiyingfang.github.io/2016/04/13/utility-tools/cal)：科学计算器
 - [二维码生成器](http://www.topscan.com)：可在线生成矢量二维码
 - [专业词典查询](http://zhuanye.supfree.net)：多专业英汉互译词典
 - [摩尔斯码加解密](http://cmorse.supfree.net)：中文与摩尔斯码互相转换
@@ -28,7 +28,7 @@ author: 职影房
 - [下载地址加解密](http://xiazaidizhi.911cha.com)：迅雷、旋风、快车下载地址加解密
 - [进制转换工具](http://tool.httpcn.com/Tool/JinZhiZhuanHuan.html)：64位以下进制互转工具
 - [多功能单位换算](http://zhiyingfang.github.io/2016/04/13/utility-tools/danweihuansuan)：常见单位类型换算
-- []()
+- [365万年历](http://baidu365.duapp.com/wnl.html)：在线万年历
 - []()
 - []()
 - []()

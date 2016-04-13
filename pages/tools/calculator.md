@@ -12,38 +12,38 @@ body {overflow:hidden;}
 label {color:#FFF;}
 #calculator_base,#calculator_complete {position:relative;margin:0 auto;padding-top:10px;width:540px;}
 #calculator_base_cup,#calculator_complete_cup {padding-bottom:10px;}
-#calculator_base_container,#calculator_complete_container {width:437px;height:448px;margin:0px 10px;background:url(/assets/tools/images/siverbg.png) no-repeat 0 0;}
-#calculator_complete_container {height:578px;background-image:url(/assets/tools/images/siverbg2.png);}
+#calculator_base_container,#calculator_complete_container {width:437px;height:448px;margin:0px 10px;background:url(images/siverbg.png) no-repeat 0 0;}
+#calculator_complete_container {height:578px;background-image:url(images/siverbg2.png);}
 /* table */
 #base_table_main td {height:53px;}
 #complete_table_main td {height:40px;*height:38px;}
 #complete_table_more td {height:40px;}
-.calculator_table {width:100%;height:80%}
+.calculator_table {width:100%;}
 .calculator_table td {text-align:center;padding:0px;margin:0px;}
 .topRowCss td {height:30px;*height:32px;color:#FFF;padding-top:3px;}
 #baseEprsPanel,#completeEprsPanel {text-align:right;}
 /* button */
-.baseBtnCommonCss {width:94px;height:44px;background:url(/assets/tools/images/d1btn.gif) no-repeat 0 -44px;font-size:14px;color:#FFF;}
-.baseBtnCss1 {background-image:url(/assets/tools/images/d0btn.gif);}
-.baseBtnCss2 {background-image:url(/assets/tools/images/d2btn.gif);font-size:20px;}
-.baseBtnCss3 {background-image:url(/assets/tools/images/d3btn.gif);font-size:16px;}
-.baseBtnCss4 {background-image:url(/assets/tools/images/d4btn.gif);font-size:20px;}
-.completeBtnCommonCss {width:64px;height:34px;border:0px;background:url(/assets/tools/images/e0btn.gif) no-repeat 0 -34px;font-size:14px;color:#FFF;}
-.completeBtnCss1 {background-image:url(/assets/tools/images/e1btn.gif);}
-.completeBtnCss2 {background-image:url(/assets/tools/images/e3btn.gif);}
-.completeBtnCss3 {background-image:url(/assets/tools/images/e2btn.gif);font-size:18px;}
-.completeBtnCss4 {background-image:url(/assets/tools/images/e4btn.gif);font-size:18px;}
-.completeBtnCss5 {width:74px;height:34px;background:url(/assets/tools/images/e5btn.jpg) no-repeat 0 -34px;}
+.baseBtnCommonCss {width:94px;height:44px;background:url(images/d1btn.gif) no-repeat 0 -44px;font-size:14px;color:#FFF;}
+.baseBtnCss1 {background-image:url(images/d0btn.gif);}
+.baseBtnCss2 {background-image:url(images/d2btn.gif);font-size:20px;}
+.baseBtnCss3 {background-image:url(images/d3btn.gif);font-size:16px;}
+.baseBtnCss4 {background-image:url(images/d4btn.gif);font-size:20px;}
+.completeBtnCommonCss {width:64px;height:34px;border:0px;background:url(images/e0btn.gif) no-repeat 0 -34px;font-size:14px;color:#FFF;}
+.completeBtnCss1 {background-image:url(images/e1btn.gif);}
+.completeBtnCss2 {background-image:url(images/e3btn.gif);}
+.completeBtnCss3 {background-image:url(images/e2btn.gif);font-size:18px;}
+.completeBtnCss4 {background-image:url(images/e4btn.gif);font-size:18px;}
+.completeBtnCss5 {width:74px;height:34px;background:url(images/e5btn.jpg) no-repeat 0 -34px;}
 /* common */
 .displayCss {width:390px;height:56px;text-align:right;font-size:40px;padding:0 5px;
 	*line-height:140%; /* for ie */}
-.helperBox {width:42px;height:27px;color:#FFF;text-align:center;background-color:#CCC;background:url(/assets/tools/images/num.gif) no-repeat;margin:0px;padding:0px;
+.helperBox {width:42px;height:27px;color:#FFF;text-align:center;background-color:#CCC;background:url(images/num.gif) no-repeat;margin:0px;padding:0px;
 	*line-height:200%; /* for ie */}
-.calculator_tab {position:absolute;left:457px;top:10px;height:62px;width:62px;background:url(/assets/tools/images/cal_tab.gif) no-repeat;}
+.calculator_tab {position:absolute;left:457px;top:10px;height:62px;width:62px;background:url(images/cal_tab.gif) no-repeat;}
 .calculator_tab ul {list-style:none;width:100%;height:100%;margin:0px;padding:0px;}
 .calculator_tab ul li {height:31px;width:100%;color:#FFF;text-align:center;cursor:pointer;line-height:240%;}
-.selTabTop {background:url(/assets/tools/images/cal_tab_top.gif) no-repeat;}
-.selTabBottom {background:url(/assets/tools/images/cal_tab_bottom.gif) no-repeat;}
+.selTabTop {background:url(images/cal_tab_top.gif) no-repeat;}
+.selTabBottom {background:url(images/cal_tab_bottom.gif) no-repeat;}
 --></style>
 <script language="javascript">
 <!--//
@@ -487,47 +487,47 @@ function FloatDiv(arg1,arg2){
 		document.calc.ke.disabled = (carry <= 10)
 		document.calc.kf.disabled = (carry <= 10)
 		document.calc.sin.style.color = (carry != 10)?"#999":"#fff";
-			document.calc.sin.style.background = (carry != 10) ? "url(/assets/tools/images/e5btn-dis.png) no-repeat 0 0px" : "url(/assets/tools/images/e5btn.jpg) no-repeat 0 -34px";
+			document.calc.sin.style.background = (carry != 10) ? "url(images/e5btn-dis.png) no-repeat 0 0px" : "url(images/e5btn.jpg) no-repeat 0 -34px";
 		document.calc.cos.style.color = (carry != 10)?"#aca899":"#fff";
-			document.calc.cos.style.background = (carry != 10) ? "url(/assets/tools/images/e5btn-dis.png) no-repeat 0 0px" : "url(/assets/tools/images/e5btn.jpg) no-repeat 0 -34px";
+			document.calc.cos.style.background = (carry != 10) ? "url(images/e5btn-dis.png) no-repeat 0 0px" : "url(images/e5btn.jpg) no-repeat 0 -34px";
 		document.calc.tan.style.color = (carry != 10)?"#aca899":"#fff";
-			document.calc.tan.style.background = (carry != 10) ? "url(/assets/tools/images/e5btn-dis.png) no-repeat 0 0px" : "url(/assets/tools/images/e5btn.jpg) no-repeat 0 -34px";
+			document.calc.tan.style.background = (carry != 10) ? "url(images/e5btn-dis.png) no-repeat 0 0px" : "url(images/e5btn.jpg) no-repeat 0 -34px";
 		document.calc.bt.style.color = (carry != 10)?"#aca899":"#fff";
-			document.calc.bt.style.background = (carry != 10) ? "url(/assets/tools/images/e5btn-dis.png) no-repeat 0 0px" : "url(/assets/tools/images/e5btn.jpg) no-repeat 0 -34px";
+			document.calc.bt.style.background = (carry != 10) ? "url(images/e5btn-dis.png) no-repeat 0 0px" : "url(images/e5btn.jpg) no-repeat 0 -34px";
 		document.calc.pi.style.color = (carry != 10)?"#aca899":"#fff";
-			document.calc.pi.style.background = (carry != 10) ? "url(/assets/tools/images/e5btn-dis.png) no-repeat 0 0px" : "url(/assets/tools/images/e5btn.jpg) no-repeat 0 -34px";
+			document.calc.pi.style.background = (carry != 10) ? "url(images/e5btn-dis.png) no-repeat 0 0px" : "url(images/e5btn.jpg) no-repeat 0 -34px";
 		document.calc.e.style.color = (carry != 10)?"#aca899":"#fff";
-			document.calc.e.style.background = (carry != 10) ? "url(/assets/tools/images/e5btn-dis.png) no-repeat 0 0px" : "url(/assets/tools/images/e5btn.jpg) no-repeat 0 -34px";
+			document.calc.e.style.background = (carry != 10) ? "url(images/e5btn-dis.png) no-repeat 0 0px" : "url(images/e5btn.jpg) no-repeat 0 -34px";
 		document.calc.kp.style.color = (carry != 10)?"#aca899":"#fff";
-			document.calc.kp.style.background = (carry != 10) ? "url(/assets/tools/images/e3btn-dis.png) no-repeat 0 0px" : "url(/assets/tools/images/e3btn.gif) no-repeat 0 -34px";
+			document.calc.kp.style.background = (carry != 10) ? "url(images/e3btn-dis.png) no-repeat 0 0px" : "url(images/e3btn.gif) no-repeat 0 -34px";
 		document.calc.k2.style.color = (carry <= 2)?"#aca899":"#fff";
-			document.calc.k2.style.background = (carry <= 2) ? "url(/assets/tools/images/e3btn-dis.png) no-repeat 0 0px" : "url(/assets/tools/images/e3btn.gif) no-repeat 0 -34px";
+			document.calc.k2.style.background = (carry <= 2) ? "url(images/e3btn-dis.png) no-repeat 0 0px" : "url(images/e3btn.gif) no-repeat 0 -34px";
 		document.calc.k3.style.color = (carry <= 2)?"#aca899":"#fff";
-			document.calc.k3.style.background = (carry <= 2) ? "url(/assets/tools/images/e3btn-dis.png) no-repeat 0 0px" : "url(/assets/tools/images/e3btn.gif) no-repeat 0 -34px";
+			document.calc.k3.style.background = (carry <= 2) ? "url(images/e3btn-dis.png) no-repeat 0 0px" : "url(images/e3btn.gif) no-repeat 0 -34px";
 		document.calc.k4.style.color = (carry <= 2)?"#aca899":"#fff";
-			document.calc.k4.style.background = (carry <= 2) ? "url(/assets/tools/images/e3btn-dis.png) no-repeat 0 0px" : "url(/assets/tools/images/e3btn.gif) no-repeat 0 -34px";
+			document.calc.k4.style.background = (carry <= 2) ? "url(images/e3btn-dis.png) no-repeat 0 0px" : "url(images/e3btn.gif) no-repeat 0 -34px";
 		document.calc.k5.style.color = (carry <= 2)?"#aca899":"#fff";
-			document.calc.k5.style.background = (carry <= 2) ? "url(/assets/tools/images/e3btn-dis.png) no-repeat 0 0px" : "url(/assets/tools/images/e3btn.gif) no-repeat 0 -34px";
+			document.calc.k5.style.background = (carry <= 2) ? "url(images/e3btn-dis.png) no-repeat 0 0px" : "url(images/e3btn.gif) no-repeat 0 -34px";
 		document.calc.k6.style.color = (carry <= 2)?"#aca899":"#fff";
-			document.calc.k6.style.background = (carry <= 2) ? "url(/assets/tools/images/e3btn-dis.png) no-repeat 0 0px" : "url(/assets/tools/images/e3btn.gif) no-repeat 0 -34px";
+			document.calc.k6.style.background = (carry <= 2) ? "url(images/e3btn-dis.png) no-repeat 0 0px" : "url(images/e3btn.gif) no-repeat 0 -34px";
 		document.calc.k7.style.color = (carry <= 2)?"#aca899":"#fff";
-			document.calc.k7.style.background = (carry <= 2) ? "url(/assets/tools/images/e3btn-dis.png) no-repeat 0 0px" : "url(/assets/tools/images/e3btn.gif) no-repeat 0 -34px";
+			document.calc.k7.style.background = (carry <= 2) ? "url(images/e3btn-dis.png) no-repeat 0 0px" : "url(images/e3btn.gif) no-repeat 0 -34px";
 		document.calc.k8.style.color = (carry <= 8)?"#aca899":"#fff";
-			document.calc.k8.style.background = (carry <= 8) ? "url(/assets/tools/images/e3btn-dis.png) no-repeat 0 0px" : "url(/assets/tools/images/e3btn.gif) no-repeat 0 -34px";
+			document.calc.k8.style.background = (carry <= 8) ? "url(images/e3btn-dis.png) no-repeat 0 0px" : "url(images/e3btn.gif) no-repeat 0 -34px";
 		document.calc.k9.style.color = (carry <= 8)?"#aca899":"#fff";
-			document.calc.k9.style.background = (carry <= 8) ? "url(/assets/tools/images/e3btn-dis.gif) no-repeat 0 0px" : "url(/assets/tools/images/e3btn.gif) no-repeat 0 -34px";
+			document.calc.k9.style.background = (carry <= 8) ? "url(images/e3btn-dis.gif) no-repeat 0 0px" : "url(images/e3btn.gif) no-repeat 0 -34px";
 		document.calc.ka.style.color = (carry <= 10)?"#aca899":"#fff";
-			document.calc.ka.style.background = (carry <= 10) ? "url(/assets/tools/images/e3btn-dis.gif) no-repeat 0 0px" : "url(/assets/tools/images/e0btn.gif) no-repeat 0 -34px";
+			document.calc.ka.style.background = (carry <= 10) ? "url(images/e3btn-dis.gif) no-repeat 0 0px" : "url(images/e0btn.gif) no-repeat 0 -34px";
 		document.calc.kb.style.color = (carry <= 10)?"#aca899":"#fff";
-			document.calc.kb.style.background = (carry <= 10) ? "url(/assets/tools/images/e3btn-dis.gif) no-repeat 0 0px" : "url(/assets/tools/images/e0btn.gif) no-repeat 0 -34px";
+			document.calc.kb.style.background = (carry <= 10) ? "url(images/e3btn-dis.gif) no-repeat 0 0px" : "url(images/e0btn.gif) no-repeat 0 -34px";
 		document.calc.kc.style.color = (carry <= 10)?"#aca899":"#fff";
-			document.calc.kc.style.background = (carry <= 10) ? "url(/assets/tools/images/e3btn-dis.gif) no-repeat 0 0px" : "url(/assets/tools/images/e0btn.gif) no-repeat 0 -34px";
+			document.calc.kc.style.background = (carry <= 10) ? "url(images/e3btn-dis.gif) no-repeat 0 0px" : "url(images/e0btn.gif) no-repeat 0 -34px";
 		document.calc.kd.style.color = (carry <= 10)?"#aca899":"#fff";
-			document.calc.kd.style.background = (carry <= 10) ? "url(/assets/tools/images/e3btn-dis.gif) no-repeat 0 0px" : "url(/assets/tools/images/e0btn.gif) no-repeat 0 -34px";
+			document.calc.kd.style.background = (carry <= 10) ? "url(images/e3btn-dis.gif) no-repeat 0 0px" : "url(images/e0btn.gif) no-repeat 0 -34px";
 		document.calc.ke.style.color = (carry <= 10)?"#aca899":"#fff";
-			document.calc.ke.style.background = (carry <= 10) ? "url(/assets/tools/images/e3btn-dis.gif) no-repeat 0 0px" : "url(/assets/tools/images/e0btn.gif) no-repeat 0 -34px";
+			document.calc.ke.style.background = (carry <= 10) ? "url(images/e3btn-dis.gif) no-repeat 0 0px" : "url(images/e0btn.gif) no-repeat 0 -34px";
 		document.calc.kf.style.color = (carry <= 10)?"#aca899":"#fff";
-			document.calc.kf.style.background = (carry <= 10) ? "url(/assets/tools/images/e3btn-dis.gif) no-repeat 0 0px" : "url(/assets/tools/images/e0btn.gif) no-repeat 0 -34px";
+			document.calc.kf.style.background = (carry <= 10) ? "url(images/e3btn-dis.gif) no-repeat 0 0px" : "url(images/e0btn.gif) no-repeat 0 -34px";
 		document.calc.sin.style.cursor = (carry != 10)?"default":"pointer";
 		document.calc.cos.style.cursor = (carry != 10)?"default":"pointer";
 		document.calc.tan.style.cursor = (carry != 10)?"default":"pointer";
@@ -1219,8 +1219,8 @@ var calculator = {
 <div id="calculator_base_cup">
 <div id="calculator_base_container">
 <table id="base_table_top" class="calculator_table" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed;height:120px;">
-<tr background:transparent><td colspan="3" style="height:17px;*height:15px;"></td></tr>
-<tr background:transparent>
+<tr><td colspan="3" style="height:17px;*height:15px;"></td></tr>
+<tr>
 <td colspan="3" style="height:60px;">
 <input type="text" id="resultIpt" readonly="readonly" class="displayCss" width="390" value="0" size="17" maxlength="17" style="height:53px;*height:56px;"/>
 </td>
@@ -1506,7 +1506,7 @@ var calculator = {
 			c_get("calculator_complete").style.display = "block";
 			c_get("calculator_complete").style.position = "relative";
 			c_get("calculator_complete_container").style.height = "578px";
-			//sc_get("calculator_complete_container").style.backgroundImage = "url(/assets/tools/images/siverbg2.png)";
+			//sc_get("calculator_complete_container").style.backgroundImage = "url(images/siverbg2.png)";
 			bdjs.setHeight(585);
 		}else{
 			c_get("calculator_base").style.display = "block";
@@ -1558,29 +1558,29 @@ var calculator = {
 		var linkArgs = location.search;
 		if(linkArgs.indexOf("canvas_pos=search") != -1){ // yulan
 			document.getElementById("calculator_base").style.width = "540px";
-			//document.getElementById("calculator_base").style.background = "#dba869 url(/assets/tools/images/woodbg.gif) repeat-y 0 0";
+			//document.getElementById("calculator_base").style.background = "#dba869 url(images/woodbg.gif) repeat-y 0 0";
 			document.getElementById("calculator_tabs").style.left = "457px";
 			document.getElementById("calculator_base_container").style.margin = "0px 10px";
 			
 			document.getElementById("calculator_complete").style.width = "540px";
-			//document.getElementById("calculator_complete").style.background = "#dba869 url(/assets/tools/images/woodbg.gif) repeat-y 0 0";
+			//document.getElementById("calculator_complete").style.background = "#dba869 url(images/woodbg.gif) repeat-y 0 0";
 			document.getElementById("calculator_tabs2").style.left = "457px";
 			document.getElementById("calculator_complete_container").style.margin = "0px 10px";
 		}else{
 			document.getElementById("calculator_base").style.width = "800px";
-			//document.getElementById("calculator_base").style.background = "#dba869 url(/assets/tools/images/woodbgb.jpg) repeat-y 0 0";
+			//document.getElementById("calculator_base").style.background = "#dba869 url(images/woodbgb.jpg) repeat-y 0 0";
 			document.getElementById("calculator_tabs").style.left = "450px";
 			document.getElementById("calculator_base_container").style.margin = "0";
 			
 			document.getElementById("calculator_complete").style.width = "800px";
-			//document.getElementById("calculator_complete").style.background = "#dba869 url(/assets/tools/images/woodbgb.jpg) repeat-y 0 0";
+			//document.getElementById("calculator_complete").style.background = "#dba869 url(images/woodbgb.jpg) repeat-y 0 0";
 			document.getElementById("calculator_tabs2").style.left = "450px";
 			document.getElementById("calculator_complete_container").style.margin = "0";
 		}
 	}
 //-->
 </script>
-<script type="text/javascript" src="/assets/tools/js/unitpngfix.js"></script>
-<script type="text/javascript" src="/assets/tools/js/bdjs_client-1.0.js"></script>
+<script type="text/javascript" src="js/unitpngfix.js"></script>
+<script type="text/javascript" src="js/bdjs_client-1.0.js"></script>
 </body>
 </html>

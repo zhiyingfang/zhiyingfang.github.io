@@ -20,8 +20,8 @@ author: 职影房
 - [专业词典查询](http://zhuanye.supfree.net)：多专业英汉互译词典
 - [摩尔斯码加解密](http://cmorse.supfree.net)：中文与摩尔斯码互相转换
 - [时间戳转换](http://timestamp.supfree.net)：Unix时间戳与北京时间互相转换
-- [在线秒表](http://stopwatch.supfree.net/stopwatch.html)
-- []()<embed src="https://github.com/zhiyingfang/files/blob/master/tools/jinedaxie.swf" width="300" height="220" />
+- [在线秒表](http://stopwatch.supfree.net/stopwatch.html)：在线可计数秒表
+- [金额大写转换](http://daxie.supfree.net/daxie.swf)：将数字转换为大写金额
 - []()
 - []()
 - []()

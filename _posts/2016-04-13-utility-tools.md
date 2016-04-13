@@ -1224,15 +1224,14 @@ var calculator = {
 
 //-->
 </script>
-</head>
 <body topmargin="0" leftmargin="0" style="BACKGROUND-COLOR: transparent">
  
 <div id="calculator_base">
 <div id="calculator_base_cup">
 <div id="calculator_base_container">
 <table id="base_table_top" class="calculator_table" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed;height:120px;">
-<tr><td colspan="3" style="height:17px;*height:15px;"></td></tr>
-<tr>
+<tr background:transparent><td colspan="3" style="height:17px;*height:15px;"></td></tr>
+<tr background:transparent>
 <td colspan="3" style="height:60px;">
 <input type="text" id="resultIpt" readonly="readonly" class="displayCss" width="390" value="0" size="17" maxlength="17" style="height:53px;*height:56px;"/>
 </td>

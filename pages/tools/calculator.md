@@ -36,12 +36,12 @@ label {color:#FFF;}
 .completeBtnCss5 {width:74px;height:34px;background:url(/assets/tools/images/e5btn.jpg) no-repeat 0 -34px;}
 /* common */
 .displayCss {width:390px;height:56px;text-align:right;font-size:40px;padding:0 5px;
-	*line-height:140%; /* for ie */}
+	*line-height:100%; /* for ie */}
 .helperBox {width:42px;height:27px;color:#FFF;text-align:center;background-color:#CCC;background:url(/assets/tools/images/num.gif) no-repeat;margin:0px;padding:0px;
-	*line-height:200%; /* for ie */}
+	*line-height:100%; /* for ie */}
 .calculator_tab {position:absolute;left:457px;top:10px;height:62px;width:62px;background:url(/assets/tools/images/cal_tab.gif) no-repeat;}
 .calculator_tab ul {list-style:none;width:100%;height:100%;margin:0px;padding:0px;}
-.calculator_tab ul li {height:31px;width:100%;color:#FFF;text-align:center;cursor:pointer;line-height:240%;}
+.calculator_tab ul li {height:31px;width:100%;color:#FFF;text-align:center;cursor:pointer;line-height:100%;}
 .selTabTop {background:url(/assets/tools/images/cal_tab_top.gif) no-repeat;}
 .selTabBottom {background:url(/assets/tools/images/cal_tab_bottom.gif) no-repeat;}
 --></style>

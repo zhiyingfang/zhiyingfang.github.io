@@ -18,7 +18,7 @@ label {color:#FFF;}
 #base_table_main td {height:53px;}
 #complete_table_main td {height:40px;*height:38px;}
 #complete_table_more td {height:40px;}
-.calculator_table {width:90%;}
+.calculator_table {width:100%;height:90%}
 .calculator_table td {text-align:center;padding:0px;margin:0px;}
 .topRowCss td {height:30px;*height:32px;color:#FFF;padding-top:3px;}
 #baseEprsPanel,#completeEprsPanel {text-align:right;}

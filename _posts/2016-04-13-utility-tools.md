@@ -27,7 +27,7 @@ author: 职影房
 - [在线字数统计](http://zishu.supfree.net)：可分别统计出中英文字符、标点符号的个数以及行数
 - [下载地址加解密](http://xiazaidizhi.911cha.com)：迅雷、旋风、快车下载地址加解密
 - [进制转换工具](http://tool.httpcn.com/Tool/JinZhiZhuanHuan.html)：64位以下进制互转工具
-- []()
+<embed src="/assets/tools/jisuanqi.swf" width="600" />
 - []()
 - []()
 - []()

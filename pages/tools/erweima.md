@@ -74,11 +74,15 @@ permalink: /2016/04/13/utility-tools/erweima
 		<input id="label" type="text" value="All for PPTer" />
 		<label for="font">字体名字</label>
 		<select id="font" type="text">
-			<option value="Ubuntu">Ubuntu</option>
 			<option value="SimSun">宋体</option>
 			<option value="Microsoft YaHei" selected="selected">微软雅黑</option>
 			<option value="SimHei">黑体</option>
 			<option value="KaiTi">楷体</option>
+			<option value="LiSu">隶书</option>
+			<option value="YouYuan">幼圆</option>
+			<option value="Verdana">Verdana</option>
+			<option value="Times New Roman">Times New Roman</option>
+			<option value="Impact">Impact</option>
 		</select>
 		
 		<label for="fontcolor">字体颜色:</label>

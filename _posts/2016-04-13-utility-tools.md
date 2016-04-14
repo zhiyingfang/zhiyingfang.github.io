@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  实用工具合集
 date:   2016-04-13
@@ -16,7 +16,7 @@ author: 职影房
 > 说明：配合 **CTRL+F** 或 **F3** 可进行工具快速搜索
 
 - [在线计算器](http://zhiyingfang.github.io/2016/04/13/utility-tools/cal)：科学计算器
-- [二维码生成器](http://www.topscan.com)：可在线生成矢量二维码
+- [二维码生成器](http://zhiyingfang.github.io/2016/04/13/utility-tools/erweima)：在线生成二维码
 - [专业词典查询](http://zhuanye.supfree.net)：多专业英汉互译词典
 - [摩尔斯码加解密](http://cmorse.supfree.net)：中文与摩尔斯码互相转换
 - [时间戳转换](http://timestamp.supfree.net)：Unix时间戳与北京时间互相转换

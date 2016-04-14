@@ -71,7 +71,7 @@ permalink: /2016/04/13/utility-tools/erweima
 		<input id="mposy" type="range" value="50" min="0" max="100" step="1" />
 		<hr/>
 		<label for="label">标签</label>
-		<input id="label" type="text" value="3464.com" />
+		<input id="label" type="text" value="All for PPTer" />
 		<label for="font">字体名字</label>
 		<input id="font" type="text" value="Ubuntu" />
 		<label for="fontcolor">字体颜色:</label>

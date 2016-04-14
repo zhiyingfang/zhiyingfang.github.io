@@ -30,7 +30,7 @@ author: 职影房
 - [多功能单位换算](http://zhiyingfang.github.io/2016/04/13/utility-tools/danweihuansuan)：常见单位类型换算
 - [365万年历](http://baidu365.duapp.com/wnl.html)：在线万年历
 - [字体识别](http://www.qiuziti.com)：求字体，在线字体识别
-- []()
+- [移动跨屏模拟](http://zhiyingfang.github.io/2016/04/13/utility-tools/shipei)：模拟网站在移动端的效果
 - []()
 - [百度识图](http://image.baidu.com/?fr=shitu)：百度以图搜图
 - 在线图片特效：[Alloyphoto 简约版](http://zhiyingfang.github.io/2016/04/13/utility-tools/alloyphoto)·[Alloyphoto 专业版](http://zhiyingfang.github.io/2016/04/13/utility-tools/alloyphotopro)

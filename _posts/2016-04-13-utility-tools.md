@@ -29,7 +29,7 @@ author: 职影房
 - [进制转换工具](http://tool.httpcn.com/Tool/JinZhiZhuanHuan.html)：64位以下进制互转工具
 - [多功能单位换算](http://zhiyingfang.github.io/2016/04/13/utility-tools/danweihuansuan)：常见单位类型换算
 - [365万年历](http://baidu365.duapp.com/wnl.html)：在线万年历
-- []()
+- [字体识别](http://www.qiuziti.com)：求字体，在线字体识别
 - []()
 - []()
 - [百度识图](http://image.baidu.com/?fr=shitu)：百度以图搜图

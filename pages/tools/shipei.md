@@ -24,7 +24,7 @@ permalink: /2016/04/13/utility-tools/shipei
                         <div class="search-write-left w480 pr" id="inputInfo">
                             <input class="search-write-cont w460 WrapHid" id="inputURL" name="url" url="true" value="" />
                             <a href="javascript:" title="清空" class="quickdelete _CentHid"></a>
-                            <b class="search-hint CentHid" id="inputInfo2">输入网址请去掉“http://”</b>
+                            <b class="search-hint CentHid" id="inputInfo2">输入网址请去掉“https://”</b>
                         </div>
                         <div class="search-write-right">
                             <input class="search-write-btn" type="submit" value="分析" id="btnCMF" onclick="return checkForm()" />

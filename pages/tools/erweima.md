@@ -29,7 +29,7 @@ permalink: /2016/04/13/utility-tools/erweima
 		</select>
 		<hr/>
 		<label for="size">二维码尺寸:</label>
-		<input id="size" type="range" value="400" min="100" max="1000" step="50" />
+		<input id="size" type="range" value="400" min="100" max="2000" step="50" />
 		<label for="fill">二维码颜色</label>
 		<input id="fill" type="color" value="#333333" />
 		<label for="background">二维码背景颜色</label>
@@ -38,7 +38,7 @@ permalink: /2016/04/13/utility-tools/erweima
 		<textarea id="text">All for PPTer</textarea>
 		<hr/>
 		<label for="minversion">MIN VERSION:</label>
-		<input id="minversion" type="range" value="6" min="1" max="10" step="1" />
+		<input id="minversion" type="range" value="6" min="1" max="20" step="1" />
 		<label for="eclevel">误差校正水平</label>
 		<select id="eclevel">
 			<option value="L">L - Low (7%)</option>
@@ -47,9 +47,9 @@ permalink: /2016/04/13/utility-tools/erweima
 			<option value="H" selected="selected">H - High (30%)</option>
 		</select>
 		<label for="quiet">版本:</label>
-		<input id="quiet" type="range" value="1" min="0" max="4" step="1" />
+		<input id="quiet" type="range" value="1" min="0" max="6" step="1" />
 		<label for="radius">圆滑度:</label>
-		<input id="radius" type="range" value="50" min="0" max="50" step="10" />
+		<input id="radius" type="range" value="50" min="0" max="90" step="10" />
 		<a id="download" download="qrcode.png">下载二维码</a>
 	</div>
 

@@ -19,7 +19,7 @@ permalink: /2016/04/13/utility-tools/shipei
         <div class="DelHeadWrap bor-b1s03 bg-white pb10">
             <!--PingSearch-begin-->
             <div class="publicSearch clearfix">
-                <form autocomplete="off" action="/fitscreen.html" method="get" id="_form">
+                <form autocomplete="off" action="/2016/04/13/utility-tools/shipei" method="get" id="_form">
                     <div class="search-write-wrap pt15 fl clearfix">
                         <div class="search-write-left w480 pr" id="inputInfo">
                             <input class="search-write-cont w460 WrapHid" id="inputURL" name="url" url="true" value="" />

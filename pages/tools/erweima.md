@@ -38,7 +38,7 @@ permalink: /2016/04/13/utility-tools/erweima
 		<textarea id="text">All for PPTer</textarea>
 		<hr/>
 		<label for="minversion">MIN VERSION:</label>
-		<input id="minversion" type="range" value="6" min="1" max="20" step="1" />
+		<input id="minversion" type="range" value="6" min="1" max="10" step="1" />
 		<label for="eclevel">误差校正水平</label>
 		<select id="eclevel">
 			<option value="L">L - Low (7%)</option>
@@ -49,7 +49,7 @@ permalink: /2016/04/13/utility-tools/erweima
 		<label for="quiet">版本:</label>
 		<input id="quiet" type="range" value="1" min="0" max="6" step="1" />
 		<label for="radius">圆滑度:</label>
-		<input id="radius" type="range" value="50" min="0" max="90" step="10" />
+		<input id="radius" type="range" value="50" min="0" max="50" step="10" />
 		<a id="download" download="qrcode.png">下载二维码</a>
 	</div>
 

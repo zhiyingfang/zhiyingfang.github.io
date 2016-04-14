@@ -123,12 +123,12 @@ permalink: /2016/04/13/utility-tools/shipei
             var $url = $("#inputURL");
             if (checkRequired($url)) {
                 loadingState(true);
-                $("#ck_iframe").attr("src", "$url");
+                $("#ck_iframe").attr("src", "http://" + $url.val());
                 setTimeout(function () { loadingState(false); }, 120000);
             } else {
                 $("#inputInfo").css({ "border-color": "red" });
                 $("#inputInfo2").css({ "color": "#ff8a8a" });
-                $("#inputInfo2").text("请输入正确的URL地址(如:http://zhiyingfang.github.io)");
+                $("#inputInfo2").text("请输入正确的URL地址(如:zhiyingfang.github.io)");
             }
             return false;
         }

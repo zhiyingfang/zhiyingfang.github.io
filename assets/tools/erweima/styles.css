@@ -4,7 +4,7 @@ body {
 	margin: 0;
 	padding: 0;
 	text-align: center;
-	background: repeat url("../images/back.png");
+	background: repeat url("/assets/tools/erweima/back.png");
 }
 
 #banner {

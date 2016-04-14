@@ -1,4 +1,4 @@
-﻿---
+---
 permalink: /2016/04/13/utility-tools/alloyphotopro
 ---
 <html lang="en">

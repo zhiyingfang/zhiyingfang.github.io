@@ -10,7 +10,7 @@ permalink: /2016/04/13/utility-tools/erweima
 	<meta name="description" content="二维码生成插件代码示例和下载">	
 	<meta name="viewport" content="width=device-width">			
 	<link href='/assets/tools/erweima/styles.css' rel='stylesheet'>
-	<script src="/assets/tools/erweima/jquery-1.10.2.js"></script>
+	<script src="/assets/tools/erweima/jquery-1.js"></script>
 	<script src="/assets/tools/erweima/jqueryqr.js"></script>
 	<script src="/assets/tools/erweima/ff-range.js"></script>
 	<script src="/assets/tools/erweima/scripts.js"></script>

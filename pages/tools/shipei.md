@@ -123,7 +123,7 @@ permalink: /2016/04/13/utility-tools/shipei
             var $url = $("#inputURL");
             if (checkRequired($url)) {
                 loadingState(true);
-                $("#ck_iframe").attr("src", "/tframe.html?url=" + $url.val());
+                $("#ck_iframe").attr("src", "$url.val()");
                 setTimeout(function () { loadingState(false); }, 120000);
             } else {
                 $("#inputInfo").css({ "border-color": "red" });

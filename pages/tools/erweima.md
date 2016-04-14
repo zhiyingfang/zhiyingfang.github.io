@@ -19,7 +19,7 @@ permalink: /2016/04/13/utility-tools/erweima
 	<div id="container"><canvas width="400" height="400"></canvas></div>
 
 	<div class="control left">
-		<a id="banner" href="http://zhiyingfang.github.io/">二维码生成器</a>
+		<a id="banner" href="http://zhiyingfang.github.io/" target="_blank">ALL for PPTer</a>
 		<hr/>
 		<label for="render">渲染模式</label>
 		<select id="render">

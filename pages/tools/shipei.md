@@ -14,7 +14,7 @@ permalink: /2016/04/13/utility-tools/shipei
         <p class="ClassHead-wrap clearfix">
             <a href="http://zhiyingfang.github.io/2016/04/13/utility-tools/shipei" class="CHeadcur ml15">移动跨屏模拟</a>
             <a href="http://zhiyingfang.github.io/2016/04/13/utility-tools/">其他实用工具</a>
-            <a href="http://zhiyingfang.github.io" class="spreturn fr">All for PPTer</a>
+            <a href="http://zhiyingfang.github.io" class="spreturn fr" target="_blank">All for PPTer</a>
         </p>
         <div class="DelHeadWrap bor-b1s03 bg-white pb10">
             <!--PingSearch-begin-->

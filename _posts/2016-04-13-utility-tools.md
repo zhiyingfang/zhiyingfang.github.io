@@ -35,7 +35,7 @@ author: 职影房
 - [百度识图](http://image.baidu.com/?fr=shitu)：百度以图搜图
 - 在线图片特效：[Alloyphoto 简约版](http://zhiyingfang.github.io/2016/04/13/utility-tools/alloyphoto)·[Alloyphoto 专业版](http://zhiyingfang.github.io/2016/04/13/utility-tools/alloyphotopro)
 - []()
-- []()
+- [离线markdown编辑器](http://www.typora.io)：所见即所得的markdown文档编辑器
 - []()
 - []()
 - []()

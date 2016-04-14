@@ -41,7 +41,7 @@ permalink: /2016/04/13/utility-tools/alloyphotopro
     <div class="ljItem subItem">添加杂色</div>
     <div class="ljItem subItem">暗角</div>
     <div class="ljItem subItem">喷点</div>
-    <img src="style/image/back.png" alt="" class="back" />
+    <img src="/assets/tools/alloyphotopro/back.png" alt="" class="back" />
   </div>
   <div class="right">
     直方图

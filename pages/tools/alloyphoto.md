@@ -29,7 +29,7 @@ permalink: /2016/04/13/utility-tools/alloyphoto
   </div>
   <div class="right">
     <div id="picWrapper" class="picWrapper">
-        <img src="img/bulding.jpg" class="pic" id="pic" alt="" draggable="false"/>
+        <img src="/assets/tools/alloyphoto/bulding.jpg" class="pic" id="pic" alt="" draggable="false"/>
 
         <div id="infoMsg">
           处理中

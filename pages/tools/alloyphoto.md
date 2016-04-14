@@ -52,7 +52,7 @@ permalink: /2016/04/13/utility-tools/alloyphoto
   </ul>
   <ul class="command_items">
     <li>
-        <a class="button" href="#" class="mask">打开图片</a>
+        <a class="button" href="#">打开图片</a>
     </li>
   </ul>
   <div class="footer">

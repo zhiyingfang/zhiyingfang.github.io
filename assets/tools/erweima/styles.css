@@ -79,7 +79,7 @@ html.opera label[for="radius"] {
 }
 
 input, textarea, select {
-	font-family: Microsoft YaHei,Ubuntu;
+	font-family: "Microsoft YaHei",Ubuntu;
 	display: block;
 	background-color: #fff;
 	margin: 2px;

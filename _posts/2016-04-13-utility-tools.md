@@ -31,9 +31,14 @@ author: 职影房
 - [365万年历](http://baidu365.duapp.com/wnl.html)：在线万年历
 - [字体识别](http://www.qiuziti.com)：求字体，在线字体识别
 - [移动跨屏模拟](http://zhiyingfang.github.io/2016/04/13/utility-tools/shipei)：模拟网站在移动端的效果
+- [代码格式化工具](http://tool.oschina.net/codeformat/html)：各种代码的在线美化工具
+- [JQuery代码库](http://www.jq22.com)：网页特效代码库
+- []()
 - []()
 - [百度识图](http://image.baidu.com/?fr=shitu)：百度以图搜图
 - 在线图片特效：[Alloyphoto 简约版](http://zhiyingfang.github.io/2016/04/13/utility-tools/alloyphoto)·[Alloyphoto 专业版](http://zhiyingfang.github.io/2016/04/13/utility-tools/alloyphotopro)
+- []()
+- []()
 - []()
 - [离线markdown编辑器](http://www.typora.io)：所见即所得的markdown文档编辑器
 - []()

@@ -2,7 +2,6 @@
 permalink: /2016/04/13/utility-tools/erweima
 ---
 
-<html class="no-js no-browser" lang="en">
 <head>
 	<title>二维码生成器</title>
 	<meta name="keywords" content="二维码生成工具,JS二维码生成,二维码生成器,jQuery二维码生成器,jQuery二维码生成" />

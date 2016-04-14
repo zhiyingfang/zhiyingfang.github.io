@@ -5,9 +5,9 @@ permalink: /2016/04/13/utility-tools/erweima
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>¶þÎ¬ÂëÉú³ÉÆ÷</title>
-	<meta name="keywords" content="¶þÎ¬ÂëÉú³É¹¤¾ß,JS¶þÎ¬ÂëÉú³É,¶þÎ¬ÂëÉú³ÉÆ÷,jQuery¶þÎ¬ÂëÉú³ÉÆ÷,jQuery¶þÎ¬ÂëÉú³É" />
-	<meta name="description" content="¶þÎ¬ÂëÉú³É²å¼þ´úÂëÊ¾ÀýºÍÏÂÔØ">	
+	<title>äºŒç»´ç ç”Ÿæˆå™¨</title>
+	<meta name="keywords" content="äºŒç»´ç ç”Ÿæˆå·¥å…·,JSäºŒç»´ç ç”Ÿæˆ,äºŒç»´ç ç”Ÿæˆå™¨,jQueryäºŒç»´ç ç”Ÿæˆå™¨,jQueryäºŒç»´ç ç”Ÿæˆ" />
+	<meta name="description" content="äºŒç»´ç ç”Ÿæˆæ’ä»¶ä»£ç ç¤ºä¾‹å’Œä¸‹è½½">	
 	<meta name="viewport" content="width=device-width">			
 	<link href='/assets/tools/erweima/styles.css' rel='stylesheet'>
 	<script src="/assets/tools/erweima/jquery-1.10.2.js"></script>
@@ -21,40 +21,40 @@ permalink: /2016/04/13/utility-tools/erweima
 	<div class="control left">
 		<a id="banner" href="http://zhiyingfang.github.io">All for PPTer</a>
 		<hr/>
-		<label for="render">äÖÈ¾Ä£Ê½</label>
+		<label for="render">æ¸²æŸ“æ¨¡å¼</label>
 		<select id="render">
 			<option value="canvas" selected="selected">Canvas</option>
 			<option value="image">Image</option>
 			<option value="div">DIV</option>
 		</select>
 		<hr/>
-		<label for="size">¶þÎ¬Âë³ß´ç:</label>
+		<label for="size">äºŒç»´ç å°ºå¯¸:</label>
 		<input id="size" type="range" value="400" min="100" max="1000" step="50" />
-		<label for="fill">¶þÎ¬ÂëÑÕÉ«</label>
+		<label for="fill">äºŒç»´ç é¢œè‰²</label>
 		<input id="fill" type="color" value="#333333" />
-		<label for="background">¶þÎ¬Âë±³¾°ÑÕÉ«</label>
+		<label for="background">äºŒç»´ç èƒŒæ™¯é¢œè‰²</label>
 		<input id="background" type="color" value="#ffffff" />
-		<label for="text">¶þÎ¬ÂëÄÚÈÝ</label>
+		<label for="text">äºŒç»´ç å†…å®¹</label>
 		<textarea id="text">All for PPTer</textarea>
 		<hr/>
 		<label for="minversion">MIN VERSION:</label>
 		<input id="minversion" type="range" value="6" min="1" max="10" step="1" />
-		<label for="eclevel">Îó²îÐ£ÕýË®Æ½</label>
+		<label for="eclevel">è¯¯å·®æ ¡æ­£æ°´å¹³</label>
 		<select id="eclevel">
 			<option value="L">L - Low (7%)</option>
 			<option value="M">M - Medium (15%)</option>
 			<option value="Q">Q - Quartile (25%)</option>
 			<option value="H" selected="selected">H - High (30%)</option>
 		</select>
-		<label for="quiet">°æ±¾:</label>
+		<label for="quiet">ç‰ˆæœ¬:</label>
 		<input id="quiet" type="range" value="1" min="0" max="4" step="1" />
-		<label for="radius">Ô²»¬¶È:</label>
+		<label for="radius">åœ†æ»‘åº¦:</label>
 		<input id="radius" type="range" value="50" min="0" max="50" step="10" />
-		<a id="download" download="qrcode.png">ÏÂÔØ¶þÎ¬Âë</a>
+		<a id="download" download="qrcode.png">ä¸‹è½½äºŒç»´ç </a>
 	</div>
 
 	<div class="control right">
-		<label for="mode">¶þÎ¬ÂëLOGOÉèÖÃ</label>
+		<label for="mode">äºŒç»´ç LOGOè®¾ç½®</label>
 		<select id="mode">
 			<option value="0">0 - Normal</option>
 			<option value="1">1 - Label-Strip</option>
@@ -63,25 +63,25 @@ permalink: /2016/04/13/utility-tools/erweima
 			<option value="4">4 - Image-Box</option>
 		</select>
 		<hr/>
-		<label for="msize">¶þÎ¬ÂëLOGO³ß´ç:</label>
+		<label for="msize">äºŒç»´ç LOGOå°ºå¯¸:</label>
 		<input id="msize" type="range" value="11" min="0" max="40" step="1" />
-		<label for="mposx">¶þÎ¬ÂëLOGOX×ø±ê:</label>
+		<label for="mposx">äºŒç»´ç LOGOXåæ ‡:</label>
 		<input id="mposx" type="range" value="50" min="0" max="100" step="1" />
-		<label for="mposy">¶þÎ¬ÂëLOGOY×ø±ê:</label>
+		<label for="mposy">äºŒç»´ç LOGOYåæ ‡:</label>
 		<input id="mposy" type="range" value="50" min="0" max="100" step="1" />
 		<hr/>
-		<label for="label">±êÇ©</label>
+		<label for="label">æ ‡ç­¾</label>
 		<input id="label" type="text" value="3464.com" />
-		<label for="font">×ÖÌåÃû×Ö</label>
+		<label for="font">å­—ä½“åå­—</label>
 		<input id="font" type="text" value="Ubuntu" />
-		<label for="fontcolor">×ÖÌåÑÕÉ«:</label>
+		<label for="fontcolor">å­—ä½“é¢œè‰²:</label>
 		<input id="fontcolor" type="color" value="#ff9818" />
 		<hr/>
-		<label for="image">ÉÏ´«¶þÎ¬ÂëLOGO</label>
+		<label for="image">ä¸Šä¼ äºŒç»´ç LOGO</label>
 		<input id="image" type="file" />
 	</div>
 
-	<img id="img-buffer" src="images/dummy.png" />	
+	<img id="img-buffer" src="/assets/tools/erweima/dummy.png" />	
 </body>
 </html>
 

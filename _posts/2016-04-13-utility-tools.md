@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  实用工具合集
 date:   2016-04-13
@@ -33,7 +33,7 @@ author: 职影房
 - []()
 - []()
 - [百度识图](http://image.baidu.com/?fr=shitu)：百度以图搜图
-- []()
+- 在线图片特效：[Alloyphoto 简约版](http://zhiyingfang.github.io/2016/04/13/utility-tools/alloyphoto)|[Alloyphoto 专业版](http://zhiyingfang.github.io/2016/04/13/utility-tools/alloyphotopro)
 - []()
 - []()
 - []()

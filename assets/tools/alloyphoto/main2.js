@@ -245,7 +245,7 @@
     window.addEventListener("DOMContentLoaded", function(){
         msgEle = document.getElementById("infoMsg");
 
-        //$AI.useWorker("js/combined/alloyimage.js");
+        //$AI.useWorker("/assets/tools/alloyphoto/alloyimage.js");
         Main.init();
     }, false);
 

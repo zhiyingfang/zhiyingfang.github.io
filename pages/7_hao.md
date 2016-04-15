@@ -11,10 +11,9 @@ permalink: /hao/
 
 <style>
 /* 下面三行是css部分 */
-.float-right{ width:36px; height:500
-px; background:#f3f3f3; position:absolute; left:8%; top:40px; margin-left:0px; z-index:10; overflow:hidden;}
-.float-right a{ width:100%; margin:0 2%;height:30px; line-height:30px; text-align:center; display:block; border-bottom:1px solid #f3f3f3; font-size:10px; color:#BCBCBC; text-decoration:none;}
-.float-right a:hover{ background:#f3f3f3;transition:all 0.3s linear;-webkit-transition:all 0.3s linear;-mos-transition:all 0.3s linear;-o-transition:all 0.3s linear;}
+.float-right{ width:73px; height:500px; background-color: #FFFFFF; position:absolute; left:8%; top:40px; margin-left:0px; z-index:10; overflow:hidden;}
+.float-right a{ width: 73px;; margin:0 2%;height: 30px; line-height:30px; text-align:center; display:block; ont-size:13px; color: #F15A24; text-decoration:none;}
+.float-right a:hover{ background-color: transparent;transition:all 0.3s linear;-webkit-transition:all 0.3s linear;-mos-transition:all 0.3s linear;-o-transition:all 0.3s linear;}
 </style>
 
 <link rel="stylesheet" type="text/css" href="/assets/hao/site_global.css"/>
@@ -28,6 +27,7 @@ px; background:#f3f3f3; position:absolute; left:8%; top:40px; margin-left:0px; z
   <body>
   <div class="clearfix" id="page"><!-- column -->
    <div class="position_content" id="page_position_content">
+    <a class="anchor_item colelem" id="banquan"></a>
     <div class="clearfix colelem" id="pu5960"><!-- group -->
      <div class="clearfix grpelem" id="u5960"><!-- group -->
       <div class="rounded-corners clearfix grpelem" id="u710"><!-- column -->
@@ -928,25 +928,18 @@ px; background:#f3f3f3; position:absolute; left:8%; top:40px; margin-left:0px; z
   </div>
   
   <div class="float-right">
-    <a href="#pu5960">免版权图库</a>
-	  <a href="#pu6009">素材资源</a>
-    <a href=></a>    
-    <a href="#pu6105">设计教程</a>
-    <a href="#pu6201">字体下载</a>
-    <a href="#pu6297">设计灵感</a>
-    <a href="#pu6393">摄影图库</a>        
-    <a href="#pu6489">UI设计</a>
-    <a href="#pu6585">网页设计</a>
-    <a href="#pu6681">平面设计</a>
-    <a href=></a>
-  <a href="#pu6777">Logo设计</a>
-    <a href=></a>        
-    <a href="#pu6873">UED团队</a>
-    <a href=></a>       
-  <a href="#pu6969">PS专区</a>
-    <a href=></a>
-    <a href=></a>
-        
+    <a href="#banquan">免版权图库</a>
+    <a href="#sucai">素材资源</a>
+    <a href="#jiaocheng">设计教程</a>
+    <a href="#font">字体下载</a>
+    <a href="#linggan">设计灵感</a>
+    <a href="#meitu">摄影图库</a>        
+    <a href="#ui">UI设计</a>
+    <a href="#web">网页设计</a>
+    <a href="#pingmian">平面设计</a>
+    <a href="#logo">Logo设计</a>
+    <a href="#ued">UED团队</a>
+    <a href="#ps">PS专区</a>  
 </div>
 
 <script src="http://www.lanrenzhijia.com/ajaxjs/jquery.min.js"></script>

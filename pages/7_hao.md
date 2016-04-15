@@ -1,16 +1,13 @@
 ---
 permalink: /hao/
 ---
-<<<<<<< HEAD
-<html class="html">
-=======
 
-<html>
->>>>>>> origin/master
+<html class="html">
+
 <head>
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
-  <meta name="keywords" content="??????"/>
-  <title>??????</title>
+  <meta name="keywords" content="设计网址导航"/>
+  <title>设计网址导航</title>
   <!-- CSS -->
 
 <link rel="stylesheet" type="text/css" href="/assets/hao/index.css"/>

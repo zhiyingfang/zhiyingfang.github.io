@@ -76,7 +76,6 @@ permalink: /hao/
         </div>
         <div>
         <a class="Button rounded-corners clearfix pinned-colelem" id="buttonu572" href="http://zhiyingfang.github.io" target="_blank" title="点击前往我的博客">
-        </a>
           <!-- container box -->
           <div>
             <div class="clearfix grpelem" id="u573-4">
@@ -85,6 +84,7 @@ permalink: /hao/
                 主页
              </p>
           </div>
+        </a>
         </div>
         <div class="clearfix pinned-colelem" id="u670-4">
           <!-- content -->

@@ -3258,7 +3258,41 @@ permalink: /hao/
     <script src="/assets/hao/jquery.js" type="text/javascript">
     </script>
     <!-- Other scripts -->
-    
+      <script type="text/javascript">
+   
+/* body */
+Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.prepHyperlinks(true);/* body */
+$('#u5880').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u553-4').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u603').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u556-4').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u605').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u583-4').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u607').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u581-4').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u609').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u601-4').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u611').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u579-4').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u613').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u585-4').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u615').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u587-4').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u617').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u589-4').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u619').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u591-4').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u621').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u593-4').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u623').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u595-4').registerPositionScrollEffect([{"in":[-Infinity,52],"speed":[0,1]},{"in":[52,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u7519').registerPositionScrollEffect([{"in":[-Infinity,160],"speed":[0,1]},{"in":[160,Infinity],"speed":[0,0]}]);/* scroll effect */
+Muse.Utils.resizeHeight()/* resize height */
+Muse.Utils.showWidgetsWhenReady();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
+} catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});
+</script>
   </body>
 
 </html>

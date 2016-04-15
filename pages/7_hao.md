@@ -7,7 +7,7 @@ permalink: /hao/
     <script type="text/javascript">
       if (typeof Muse == "undefined") window.Muse = {};
       window.Muse.assets = {
-        "required": ["jquery-1.js", "museutils.js", "jquery_002.js", "jquery.js", "index.css"],
+        "required": ["museutils.js", "jquery_002.js", "jquery.js", "index.css"],
         "outOfDate": []
       };
     </script>
@@ -74,15 +74,17 @@ permalink: /hao/
             width="30" height="30" />
           </a>
         </div>
-        <div class="Button rounded-corners clearfix pinned-colelem" id="buttonu572" href="http://zhiyingfang.github.io"
-        title="点击前往我的博客">
+        <div>
+        <a class="Button rounded-corners clearfix pinned-colelem" id="buttonu572" href="http://zhiyingfang.github.io" target="_blank" title="点击前往我的博客">
           <!-- container box -->
-          <div class="clearfix grpelem" id="u573-4">
-            <!-- content -->
-            <p>
-              All for PPTer
-            </p>
+          <div>
+            <div class="clearfix grpelem" id="u573-4">
+              <!-- content -->
+             <p>
+                主页
+             </p>
           </div>
+        </a>
         </div>
         <div class="clearfix pinned-colelem" id="u670-4">
           <!-- content -->
@@ -100,11 +102,11 @@ permalink: /hao/
               常用网址：
             </p>
           </div>
-          <a class="nonblock nontext clearfix grpelem" id="u7582-4" href="http://zhiyingfang.github.io"
+          <a class="nonblock nontext clearfix grpelem" id="u7582-4" href="http://zyf.yanj.cn"
           target="_blank">
             <!-- content -->
             <p>
-              All for PPTer
+              职影房
             </p>
           </a>
           <a class="nonblock nontext clearfix grpelem" id="u7324-4" href="http://www.baidu.com"
@@ -3246,71 +3248,9 @@ permalink: /hao/
             height="11" />
           </div>
         </div>
-        <div class="rounded-corners clearfix colelem" id="u7564">
-          <!-- group -->
-          <div class="grpelem" id="u7563">
-            <!-- custom html -->
-            <script type="text/javascript">
-              /*960*22 导航网站AD 创建于 2015-03-12*/
-              var cpro_id = "u1984821";
-            </script>
-            <script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript">
-            </script>
-          </div>
-        </div>
-        <div class="browser_width colelem" id="u7320-bw">
-          <div id="u7320">
-            <!-- group -->
-            <div class="clearfix" id="u7320_align_to_page">
-              <div class="clearfix grpelem" id="u7434-4">
-                <!-- content -->
-                <p>
-                  友情链接
-                </p>
-              </div>
-              <div class="clearfix grpelem" id="u7440-4">
-                <!-- content -->
-                <p>
-                  广告合作
-                </p>
-              </div>
-              <div class="clearfix grpelem" id="u7442-4">
-                <!-- content -->
-                <p>
-                  联系我们
-                </p>
-              </div>
-              <div class="clearfix grpelem" id="u7444-4">
-                <!-- content -->
-                <p>
-                  关于我们
-                </p>
-              </div>
-              <div class="clearfix grpelem" id="u7437-4">
-                <!-- content -->
-                <p>
-                  Copyright © 2015 设计派&nbsp; All Rights Reserved&#45;京ICP备13033361号&#45;2
-                </p>
-              </div>
-              <div class="grpelem" id="u7579">
-                <!-- custom html -->
-                <script type="text/javascript">
-                  var cnzz_protocol = (("https:" == document.location.protocol) ? " https://": " http://");
-                  document.write(unescape("%3Cspan id='cnzz_stat_icon_1254540969'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1254540969%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));
-                </script>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
     <!-- JS includes -->
-    <script type="text/javascript">
-      if (document.location.protocol != 'https:') document.write('\x3Cscript src="/assets/hao/jquery-1.js" type="text/javascript">\x3C/script>');
-    </script>
-    <script type="text/javascript">
-      window.jQuery || document.write('\x3Cscript src="/assets/hao/jquery-1.js" type="text/javascript">\x3C/script>');
-    </script>
     <script src="/assets/hao/museutils.js" type="text/javascript">
     </script>
     <script src="/assets/hao/jquery_002.js" type="text/javascript">
@@ -3318,6 +3258,7 @@ permalink: /hao/
     <script src="/assets/hao/jquery.js" type="text/javascript">
     </script>
     <!-- Other scripts -->
+<<<<<<< HEAD
     <script type="text/javascript">
       $(document).ready(function() {
         try { (function() {
@@ -3600,6 +3541,290 @@ permalink: /hao/
         }
       });
     </script>
+=======
+		<script type="text/javascript">
+			$(document).ready(function() {
+				try { (function() {
+						var a = {},
+						b = function(a) {
+							if (a.match(/^rgb/)) return a = a.replace(/\s+/g, "").match(/([\d\,]+)/gi)[0].split(","),
+							(parseInt(a[0]) << 16) + (parseInt(a[1]) << 8) + parseInt(a[2]);
+							if (a.match(/^\#/)) return parseInt(a.substr(1), 16);
+							return 0
+						}; (function() {
+							$('link[type="text/css"]').each(function() {
+								var b = ($(this).attr("href") || "").match(/\/?css\/([\w\-]+\.css)\?(\d+)/);
+								b && b[1] && b[2] && (a[b[1]] = b[2])
+							})
+						})(); (function() {
+							$("body").append('<div class="version" style="display:none; width:1px; height:1px;"></div>');
+							for (var c = $(".version"), d = 0; d < Muse.assets.required.length;) {
+								var f = Muse.assets.required[d],
+								g = f.match(/([\w\-\.]+)\.(\w+)$/),
+								k = g && g[1] ? g[1] : null,
+								g = g && g[2] ? g[2] : null;
+								switch (g.toLowerCase()) {
+								case "css":
+									k = k.replace(/\W/gi, "_").replace(/^([^a-z])/gi, "_$1");
+									c.addClass(k);
+									var g = b(c.css("color")),
+									h = b(c.css("background-color"));
+									g != 0 || h != 0 ? (Muse.assets.required.splice(d, 1), (g != a[f] >>> 24 || h != (a[f] & 16777215)) && Muse.assets.outOfDate.push(f)) : d++;
+									c.removeClass(k);
+									break;
+								case "js":
+									k.match(/^jquery-[\d\.]+/gi) && typeof $ != "undefined" ? Muse.assets.required.splice(d, 1) : d++;
+									break;
+								default:
+									throw Error("Unsupported file type: " + g);
+								}
+							}
+							c.remove(); (Muse.assets.outOfDate.length || Muse.assets.required.length) && alert("出错啦")
+						})()
+					})();
+					/* body */
+					Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();
+					/* body */
+					Muse.Utils.prepHyperlinks(true);
+					/* body */
+					$('#u5880').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u553-4').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u603').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u556-4').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u605').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u583-4').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u607').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u581-4').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u609').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u601-4').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u611').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u579-4').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u613').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u585-4').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u615').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u587-4').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u617').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u589-4').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u619').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u591-4').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u621').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u593-4').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u623').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u595-4').registerPositionScrollEffect([{
+						"in": [ - Infinity, 52],
+						"speed": [0, 1]
+					},
+					{
+						"in": [52, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					$('#u7519').registerPositionScrollEffect([{
+						"in": [ - Infinity, 160],
+						"speed": [0, 1]
+					},
+					{
+						"in": [160, Infinity],
+						"speed": [0, 0]
+					}]);
+					/* scroll effect */
+					Muse.Utils.resizeHeight()
+					/* resize height */
+					Muse.Utils.showWidgetsWhenReady();
+					/* body */
+					Muse.Utils.transformMarkupToFixBrowserProblems();
+					/* body */
+				} catch(e) {
+					if (e && 'function' == typeof e.notify) e.notify();
+					else Muse.Assert.fail('Error calling selector function:' + e);
+				}
+			});
+		</script>
+>>>>>>> origin/master
   </body>
 
 </html>

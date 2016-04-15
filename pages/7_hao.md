@@ -3355,7 +3355,7 @@ permalink: /hao/
                   throw Error("Unsupported file type: " + g);
                 }
               }
-              c.remove(); (Muse.assets.outOfDate.length || Muse.assets.required.length) && alert("伺服器上的某些檔案可能遺失或不正確。請清除瀏覽器快取後再試一次。若問題持續發生，請聯絡網站作者。")
+              c.remove(); (Muse.assets.outOfDate.length || Muse.assets.required.length) && alert("出错啦！")
             })()
           })();
           /* body */

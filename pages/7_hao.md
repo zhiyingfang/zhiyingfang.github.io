@@ -8,7 +8,14 @@ permalink: /hao/
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
   <meta name="keywords" content="设计网址导航"/>
   <title>设计网址导航</title>
-  <!-- CSS -->
+
+<style>
+/* 下面三行是css部分 */
+.float-right{ width:36px; height:500
+px; background:#f3f3f3; position:absolute; left:8%; top:40px; margin-left:0px; z-index:10; overflow:hidden;}
+.float-right a{ width:100%; margin:0 2%;height:30px; line-height:30px; text-align:center; display:block; border-bottom:1px solid #f3f3f3; font-size:10px; color:#BCBCBC; text-decoration:none;}
+.float-right a:hover{ background:#f3f3f3;transition:all 0.3s linear;-webkit-transition:all 0.3s linear;-mos-transition:all 0.3s linear;-o-transition:all 0.3s linear;}
+</style>
 
 <link rel="stylesheet" type="text/css" href="/assets/hao/site_global.css"/>
 <link rel="stylesheet" type="text/css" href="/assets/hao/master_a-tmpl.css"/>
@@ -919,8 +926,45 @@ permalink: /hao/
     </div>
    </div>
   </div>
+  
+  <div class="float-right">
+    <a href="#pu5960">免版权图库</a>
+	  <a href="#pu6009">素材资源</a>
+    <a href=></a>    
+    <a href="#pu6105">设计教程</a>
+    <a href="#pu6201">字体下载</a>
+    <a href="#pu6297">设计灵感</a>
+    <a href="#pu6393">摄影图库</a>        
+    <a href="#pu6489">UI设计</a>
+    <a href="#pu6585">网页设计</a>
+    <a href="#pu6681">平面设计</a>
+    <a href=></a>
+  <a href="#pu6777">Logo设计</a>
+    <a href=></a>        
+    <a href="#pu6873">UED团队</a>
+    <a href=></a>       
+  <a href="#pu6969">PS专区</a>
+    <a href=></a>
+    <a href=></a>
+        
+</div>
 
-
-​    
+<script src="http://www.lanrenzhijia.com/ajaxjs/jquery.min.js"></script>
+<script>
+	var lanren = {
+		navFast:function(){
+			var defaultTop = 40; //默认顶部保持上下居中，再往上去100像素
+			$(window).scroll(function(){
+				var offsetTop = defaultTop + $(window).scrollTop()+'px';
+				$('.float-right').animate({top:offsetTop},
+				{	duration: 700,	//滑动速度
+     				queue: false    //此动画将不进入动画队列
+     			});						  
+			});
+		}
+	};
+	lanren.navFast();
+</script>
+   
   </body>
 </html>

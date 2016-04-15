@@ -3251,12 +3251,6 @@ permalink: /hao/
       </div>
     </div>
     <!-- JS includes -->
-    <script type="text/javascript">
-      if (document.location.protocol != 'https:') document.write('\x3Cscript src="/assets/hao/jquery-1.js" type="text/javascript">\x3C/script>');
-    </script>
-    <script type="text/javascript">
-      window.jQuery || document.write('\x3Cscript src="/assets/hao/jquery-1.js" type="text/javascript">\x3C/script>');
-    </script>
     <script src="/assets/hao/museutils.js" type="text/javascript">
     </script>
     <script src="/assets/hao/jquery_002.js" type="text/javascript">

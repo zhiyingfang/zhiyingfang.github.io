@@ -79,6 +79,29 @@ permalink: /hao/
         </div>
         <a class="nonblock nontext clearfix grpelem" id="u1537-6" href="http://travelcoffeebook.com/" target="_blank"><!-- content --><h2 id="u1537-2">Travel coffee book</h2><p id="u1537-4">均为漂亮的旅行照片，同样无版权限制。每十天更新10张图片。</p></a>
        </div>
+       <div class="clearfix colelem" id="pu742-6"><!-- group -->
+        <a class="nonblock nontext clearfix grpelem" id="u742-6" href="http://pixabay.com/" target="_blank"><!-- content --><h2 id="u742-2">Pixabay</h2><p id="u742-4">拥有33万张免费的照片、矢量文件和艺术插图，图片均可商用，无版权问题。</p></a>
+        <div class="clip_frame grpelem" id="u5900"><!-- image -->
+         <img class="block" id="u5900_img" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a class="nonblock nontext clearfix grpelem" id="u1126-6" href="http://www.gratisography.com/" target="_blank"><!-- content --><h2 id="u1126-2">Gratisography</h2><p id="u1126-4">免费的高分辨率图片网站。所有图片由Ryan McGuire免费提供，并且每周更新。</p></a>
+        <div class="clip_frame grpelem" id="u5909"><!-- image -->
+         <img class="block" id="u5909_img" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a class="nonblock nontext clearfix grpelem" id="u1194-6" href="http://picjumbo.com/" target="_blank"><!-- content --><h2 id="u1194-2">Pic Jumbo</h2><p id="u1194-4">为商务和个人作品提供完全免费的照片。同时提供高级账号，付费后可获得更多图片。</p></a>
+        <div class="clip_frame grpelem" id="u5915"><!-- image -->
+         <img class="block" id="u5915_img" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a class="nonblock nontext clearfix grpelem" id="u1262-6" href="http://www.lifeofpix.com/" target="_blank"><!-- content --><h2 id="u1262-2">Life of Pix</h2><p id="u1262-4">提供免费的高分辨率照片的网站，无版权限制。图片多为欧洲景观。</p></a>
+        <div class="clip_frame grpelem" id="u5921"><!-- image -->
+         <img class="block" id="u5921_img" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a class="nonblock nontext clearfix grpelem" id="u1330-6" href="http://www.imcreator.com/free" target="_blank"><!-- content --><h2 id="u1330-2">imcreator</h2><p id="u1330-4">提供搜索和分类目录，有人物、自然、艺术、图标等分类。可惜有的分类图较少。</p></a>
+        <div class="clip_frame grpelem" id="u5927"><!-- image -->
+         <img class="block" id="u5927_img" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a class="nonblock nontext clearfix grpelem" id="u1365-6" href="http://www.pexels.com/" target="_blank"><!-- content --><h2 id="u1365-2">Pexels</h2><p id="u1365-4">非常漂亮的免版权高清图片网站，网站的用户体验非常好，值得收藏。</p></a>
+       </div>
       </div>
       <div class="clearfix grpelem" id="u714-4"><!-- content -->
        <p>有了设计派提供的免版权图库，终于可以安安静静的做一名美腻的射鸡师了！欧耶！</p>

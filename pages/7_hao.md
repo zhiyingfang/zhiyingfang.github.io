@@ -1,13 +1,18 @@
 ---
 permalink: /hao/
 ---
-
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html class="html">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>??????</title>
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <meta name="keywords" content="??????"/>
+  <title>??????</title>
+  <!-- CSS -->
 
-<link rel="stylesheet" type="text/css" href="/assets/hao/1.css"/>
+<link rel="stylesheet" type="text/css" href="/assets/hao/index.css"/>
+<link rel="stylesheet" type="text/css" href="/assets/hao/bootstrap.min.css"/>
+<link rel="stylesheet" type="text/css" href="/assets/hao/site_global.css"/>
+<link rel="stylesheet" type="text/css" href="/assets/hao/master_a-tmpl.css"/>
+<link rel="stylesheet" type="text/css" href="/assets/hao/index(2).css"/>
 
 </head>
 
@@ -36,7 +41,7 @@ permalink: /hao/
       <ul class="nav navbar-nav navbar-right">
           <li>
         <!-- <a href="/"><span class="glyphicon glyphicon-th-large"></span> Blog</a></li>-->
-		<a href="/"><span class="glyphicon glyphicon-list"></span> ??</a></li>
+    	<a href="/"><span class="glyphicon glyphicon-list"></span> ??</a></li>
               <li>
             <a href="/archive/"><span class="glyphicon glyphicon-folder-open"></span> ??</a></li>
               <li>
@@ -131,15 +136,15 @@ permalink: /hao/
       <img class="block" id="u7558_img" src="/assets/hao/hot.png" alt="" width="11" height="11"/>
      </div>
     </div>
+    
+    
+    
+    
+    
+    
+    
 
-
-
-
-
-
-
-
-
+<footer class="">
 <footer class="">
   <div class="container">
     <div class="row">
@@ -167,7 +172,7 @@ permalink: /hao/
           <span>&copy; 2016 ???</span>
           <span class="point"> · </span>
           <span>Designed by <a href="https://github.com/Gaohaoyang">HyG</a></span>
-
+    
       </div>
     </div>
   </div>

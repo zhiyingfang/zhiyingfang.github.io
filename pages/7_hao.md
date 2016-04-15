@@ -12,7 +12,7 @@ permalink: /hao/
 
 <link rel="stylesheet" type="text/css" href="/assets/hao/site_global.css"/>
 <link rel="stylesheet" type="text/css" href="/assets/hao/master_a-tmpl.css"/>
-<link rel="stylesheet" type="text/css" href="/assets/hao/index(2).css"/>
+<link rel="stylesheet" type="text/css" href="/assets/hao/index.css"/>
 
 </head>
 

@@ -80,7 +80,7 @@ permalink: /hao/
           <div class="clearfix grpelem" id="u573-4">
             <!-- content -->
             <p>
-              All for PPTer
+              主页
             </p>
           </div>
         </div>
@@ -100,11 +100,11 @@ permalink: /hao/
               常用网址：
             </p>
           </div>
-          <a class="nonblock nontext clearfix grpelem" id="u7582-4" href="http://zhiyingfang.github.io"
+          <a class="nonblock nontext clearfix grpelem" id="u7582-4" href="http://zyf.yanj.cn"
           target="_blank">
             <!-- content -->
             <p>
-              All for PPTer
+              职影房
             </p>
           </a>
           <a class="nonblock nontext clearfix grpelem" id="u7324-4" href="http://www.baidu.com"
@@ -3244,62 +3244,6 @@ permalink: /hao/
             <!-- image -->
             <img class="block" id="u7692_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
-          </div>
-        </div>
-        <div class="rounded-corners clearfix colelem" id="u7564">
-          <!-- group -->
-          <div class="grpelem" id="u7563">
-            <!-- custom html -->
-            <script type="text/javascript">
-              /*960*22 导航网站AD 创建于 2015-03-12*/
-              var cpro_id = "u1984821";
-            </script>
-            <script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript">
-            </script>
-          </div>
-        </div>
-        <div class="browser_width colelem" id="u7320-bw">
-          <div id="u7320">
-            <!-- group -->
-            <div class="clearfix" id="u7320_align_to_page">
-              <div class="clearfix grpelem" id="u7434-4">
-                <!-- content -->
-                <p>
-                  友情链接
-                </p>
-              </div>
-              <div class="clearfix grpelem" id="u7440-4">
-                <!-- content -->
-                <p>
-                  广告合作
-                </p>
-              </div>
-              <div class="clearfix grpelem" id="u7442-4">
-                <!-- content -->
-                <p>
-                  联系我们
-                </p>
-              </div>
-              <div class="clearfix grpelem" id="u7444-4">
-                <!-- content -->
-                <p>
-                  关于我们
-                </p>
-              </div>
-              <div class="clearfix grpelem" id="u7437-4">
-                <!-- content -->
-                <p>
-                  Copyright © 2015 设计派&nbsp; All Rights Reserved&#45;京ICP备13033361号&#45;2
-                </p>
-              </div>
-              <div class="grpelem" id="u7579">
-                <!-- custom html -->
-                <script type="text/javascript">
-                  var cnzz_protocol = (("https:" == document.location.protocol) ? " https://": " http://");
-                  document.write(unescape("%3Cspan id='cnzz_stat_icon_1254540969'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1254540969%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));
-                </script>
-              </div>
-            </div>
           </div>
         </div>
       </div>

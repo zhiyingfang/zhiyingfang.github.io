@@ -2,36 +2,35 @@
 permalink: /hao/
 ---
 <html class="html">
-  
+
   <head>
     <script type="text/javascript">
       if (typeof Muse == "undefined") window.Muse = {};
       window.Muse.assets = {
-        "required": ["jquery-1.js", "museutils.js", "jquery.scrolleffects.js", "jquery.watch.js", "index.css"],
+        "required": ["jquery-1.js", "museutils.js", "jquery_002.js", "jquery.js", "index.css"],
         "outOfDate": []
       };
     </script>
     <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
-    <meta name="keywords" content="设计导航,设计网址,网址导航,设计素材,设计教程,字体下载,网页设计,UI设计,平面设计,名片设计,logo设计,设计比赛,设计培训"
+    <meta name="keywords" content="设计网址导航"
     />
-    <meta name="generator" content="2014.0.0.264" />
-    <link rel="shortcut icon" href="images/a-tmpl-favicon.ico?373577969" />
+    <link rel="shortcut icon" href="/assets/hao/zyf32.png" />
     <title>
-      设计派导航 | 设计派
+      设计网址导航 | All for PPTer
     </title>
     <!-- CSS -->
-    <link rel="stylesheet" type="text/css" href="css/site_global.css?4201710099"
+    <link rel="stylesheet" type="text/css" href="/assets/hao/site_global.css"
     />
-    <link rel="stylesheet" type="text/css" href="css/master_a-tmpl.css?241679930"
+    <link rel="stylesheet" type="text/css" href="/assets/hao/master_a-tmpl.css"
     />
-    <link rel="stylesheet" type="text/css" href="css/index.css?3969571429"
+    <link rel="stylesheet" type="text/css" href="/assets/hao/index.css"
     id="pagesheet" />
     <!-- Other scripts -->
     <script type="text/javascript">
       document.documentElement.className += ' js';
     </script>
   </head>
-  
+
   <body>
     <div class="clearfix" id="page">
       <!-- column -->
@@ -43,45 +42,45 @@ permalink: /hao/
         </div>
         <a class="anchor_item colelem" id="top">
         </a>
-        <a class="nonblock nontext clip_frame pinned-colelem" id="u720" href="index.html">
+        <a class="nonblock nontext clip_frame pinned-colelem" id="u720" href="http://zhiyingfang.github.io/hao/">
           <!-- image -->
-          <img class="block" id="u720_img" src="images/logo_nav.png" alt="" width="200"
+          <img class="block" id="u720_img" src="/assets/hao/logo_nav.png" alt="" width="200"
           height="42" />
         </a>
         <div class="clearfix pinned-colelem" id="u444">
           <!-- group -->
-          <a class="nonblock nontext clip_frame grpelem" id="u439" href="http://weibo.com/psdreamworks"
-          target="_blank" title="设计派官方微博">
+          <a class="nonblock nontext clip_frame grpelem" id="u439" href=""
+          target="_blank" title="微博">
             <!-- image -->
-            <img class="block" id="u439_img" src="images/social-weibo.png" alt=""
+            <img class="block" id="u439_img" src="/assets/hao/social-weibo.png" alt=""
             width="30" height="30" />
           </a>
-          <a class="nonblock nontext clip_frame grpelem" id="u429" href="http://www.shejipai.cn/wechat.html"
-          target="_blank" title="设计派微信公众号">
+          <a class="nonblock nontext clip_frame grpelem" id="u429" href=""
+          target="_blank" title="微信公众号">
             <!-- image -->
-            <img class="block" id="u429_img" src="images/social-weixin.png" alt=""
+            <img class="block" id="u429_img" src="/assets/hao/social-weixin.png" alt=""
             width="30" height="30" />
           </a>
-          <a class="nonblock nontext clip_frame grpelem" id="u434" href="http://shang.qq.com/wpa/qunwpa?idkey=a407b2f908850f2482d6824296451d5b3574d51ff893bb8ba79316b4f1161ab0"
-          target="_blank" title="设计交流QQ群">
+          <a class="nonblock nontext clip_frame grpelem" id="u434" href=""
+          target="_blank" title="QQ群">
             <!-- image -->
-            <img class="block" id="u434_img" src="images/social-qq.png" alt="" width="30"
+            <img class="block" id="u434_img" src="/assets/hao/social-qq.png" alt="" width="30"
             height="30" />
           </a>
-          <a class="nonblock nontext clip_frame grpelem" id="u424" href="http://user.qzone.qq.com/61158753"
-          target="_blank" title="设计派QQ空间">
+          <a class="nonblock nontext clip_frame grpelem" id="u424" href=""
+          target="_blank" title="QQ空间">
             <!-- image -->
-            <img class="block" id="u424_img" src="images/social-qzone.png" alt=""
+            <img class="block" id="u424_img" src="/assets/hao/social-qzone.png" alt=""
             width="30" height="30" />
           </a>
         </div>
-        <div class="Button rounded-corners clearfix pinned-colelem" id="buttonu572"
-        title="提交网址功能稍后开放，敬请期待...">
+        <div class="Button rounded-corners clearfix pinned-colelem" id="buttonu572" href="http://zhiyingfang.github.io"
+        title="点击前往我的博客">
           <!-- container box -->
           <div class="clearfix grpelem" id="u573-4">
             <!-- content -->
             <p>
-              提交网址
+              All for PPTer
             </p>
           </div>
         </div>
@@ -101,11 +100,11 @@ permalink: /hao/
               常用网址：
             </p>
           </div>
-          <a class="nonblock nontext clearfix grpelem" id="u7582-4" href="http://www.shejipai.cn"
+          <a class="nonblock nontext clearfix grpelem" id="u7582-4" href="http://zhiyingfang.github.io"
           target="_blank">
             <!-- content -->
             <p>
-              设计派
+              All for PPTer
             </p>
           </a>
           <a class="nonblock nontext clearfix grpelem" id="u7324-4" href="http://www.baidu.com"
@@ -175,7 +174,7 @@ permalink: /hao/
           <!-- simple frame -->
         </div>
         <a class="nonblock nontext anim_swing clearfix mse_pre_init" id="u553-4"
-        href="index.html#banquan">
+        href="http://zhiyingfang.github.io/hao/#banquan">
           <!-- content -->
           <p>
             免版权图库
@@ -185,7 +184,7 @@ permalink: /hao/
           <!-- simple frame -->
         </div>
         <a class="nonblock nontext anim_swing clearfix mse_pre_init" id="u556-4"
-        href="index.html#sucai">
+        href="http://zhiyingfang.github.io/hao/#sucai">
           <!-- content -->
           <p>
             <span class="ts-----1">
@@ -197,7 +196,7 @@ permalink: /hao/
           <!-- simple frame -->
         </div>
         <a class="nonblock nontext anim_swing clearfix mse_pre_init" id="u583-4"
-        href="index.html#jiaocheng">
+        href="http://zhiyingfang.github.io/hao/#jiaocheng">
           <!-- content -->
           <p>
             <span class="ts-----1">
@@ -209,7 +208,7 @@ permalink: /hao/
           <!-- simple frame -->
         </div>
         <a class="nonblock nontext anim_swing clearfix mse_pre_init" id="u581-4"
-        href="index.html#font">
+        href="http://zhiyingfang.github.io/hao/#font">
           <!-- content -->
           <p>
             <span class="ts-----1">
@@ -221,7 +220,7 @@ permalink: /hao/
           <!-- simple frame -->
         </div>
         <a class="nonblock nontext anim_swing clearfix mse_pre_init" id="u601-4"
-        href="index.html#linggan">
+        href="http://zhiyingfang.github.io/hao/#linggan">
           <!-- content -->
           <p>
             <span class="ts-----1">
@@ -233,7 +232,7 @@ permalink: /hao/
           <!-- simple frame -->
         </div>
         <a class="nonblock nontext anim_swing clearfix mse_pre_init" id="u579-4"
-        href="index.html#meitu">
+        href="http://zhiyingfang.github.io/hao/#meitu">
           <!-- content -->
           <p>
             <span class="ts-----1">
@@ -245,7 +244,7 @@ permalink: /hao/
           <!-- simple frame -->
         </div>
         <a class="nonblock nontext anim_swing clearfix mse_pre_init" id="u585-4"
-        href="index.html#ui">
+        href="http://zhiyingfang.github.io/hao/#ui">
           <!-- content -->
           <p>
             <span class="ts-----1">
@@ -257,7 +256,7 @@ permalink: /hao/
           <!-- simple frame -->
         </div>
         <a class="nonblock nontext anim_swing clearfix mse_pre_init" id="u587-4"
-        href="index.html#web">
+        href="http://zhiyingfang.github.io/hao/#web">
           <!-- content -->
           <p>
             <span class="ts-----1">
@@ -269,7 +268,7 @@ permalink: /hao/
           <!-- simple frame -->
         </div>
         <a class="nonblock nontext anim_swing clearfix mse_pre_init" id="u589-4"
-        href="index.html#pingmian">
+        href="http://zhiyingfang.github.io/hao/#pingmian">
           <!-- content -->
           <p>
             <span class="ts-----1">
@@ -281,7 +280,7 @@ permalink: /hao/
           <!-- simple frame -->
         </div>
         <a class="nonblock nontext anim_swing clearfix mse_pre_init" id="u591-4"
-        href="index.html#logo">
+        href="http://zhiyingfang.github.io/hao/#logo">
           <!-- content -->
           <p>
             <span class="ts-----1">
@@ -293,7 +292,7 @@ permalink: /hao/
           <!-- simple frame -->
         </div>
         <a class="nonblock nontext anim_swing clearfix mse_pre_init" id="u593-4"
-        href="index.html#ued">
+        href="http://zhiyingfang.github.io/hao/#ued">
           <!-- content -->
           <p>
             <span class="ts-----1">
@@ -305,7 +304,7 @@ permalink: /hao/
           <!-- simple frame -->
         </div>
         <a class="nonblock nontext anim_swing clearfix mse_pre_init" id="u595-4"
-        href="index.html#ps">
+        href="http://zhiyingfang.github.io/hao/#ps">
           <!-- content -->
           <p>
             <span class="ts-----1" id="u595">
@@ -351,7 +350,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u5900">
                   <!-- image -->
-                  <img class="block" id="u5900_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u5900_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u1126-6" href="http://www.gratisography.com/"
@@ -366,7 +365,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u5909">
                   <!-- image -->
-                  <img class="block" id="u5909_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u5909_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u1194-6" href="http://picjumbo.com/"
@@ -381,7 +380,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u5915">
                   <!-- image -->
-                  <img class="block" id="u5915_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u5915_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u1262-6" href="http://www.lifeofpix.com/"
@@ -396,7 +395,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u5921">
                   <!-- image -->
-                  <img class="block" id="u5921_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u5921_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u1330-6" href="http://www.imcreator.com/free"
@@ -411,7 +410,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u5927">
                   <!-- image -->
-                  <img class="block" id="u5927_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u5927_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u1365-6" href="http://www.pexels.com/"
@@ -439,7 +438,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u5957">
                   <!-- image -->
-                  <img class="block" id="u5957_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u5957_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u1640-6" href="http://publicdomainarchive.com/"
@@ -454,7 +453,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u5954">
                   <!-- image -->
-                  <img class="block" id="u5954_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u5954_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u1606-6" href="http://snapographic.com/"
@@ -469,7 +468,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u5951">
                   <!-- image -->
-                  <img class="block" id="u5951_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u5951_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u1572-6" href="http://www.designerspics.com/"
@@ -484,7 +483,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u5948">
                   <!-- image -->
-                  <img class="block" id="u5948_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u5948_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u1538-6" href="https://stocksnap.io/"
@@ -499,7 +498,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u5945">
                   <!-- image -->
-                  <img class="block" id="u5945_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u5945_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u1537-6" href="http://travelcoffeebook.com/"
@@ -517,17 +516,17 @@ permalink: /hao/
             <div class="clearfix grpelem" id="u714-4">
               <!-- content -->
               <p>
-                有了设计派提供的免版权图库，终于可以安安静静的做一名美腻的射鸡师了！欧耶！
+                有了这些强大的免版权图库，终于可以安安静静的做一名美腻的射鸡师了！欧耶！
               </p>
             </div>
             <div class="clip_frame grpelem" id="u7534">
               <!-- image -->
-              <img class="block" id="u7534_img" src="images/hot.png" alt="" width="11"
+              <img class="block" id="u7534_img" src="/assets/hao/hot.png" alt="" width="11"
               height="11" />
             </div>
             <div class="clip_frame grpelem" id="u7540">
               <!-- image -->
-              <img class="block" id="u7540_img" src="images/hot.png" alt="" width="11"
+              <img class="block" id="u7540_img" src="/assets/hao/hot.png" alt="" width="11"
               height="11" />
             </div>
           </div>
@@ -535,12 +534,12 @@ permalink: /hao/
           </a>
           <div class="clip_frame grpelem" id="u7543">
             <!-- image -->
-            <img class="block" id="u7543_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7543_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7616">
             <!-- image -->
-            <img class="block" id="u7616_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7616_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
         </div>
@@ -562,7 +561,7 @@ permalink: /hao/
                   <!-- content -->
                   <p>
                     学会利用素材资源，天天都是开挂模式！更多现成素材请
-                    <a class="nonblock" href="http://www.shejipai.cn/category/materials-and-download"
+                    <a class="nonblock" href=""
                     target="_blank">
                       点击这里&gt;&gt;
                     </a>
@@ -592,7 +591,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6015">
                   <!-- image -->
-                  <img class="block" id="u6015_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6015_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6029-6" href="http://freebiesbug.com/"
@@ -607,7 +606,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6035">
                   <!-- image -->
-                  <img class="block" id="u6035_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6035_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6034-6" href="http://ui-cloud.com/"
@@ -622,7 +621,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6025">
                   <!-- image -->
-                  <img class="block" id="u6025_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6025_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6033-6" href="http://findicons.com/"
@@ -637,7 +636,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6021">
                   <!-- image -->
-                  <img class="block" id="u6021_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6021_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6010-6" href="http://cn.vectorhq.com/"
@@ -652,7 +651,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6018">
                   <!-- image -->
-                  <img class="block" id="u6018_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6018_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6028-6" href="http://www.agiledesigners.com/"
@@ -680,7 +679,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6013">
                   <!-- image -->
-                  <img class="block" id="u6013_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6013_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6043-6" href="http://www.nipic.com/index.html"
@@ -695,7 +694,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6039">
                   <!-- image -->
-                  <img class="block" id="u6039_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6039_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6038-6" href="http://sc.chinaz.com/"
@@ -710,7 +709,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6011">
                   <!-- image -->
-                  <img class="block" id="u6011_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6011_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6044-6" href="http://xiaba.shijue.me/stuff/?ref=main_nav"
@@ -725,7 +724,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6030">
                   <!-- image -->
-                  <img class="block" id="u6030_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6030_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6042-6" href="http://www.daimg.com/"
@@ -740,7 +739,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6023">
                   <!-- image -->
-                  <img class="block" id="u6023_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6023_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6017-6" href="http://www.58pic.com/"
@@ -760,29 +759,29 @@ permalink: /hao/
           </a>
           <div class="clip_frame grpelem" id="u7546">
             <!-- image -->
-            <img class="block" id="u7546_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7546_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7549">
             <!-- image -->
-            <img class="block" id="u7549_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7549_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7552">
             <!-- image -->
-            <img class="block" id="u7552_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7552_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7558">
             <!-- image -->
-            <img class="block" id="u7558_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7558_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
         </div>
         <a class="nonblock nontext anim_swing clip_frame mse_pre_init" id="u7519"
         href="index.html#top">
           <!-- image -->
-          <img class="block" id="u7519_img" src="images/top.png" alt="" width="40"
+          <img class="block" id="u7519_img" src="/assets/hao/top.png" alt="" width="40"
           height="40" />
         </a>
         <div class="clearfix colelem" id="pu6105">
@@ -802,8 +801,8 @@ permalink: /hao/
                 <div class="clearfix grpelem" id="u6114-6">
                   <!-- content -->
                   <p>
-                    设计教程哪家强？看看设计派导航！&nbsp; 更多精品设计教程
-                    <a class="nonblock" href="http://www.shejipai.cn/category/tutorial" target="_blank">
+                    设计教程哪家强？看看设计师网址导航！&nbsp; 更多精品设计教程
+                    <a class="nonblock" href="" target="_blank">
                       请戳这里&gt;&gt;
                     </a>
                   </p>
@@ -832,7 +831,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6136">
                   <!-- image -->
-                  <img class="block" id="u6136_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6136_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6131-6" href="http://abduzeedo.com/"
@@ -847,7 +846,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6120">
                   <!-- image -->
-                  <img class="block" id="u6120_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6120_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6140-6" href="http://www.smashingmagazine.com/"
@@ -862,7 +861,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6134">
                   <!-- image -->
-                  <img class="block" id="u6134_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6134_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6122-6" href="http://webdesignerwall.com/"
@@ -877,7 +876,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6123">
                   <!-- image -->
-                  <img class="block" id="u6123_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6123_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6125-6" href="http://www.digitalartsonline.co.uk/"
@@ -892,7 +891,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6138">
                   <!-- image -->
-                  <img class="block" id="u6138_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6138_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6109-6" href="http://www.webdesignerdepot.com/"
@@ -920,7 +919,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6112">
                   <!-- image -->
-                  <img class="block" id="u6112_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6112_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6119-6" href="http://www.zcool.com.cn/articles/"
@@ -935,7 +934,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6107">
                   <!-- image -->
-                  <img class="block" id="u6107_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6107_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6118-6" href="http://www.ui.cn/"
@@ -950,7 +949,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6110">
                   <!-- image -->
-                  <img class="block" id="u6110_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6110_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6126-6" href="http://www.uehtml.com/"
@@ -965,7 +964,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6115">
                   <!-- image -->
-                  <img class="block" id="u6115_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6115_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6132-6" href="http://www.uisdc.com"
@@ -980,7 +979,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6129">
                   <!-- image -->
-                  <img class="block" id="u6129_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6129_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6141-6" href="http://designmodo.com/"
@@ -1000,22 +999,22 @@ permalink: /hao/
           </a>
           <div class="clip_frame grpelem" id="u7583">
             <!-- image -->
-            <img class="block" id="u7583_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7583_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7586">
             <!-- image -->
-            <img class="block" id="u7586_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7586_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7589">
             <!-- image -->
-            <img class="block" id="u7589_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7589_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7592">
             <!-- image -->
-            <img class="block" id="u7592_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7592_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
         </div>
@@ -1057,7 +1056,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6210">
                   <!-- image -->
-                  <img class="block" id="u6210_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6210_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6237-6" href="http://www.akuziti.com/mb/"
@@ -1072,7 +1071,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6218">
                   <!-- image -->
-                  <img class="block" id="u6218_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6218_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6224-6" href="http://ziti.admin5.com/"
@@ -1087,7 +1086,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6204">
                   <!-- image -->
-                  <img class="block" id="u6204_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6204_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6207-6" href="http://www.daimg.com/font/"
@@ -1102,7 +1101,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6212">
                   <!-- image -->
-                  <img class="block" id="u6212_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6212_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6206-6" href="http://www.zitikoudai.com/"
@@ -1117,7 +1116,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6230">
                   <!-- image -->
-                  <img class="block" id="u6230_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6230_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6202-6" href="http://www.homefont.cn/"
@@ -1145,7 +1144,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6216">
                   <!-- image -->
-                  <img class="block" id="u6216_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6216_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6229-6" href="http://www.fontsquirrel.com/"
@@ -1160,7 +1159,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6220">
                   <!-- image -->
-                  <img class="block" id="u6220_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6220_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6226-6" href="http://www.abstractfonts.com/"
@@ -1175,7 +1174,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6234">
                   <!-- image -->
-                  <img class="block" id="u6234_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6234_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6223-6" href="https://www.fontfont.com/fonts"
@@ -1190,7 +1189,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6232">
                   <!-- image -->
-                  <img class="block" id="u6232_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6232_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6238-6" href="http://www.1001freefonts.com/"
@@ -1207,7 +1206,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6208">
                   <!-- image -->
-                  <img class="block" id="u6208_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6208_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6225-6" href="http://www.fonts2u.com/"
@@ -1227,7 +1226,7 @@ permalink: /hao/
             <div class="clearfix grpelem" id="u6203-4">
               <!-- content -->
               <p>
-                设计派温馨提醒：字体商用前记得咨询好版权信息哦~
+                温馨提醒：字体商用前记得咨询好版权信息哦~
               </p>
             </div>
           </div>
@@ -1235,12 +1234,12 @@ permalink: /hao/
           </a>
           <div class="clip_frame grpelem" id="u7595">
             <!-- image -->
-            <img class="block" id="u7595_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7595_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7598">
             <!-- image -->
-            <img class="block" id="u7598_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7598_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
         </div>
@@ -1284,7 +1283,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6307">
                   <!-- image -->
-                  <img class="block" id="u6307_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6307_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6301-6" href="https://dribbble.com/"
@@ -1301,7 +1300,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6303">
                   <!-- image -->
-                  <img class="block" id="u6303_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6303_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6329-6" href="https://www.behance.net/"
@@ -1318,7 +1317,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6305">
                   <!-- image -->
-                  <img class="block" id="u6305_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6305_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6330-6" href="http://www.deviantart.com/"
@@ -1335,7 +1334,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6324">
                   <!-- image -->
-                  <img class="block" id="u6324_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6324_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6318-6" href="http://www.awwwards.com/"
@@ -1352,7 +1351,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6312">
                   <!-- image -->
-                  <img class="block" id="u6312_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6312_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6319-6" href="http://www.fromupnorth.com/"
@@ -1384,7 +1383,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6322">
                   <!-- image -->
-                  <img class="block" id="u6322_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6322_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6334-6" href="http://adsoftheworld.com/"
@@ -1401,7 +1400,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6320">
                   <!-- image -->
-                  <img class="block" id="u6320_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6320_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6331-6" href="http://www.otolines.com/"
@@ -1418,7 +1417,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6298">
                   <!-- image -->
-                  <img class="block" id="u6298_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6298_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6328-6" href="http://webneel.com/"
@@ -1435,7 +1434,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6310">
                   <!-- image -->
-                  <img class="block" id="u6310_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6310_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6316-6" href="http://www.topys.cn/"
@@ -1452,7 +1451,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6326">
                   <!-- image -->
-                  <img class="block" id="u6326_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6326_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6317-6" href="http://www.arting365.com/"
@@ -1480,27 +1479,27 @@ permalink: /hao/
           </a>
           <div class="clip_frame grpelem" id="u7601">
             <!-- image -->
-            <img class="block" id="u7601_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7601_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7604">
             <!-- image -->
-            <img class="block" id="u7604_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7604_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7607">
             <!-- image -->
-            <img class="block" id="u7607_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7607_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7610">
             <!-- image -->
-            <img class="block" id="u7610_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7610_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7613">
             <!-- image -->
-            <img class="block" id="u7613_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7613_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
         </div>
@@ -1544,7 +1543,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6409">
                   <!-- image -->
-                  <img class="block" id="u6409_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6409_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6422-6" href="http://alpha.wallhaven.cc/"
@@ -1561,7 +1560,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6423">
                   <!-- image -->
-                  <img class="block" id="u6423_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6423_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6406-6" href="https://www.flickr.com/"
@@ -1578,7 +1577,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6420">
                   <!-- image -->
-                  <img class="block" id="u6420_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6420_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6405-6" href="http://cn.forwallpaper.com/"
@@ -1595,7 +1594,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6429">
                   <!-- image -->
-                  <img class="block" id="u6429_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6429_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6412-6" href="http://www.bing.com/gallery/"
@@ -1612,7 +1611,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6399">
                   <!-- image -->
-                  <img class="block" id="u6399_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6399_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6419-6" href="http://www.splashbase.co/"
@@ -1644,7 +1643,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6425">
                   <!-- image -->
-                  <img class="block" id="u6425_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6425_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6413-6" href="http://www.123rf.com.cn/"
@@ -1661,7 +1660,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6402">
                   <!-- image -->
-                  <img class="block" id="u6402_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6402_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6418-6" href="http://www.hellorf.com/"
@@ -1678,7 +1677,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6407">
                   <!-- image -->
-                  <img class="block" id="u6407_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6407_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6411-6" href="http://www.quanjing.com/"
@@ -1695,7 +1694,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6416">
                   <!-- image -->
-                  <img class="block" id="u6416_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6416_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6395-6" href="http://www.gettyimages.cn/"
@@ -1712,7 +1711,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6396">
                   <!-- image -->
-                  <img class="block" id="u6396_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6396_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6401-6" href="http://www.shutterstock.com/"
@@ -1740,17 +1739,17 @@ permalink: /hao/
           </a>
           <div class="clip_frame grpelem" id="u7619">
             <!-- image -->
-            <img class="block" id="u7619_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7619_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7622">
             <!-- image -->
-            <img class="block" id="u7622_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7622_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7625">
             <!-- image -->
-            <img class="block" id="u7625_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7625_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
         </div>
@@ -1794,7 +1793,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6510">
                   <!-- image -->
-                  <img class="block" id="u6510_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6510_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6512-6" href="http://www.cssauthor.com/"
@@ -1811,7 +1810,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6524">
                   <!-- image -->
-                  <img class="block" id="u6524_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6524_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6495-6" href="http://flatui.com/"
@@ -1828,7 +1827,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6507">
                   <!-- image -->
-                  <img class="block" id="u6507_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6507_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6506-6" href="http://www.mobile-patterns.com/"
@@ -1845,7 +1844,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6518">
                   <!-- image -->
-                  <img class="block" id="u6518_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6518_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6490-6" href="http://www.uiparade.com/"
@@ -1862,7 +1861,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6516">
                   <!-- image -->
-                  <img class="block" id="u6516_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6516_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6500-6" href="http://capptivate.co/"
@@ -1894,7 +1893,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6491">
                   <!-- image -->
-                  <img class="block" id="u6491_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6491_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6499-6" href="http://www.xueui.cn/"
@@ -1911,7 +1910,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6497">
                   <!-- image -->
-                  <img class="block" id="u6497_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6497_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6514-6" href="http://www.tuyiyi.com/"
@@ -1928,7 +1927,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6503">
                   <!-- image -->
-                  <img class="block" id="u6503_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6503_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6526-6" href="http://ui4app.com/"
@@ -1945,7 +1944,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6493">
                   <!-- image -->
-                  <img class="block" id="u6493_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6493_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6523-6" href="http://www.uisheji.com/"
@@ -1962,7 +1961,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6520">
                   <!-- image -->
-                  <img class="block" id="u6520_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6520_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6515-6" href="http://www.boxui.com/"
@@ -1990,17 +1989,17 @@ permalink: /hao/
           </a>
           <div class="clip_frame grpelem" id="u7633">
             <!-- image -->
-            <img class="block" id="u7633_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7633_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7636">
             <!-- image -->
-            <img class="block" id="u7636_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7636_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7639">
             <!-- image -->
-            <img class="block" id="u7639_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7639_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
         </div>
@@ -2044,7 +2043,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6596">
                   <!-- image -->
-                  <img class="block" id="u6596_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6596_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6604-6" href="http://themeforest.net/"
@@ -2061,7 +2060,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6592">
                   <!-- image -->
-                  <img class="block" id="u6592_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6592_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6589-6" href="http://www.1stwebdesigner.com/"
@@ -2078,7 +2077,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6600">
                   <!-- image -->
-                  <img class="block" id="u6600_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6600_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6622-6" href="http://www.csswinner.com/"
@@ -2095,7 +2094,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6590">
                   <!-- image -->
-                  <img class="block" id="u6590_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6590_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6610-6" href="http://www.cssdesignawards.com/"
@@ -2112,7 +2111,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6613">
                   <!-- image -->
-                  <img class="block" id="u6613_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6613_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6588-6" href="https://www.thebestdesigns.com/"
@@ -2144,7 +2143,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6598">
                   <!-- image -->
-                  <img class="block" id="u6598_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6598_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6587-6" href="http://www.68design.net/"
@@ -2161,7 +2160,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6619">
                   <!-- image -->
-                  <img class="block" id="u6619_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6619_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6618-6" href="http://www.design63.com.cn/"
@@ -2178,7 +2177,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6615">
                   <!-- image -->
-                  <img class="block" id="u6615_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6615_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6603-6" href="http://www.shejidaren.com/"
@@ -2195,7 +2194,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6606">
                   <!-- image -->
-                  <img class="block" id="u6606_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6606_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6612-6" href="http://css51.com/"
@@ -2212,7 +2211,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6608">
                   <!-- image -->
-                  <img class="block" id="u6608_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6608_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6621-6" href="http://web.2008php.com/"
@@ -2240,22 +2239,22 @@ permalink: /hao/
           </a>
           <div class="clip_frame grpelem" id="u7642">
             <!-- image -->
-            <img class="block" id="u7642_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7642_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7648">
             <!-- image -->
-            <img class="block" id="u7648_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7648_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7654">
             <!-- image -->
-            <img class="block" id="u7654_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7654_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7657">
             <!-- image -->
-            <img class="block" id="u7657_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7657_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
         </div>
@@ -2299,7 +2298,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6712">
                   <!-- image -->
-                  <img class="block" id="u6712_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6712_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6687-6" href="http://www.newwebpick.com/"
@@ -2316,7 +2315,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6698">
                   <!-- image -->
-                  <img class="block" id="u6698_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6698_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6697-6" href="http://lovelypackage.com/"
@@ -2333,7 +2332,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6682">
                   <!-- image -->
-                  <img class="block" id="u6682_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6682_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6711-6" href="http://cargocollective.com/"
@@ -2350,7 +2349,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6688">
                   <!-- image -->
-                  <img class="block" id="u6688_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6688_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6715-6" href="http://businesscardjournal.com/"
@@ -2367,7 +2366,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6702">
                   <!-- image -->
-                  <img class="block" id="u6702_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6702_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6701-6" href="http://www.cardnerd.com/"
@@ -2399,7 +2398,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6717">
                   <!-- image -->
-                  <img class="block" id="u6717_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6717_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6716-6" href="http://www.ccdol.com/"
@@ -2416,7 +2415,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6708">
                   <!-- image -->
-                  <img class="block" id="u6708_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6708_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6714-6" href="http://www.jiawin.com/"
@@ -2433,7 +2432,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6690">
                   <!-- image -->
-                  <img class="block" id="u6690_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6690_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6695-6" href="http://www.poboo.com/"
@@ -2450,7 +2449,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6685">
                   <!-- image -->
-                  <img class="block" id="u6685_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6685_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6704-6" href="http://www.sj33.cn/"
@@ -2467,7 +2466,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6705">
                   <!-- image -->
-                  <img class="block" id="u6705_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6705_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6696-6" href="http://www.3visual3.com/"
@@ -2495,12 +2494,12 @@ permalink: /hao/
           </a>
           <div class="clip_frame grpelem" id="u7660">
             <!-- image -->
-            <img class="block" id="u7660_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7660_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7663">
             <!-- image -->
-            <img class="block" id="u7663_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7663_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
         </div>
@@ -2544,7 +2543,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6784">
                   <!-- image -->
-                  <img class="block" id="u6784_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6784_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6781-6" href="http://www.logologo.com/"
@@ -2561,7 +2560,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6810">
                   <!-- image -->
-                  <img class="block" id="u6810_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6810_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6806-6" href="http://stocklogos.com/"
@@ -2578,7 +2577,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6801">
                   <!-- image -->
-                  <img class="block" id="u6801_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6801_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6780-6" href="http://www.logogala.com/"
@@ -2595,7 +2594,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6786">
                   <!-- image -->
-                  <img class="block" id="u6786_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6786_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6778-6" href="https://99designs.com/logo-design/store"
@@ -2612,7 +2611,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6799">
                   <!-- image -->
-                  <img class="block" id="u6799_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6799_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6814-6" href="http://logoinspirations.com/"
@@ -2644,7 +2643,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6788">
                   <!-- image -->
-                  <img class="block" id="u6788_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6788_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6803-6" href="http://www.logodashi.com/"
@@ -2661,7 +2660,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6807">
                   <!-- image -->
-                  <img class="block" id="u6807_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6807_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6809-6" href="http://www.logoair.com/"
@@ -2678,7 +2677,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6791">
                   <!-- image -->
-                  <img class="block" id="u6791_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6791_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6794-6" href="http://www.rologo.com/"
@@ -2695,7 +2694,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6796">
                   <!-- image -->
-                  <img class="block" id="u6796_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6796_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6790-6" href="http://www.logoshe.com/"
@@ -2712,7 +2711,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6782">
                   <!-- image -->
-                  <img class="block" id="u6782_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6782_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6805-6" href="http://logonc.com/"
@@ -2740,17 +2739,17 @@ permalink: /hao/
           </a>
           <div class="clip_frame grpelem" id="u7666">
             <!-- image -->
-            <img class="block" id="u7666_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7666_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7669">
             <!-- image -->
-            <img class="block" id="u7669_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7669_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7672">
             <!-- image -->
-            <img class="block" id="u7672_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7672_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
         </div>
@@ -2794,7 +2793,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6902">
                   <!-- image -->
-                  <img class="block" id="u6902_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6902_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6909-6" href="http://isux.tencent.com/"
@@ -2811,7 +2810,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6887">
                   <!-- image -->
-                  <img class="block" id="u6887_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6887_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6876-6" href="http://cdc.tencent.com/"
@@ -2828,7 +2827,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6882">
                   <!-- image -->
-                  <img class="block" id="u6882_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6882_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6896-6" href="http://mxd.tencent.com/"
@@ -2845,7 +2844,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6877">
                   <!-- image -->
-                  <img class="block" id="u6877_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6877_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6879-6" href="http://ued.taobao.org/blog/"
@@ -2862,7 +2861,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6894">
                   <!-- image -->
-                  <img class="block" id="u6894_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6894_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6886-6" href="http://mux.alimama.com/"
@@ -2894,7 +2893,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6898">
                   <!-- image -->
-                  <img class="block" id="u6898_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6898_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6875-6" href="http://cued.xunlei.com/"
@@ -2911,7 +2910,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6905">
                   <!-- image -->
-                  <img class="block" id="u6905_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6905_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6893-6" href="http://uec.nq.com/"
@@ -2928,7 +2927,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6907">
                   <!-- image -->
-                  <img class="block" id="u6907_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6907_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6891-6" href="http://uxc.360.cn/"
@@ -2945,7 +2944,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6884">
                   <!-- image -->
-                  <img class="block" id="u6884_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6884_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6904-6" href="http://vc.changyou.com/"
@@ -2962,7 +2961,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6900">
                   <!-- image -->
-                  <img class="block" id="u6900_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6900_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6892-6" href="http://ued.baidu.com/"
@@ -2990,12 +2989,12 @@ permalink: /hao/
           </a>
           <div class="clip_frame grpelem" id="u7680">
             <!-- image -->
-            <img class="block" id="u7680_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7680_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7683">
             <!-- image -->
-            <img class="block" id="u7683_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7683_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
         </div>
@@ -3039,7 +3038,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6987">
                   <!-- image -->
-                  <img class="block" id="u6987_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6987_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6992-6" href="http://design.tutsplus.com/categories/adobe-photoshop"
@@ -3056,7 +3055,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6989">
                   <!-- image -->
-                  <img class="block" id="u6989_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6989_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6991-6" href="http://www.photoshoptutorials.ws/"
@@ -3073,7 +3072,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u7000">
                   <!-- image -->
-                  <img class="block" id="u7000_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u7000_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6970-6" href="http://psd.fanextra.com/"
@@ -3090,7 +3089,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6993">
                   <!-- image -->
-                  <img class="block" id="u6993_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6993_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6973-6" href="http://www.psdvault.com/"
@@ -3107,7 +3106,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6978">
                   <!-- image -->
-                  <img class="block" id="u6978_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6978_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6984-6" href="http://designstacks.net/"
@@ -3139,7 +3138,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6980">
                   <!-- image -->
-                  <img class="block" id="u6980_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6980_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u7006-6" href="http://www.missyuan.net/"
@@ -3156,7 +3155,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6974">
                   <!-- image -->
-                  <img class="block" id="u6974_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6974_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u7002-6" href="http://www.86ps.com/"
@@ -3173,7 +3172,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6996">
                   <!-- image -->
-                  <img class="block" id="u6996_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6996_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6998-6" href="http://www.68ps.com/"
@@ -3190,7 +3189,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u7004">
                   <!-- image -->
-                  <img class="block" id="u7004_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u7004_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6976-6" href="http://www.68ps.com/"
@@ -3207,7 +3206,7 @@ permalink: /hao/
                 </a>
                 <div class="clip_frame grpelem" id="u6971">
                   <!-- image -->
-                  <img class="block" id="u6971_img" src="images/line.png" alt="" width="1"
+                  <img class="block" id="u6971_img" src="/assets/hao/line.png" alt="" width="1"
                   height="80" />
                 </div>
                 <a class="nonblock nontext clearfix grpelem" id="u6977-6" href="http://pcedu.pconline.com.cn/sj/pm/photoshop/"
@@ -3233,17 +3232,17 @@ permalink: /hao/
           </div>
           <div class="clip_frame grpelem" id="u7686">
             <!-- image -->
-            <img class="block" id="u7686_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7686_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7689">
             <!-- image -->
-            <img class="block" id="u7689_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7689_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
           <div class="clip_frame grpelem" id="u7692">
             <!-- image -->
-            <img class="block" id="u7692_img" src="images/hot.png" alt="" width="11"
+            <img class="block" id="u7692_img" src="/assets/hao/hot.png" alt="" width="11"
             height="11" />
           </div>
         </div>
@@ -3307,16 +3306,16 @@ permalink: /hao/
     </div>
     <!-- JS includes -->
     <script type="text/javascript">
-      if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn2.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+      if (document.location.protocol != 'https:') document.write('\x3Cscript src="/assets/hao/jquery-1.js" type="text/javascript">\x3C/script>');
     </script>
     <script type="text/javascript">
-      window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+      window.jQuery || document.write('\x3Cscript src="/assets/hao/jquery-1.js" type="text/javascript">\x3C/script>');
     </script>
-    <script src="scripts/museutils.js?212726984" type="text/javascript">
+    <script src="/assets/hao/museutils.js" type="text/javascript">
     </script>
-    <script src="scripts/jquery.scrolleffects.js?519931148" type="text/javascript">
+    <script src="/assets/hao/jquery_002.js" type="text/javascript">
     </script>
-    <script src="scripts/jquery.watch.js?4125239756" type="text/javascript">
+    <script src="/assets/hao/jquery.js" type="text/javascript">
     </script>
     <!-- Other scripts -->
     <script type="text/javascript">

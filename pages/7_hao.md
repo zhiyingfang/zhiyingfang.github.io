@@ -2,7 +2,7 @@
 permalink: /hao/
 ---
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>??????</title>
@@ -145,7 +145,7 @@ permalink: /hao/
     <div class="row">
       <div class="col-md-12">
         <a href="mailto:{{ site.email }}"><span class="glyphicon glyphicon-envelope"></span> {{ site.email }}</a>
-        <span class="point"> · </span>
+        <span class="point"> Â· </span>
         {% if site.github_username %}
           
           <a href="https://github.com/{{ site.github_username }}">
@@ -159,13 +159,13 @@ permalink: /hao/
           </a>
           
           {% endif %}
-          <span class="point"> · </span>
+          <span class="point"> Â· </span>
           <span><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></span>
-          <span class="point"> · </span>
+          <span class="point"> Â· </span>
           <span>{{ site.description }}</span>
-          <span class="point"> · </span>
+          <span class="point"> Â· </span>
           <span>&copy; 2016 ???</span>
-          <span class="point"> · </span>
+          <span class="point"> Â· </span>
           <span>Designed by <a href="https://github.com/Gaohaoyang">HyG</a></span>
 
       </div>

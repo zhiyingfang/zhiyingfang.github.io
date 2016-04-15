@@ -175,7 +175,6 @@ permalink: /hao/
       <img class="block" id="u7558_img" src="/assets/hao/hot.png" alt="" width="11" height="11"/>
      </div>
     </div>
-    <a class="nonblock nontext anim_swing clip_frame mse_pre_init" id="u7519" href="index.html#top"><!-- image --><img class="block" id="u7519_img" src="/assets/hao/top.png" alt="" width="40" height="40"/></a>
     <div class="clearfix colelem" id="pu6105"><!-- group -->
      <div class="clearfix grpelem" id="u6105"><!-- group -->
       <div class="rounded-corners clearfix grpelem" id="u6106"><!-- column -->

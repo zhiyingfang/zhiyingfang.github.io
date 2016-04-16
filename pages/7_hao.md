@@ -10,21 +10,13 @@ permalink: /hao/
   <title>设计网址导航</title>
 
 <style>
+
 /* 下面三行是css部分 */
-.float-right{ width:90px; height:400px; background-color: #FFFFFF; position:absolute; left:8%; top:40px; margin-left:0px; z-index:10; overflow:hidden; -pie-box-shadow: 0px 5px 8px #F8F8F8;
-	-moz-box-shadow: 0px 5px 8px rgba(247, 247, 247, 0.8);
-	-webkit-box-shadow: 0px 5px 8px -1px rgba(247, 247, 247, 0.8);
-	box-shadow: 0px 5px 8px rgba(247, 247, 247, 0.8);
-	border-style: solid;
-	border-color: #F7F7F7;
-	background-color: #FFFFFF;
-	-moz-border-radius: 4px;
-	-webkit-border-radius: 4px;
-	-khtml-border-radius: 4px;
-	border-radius: 4px;
-	border-width: 1px 1px 2px;}
-.float-right a{ width: 90px; margin:0 2%;height: 30px; line-height:30px; text-align:center; display:block; font-size:13px; color: #F15A24; text-transform:none;text-decoration:none;}
-.float-right a:hover{ background-color: transparent;transition:all 0.3s linear;-webkit-transition:all 0.3s linear;-mos-transition:all 0.3s linear;-o-transition:all 0.3s linear; text-decoration:underline}
+.float-right{ width:90px; height:370px; position:absolute; left:6%; top:10%; margin-left:0px; z-index:10; overflow:hidden; -pie-box-shadow: 0px 5px 8px #F8F8F8;-moz-box-shadow: 0px 5px 8px rgba(247, 247, 247, 0.8);-webkit-box-shadow: 0px 5px 8px -1px rgba(247, 247, 247, 0.8);box-shadow: 0px 5px 8px rgba(247, 247, 247, 0.8);border-style: solid;border-color: #F7F7F7;background-color: #FFFFFF;-moz-border-radius: 4px;-webkit-border-radius: 4px;-khtml-border-radius: 4px;border-radius: 4px;border-width: 1px 1px 2px;}
+.float-right a{ width: 90px; margin:0 2%;height: 30px; line-height:40px; text-align:center; display:block; font-size:14px; text-decoration:none;}
+.float-right a:link{ width: 90px; margin:0 2%;height: 30px; line-height:40px; text-align:center; display:block; font-size:14px; color: #F15A24; text-decoration:none;}
+.float-right a:hover{ color: #F15A24; background-color: transparent;transition:all 0.3s linear;-webkit-transition:all 0.3s linear;-mos-transition:all 0.3s linear;-o-transition:all 0.3s linear; text-decoration:none}
+
 </style>
 
 <link rel="stylesheet" type="text/css" href="/assets/hao/site_global.css"/>

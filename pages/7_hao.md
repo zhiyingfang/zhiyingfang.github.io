@@ -949,21 +949,7 @@ permalink: /hao/
 </div>
 
 <script src="/assets/hao/2.js"></script>
-<script>
-	var lanren = {
-		navFast:function(){
-			var defaultTop = 40; //默认顶部保持上下居中，再往上去100像素
-			$(window).scroll(function(){
-				var offsetTop = defaultTop + $(window).scrollTop()+'px';
-				$('.float-right').animate({top:offsetTop},
-				{	duration: 700,	//滑动速度
-     				queue: false    //此动画将不进入动画队列
-     			});						  
-			});
-		}
-	};
-	lanren.navFast();
-</script>
+
    
   </body>
 </html>

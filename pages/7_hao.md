@@ -20,7 +20,6 @@ permalink: /hao/
 </style>
 
 <link rel="stylesheet" type="text/css" href="/assets/hao/site_global.css"/>
-<link rel="stylesheet" type="text/css" href="1/assets/hao/master_a-tmpl.css"/>
 <link rel="stylesheet" type="text/css" href="/assets/hao/index.css"/>
 
 </head>
@@ -945,7 +944,7 @@ permalink: /hao/
     <a href="#ps">PS专区</a>  
 </div>
 
-<script src="http://www.lanrenzhijia.com/ajaxjs/jquery.min.js"></script>
+<script src="/assets/1.js"></script>
 <script>
 	var lanren = {
 		navFast:function(){

@@ -1,5 +1,5 @@
 ---
-permalink: /123/
+permalink: /hao/
 ---
 
 <html class="html">

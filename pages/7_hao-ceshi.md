@@ -675,6 +675,30 @@ a.nonblock.nontext,img.block
         </div>
         <a id="fangge6" href="http://www.uhdwallpapers.org/" target="_blank"><!-- content --><h2 id="wangzhi1">Ultra HD Wallpapers</h2><p id="shuoming2">超清壁纸分享站点，提供大量CC0授权的壁纸，其他壁纸可查看授权进行使用。</p></a>
        </div>
+       <div id="kuang4"><!-- 第四行 -->
+       
+        <a id="fangge1" href="http://kaboompics.com" target="_blank"><!-- content --><h2 id="wangzhi2">Kaboompics</h2><p id="shuoming2">无版权限制的高质量图片素材站，可搜索且图片每天进行更新。</p></a>
+        <div id="shuxian1"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge2" href="http://stokpic.com" target="_blank"><!-- content --><h2 id="wangzhi2">stokpic</h2><p id="shuoming2">拥有大量可商用图片资源，可按分类进行查看并支持邮件订阅，每2周推送10张图。</p></a>
+        <div id="shuxian2"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge3" href="http://www.photocrops.com" target="_blank"><!-- content --><h2 id="wangzhi2">Photocrops</h2><p id="shuoming2">CC0授权的高质量摄影图片分享，图片数量较少。</p></a>
+        <div id="shuxian3"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge4" href="http://www.freestockparadise.com" target="_blank"><!-- content --><h2 id="wangzhi2">Free Stock Paradise</h2><p id="shuoming2">高清摄影图片分享，每周进行更新，可商用但需要留网站链接。</p></a>
+        <div id="shuxian4"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge5" href="http://www.stocka.co" target="_blank"><!-- content --><h2 id="wangzhi2">stocka</h2><p id="shuoming2">免费高质量图片网站，不过图片的数量较少。</p></a>
+        <div id="shuxian5"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge6" href="http://shutteroo.com" target="_blank"><!-- content --><h2 id="wangzhi2">Shutteroo</h2><p id="shuoming2">全部可商用的高质量图片素材站点，多为旅行照片，比较适合找背景图。</p></a>
+       </div>
       </div>
       <div id="shuoming1"><!-- content -->
        <p>免版权图库，请根据说明按需查看，无法访问的请自行科学上网。</p>

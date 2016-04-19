@@ -699,6 +699,68 @@ a.nonblock.nontext,img.block
         </div>
         <a id="fangge6" href="http://shutteroo.com" target="_blank"><!-- content --><h2 id="wangzhi2">Shutteroo</h2><p id="shuoming2">全部可商用的高质量图片素材站点，多为旅行照片，比较适合找背景图。</p></a>
        </div>
+       <div id="kuang4"><!-- 第五行 -->
+       
+        <div id="icohot1"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        <div id="icohot4"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        
+        <a id="fangge1" href="https://stocksnap.io" target="_blank"><!-- content --><h2 id="wangzhi1">StockSnap</h2><p id="shuoming2">CC0授权的高质量图片库，每周会更新几百张图片，质量数量都很好，强烈推荐。</p></a>
+        <div id="shuxian1"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge2" href="http://publicdomainarchive.com" target="_blank"><!-- content --><h2 id="wangzhi2">publicdomainarchive</h2><p id="shuoming2">完全免费的高清图片资源，每周都会进行更新。</p></a>
+        <div id="shuxian2"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge3" href="http://www.freemagebank.com" target="_blank"><!-- content --><h2 id="wangzhi2">freemagebank</h2><p id="shuoming2">均为可商用高质量图片，虽然数量较少，但质量很高。</p></a>
+        <div id="shuxian3"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge4" href="http://morguefile.com/archive" target="_blank"><!-- content --><h2 id="wangzhi1">morgueFile</h2><p id="shuoming2">可商用的图片库，数量相当多，但部分图片质量一般。</p></a>
+        <div id="shuxian4"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge5" href="http://skitterphoto.com" target="_blank"><!-- content --><h2 id="wangzhi2">Skitterphoto</h2><p id="shuoming2">CC0授权的高清大图网站，有超过800张公共领域的图片可以下载。</p></a>
+        <div id="shuxian5"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge6" href="http://freenaturestock.com" target="_blank"><!-- content --><h2 id="wangzhi2">Free Nature Stock</h2><p id="shuoming2">每天进行更新的高清自然摄影图片资源，无搜索，有空可以慢慢翻。</p></a>
+       </div>
+        <div id="kuang4"><!-- 第六行 -->
+       
+        <div id="icohot1"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        <div id="icohot4"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        
+        <a id="fangge1" href="https://stocksnap.io" target="_blank"><!-- content --><h2 id="wangzhi1">StockSnap</h2><p id="shuoming2">CC0授权的高质量图片库，每周会更新几百张图片，质量数量都很好，强烈推荐。</p></a>
+        <div id="shuxian1"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge2" href="http://publicdomainarchive.com" target="_blank"><!-- content --><h2 id="wangzhi2">publicdomainarchive</h2><p id="shuoming2">完全免费的高清图片资源，每周都会进行更新。</p></a>
+        <div id="shuxian2"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge3" href="http://www.freemagebank.com" target="_blank"><!-- content --><h2 id="wangzhi2">freemagebank</h2><p id="shuoming2">均为可商用高质量图片，虽然数量较少，但质量很高。</p></a>
+        <div id="shuxian3"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge4" href="http://morguefile.com/archive" target="_blank"><!-- content --><h2 id="wangzhi1">morgueFile</h2><p id="shuoming2">可商用的图片库，数量相当多，但部分图片质量一般。</p></a>
+        <div id="shuxian4"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge5" href="http://skitterphoto.com" target="_blank"><!-- content --><h2 id="wangzhi2">Skitterphoto</h2><p id="shuoming2">CC0授权的高清大图网站，有超过800张公共领域的图片可以下载。</p></a>
+        <div id="shuxian5"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge6" href="http://freenaturestock.com" target="_blank"><!-- content --><h2 id="wangzhi2">Free Nature Stock</h2><p id="shuoming2">每天进行更新的高清自然摄影图片资源，无搜索，有空可以慢慢翻。</p></a>
+       </div>
       </div>
       <div id="shuoming1"><!-- content -->
        <p>免版权图库，请根据说明按需查看，无法访问的请自行科学上网。</p>

@@ -763,28 +763,34 @@ a.nonblock.nontext,img.block
         <div id="icohot1"><!-- image -->
         <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
         </div>
+        <div id="icohot4"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        <div id="icohot6"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
         
-        <a id="fangge1" href="https://freeimages.red" target="_blank"><!-- content --><h2 id="wangzhi1">Free Images</h2><p id="shuoming2">CC0授权图片搜索，完全免费可商用，首页就一个搜索框。</p></a>
+        <a id="fangge1" href="http://www.designerspics.com" target="_blank"><!-- content --><h2 id="wangzhi1">DesignersPics</h2><p id="shuoming2">完全免费可商用的高清大图下载站，有分类和搜索，质量相当高。</p></a>
         <div id="shuxian1"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge2" href="http://www.stockvault.net" target="_blank"><!-- content --><h2 id="wangzhi2">Stockvault</h2><p id="shuoming2">可以非商业用途使用的图库，目前拥有7万多张高清大图且每周会更新几百张图片。</p></a>
+        <a id="fangge2" href="http://frankenfotos.com" target="_blank"><!-- content --><h2 id="wangzhi2">Franken Foto</h2><p id="shuoming2">CC-BY授权的高清摄影大图，可商用，多为风景摄影。</p></a>
         <div id="shuxian2"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge3" href="http://cn.freeimages.com" target="_blank"><!-- content --><h2 id="wangzhi2">FreeImages</h2><p id="shuoming2">拥有超过38万张免费图片可以使用，但需要遵守网站的版权规定，几乎不能商用，商务幻灯片都不行。</p></a>
+        <a id="fangge3" href="http://isorepublic.com" target="_blank"><!-- content --><h2 id="wangzhi2">ISO Republic</h2><p id="shuoming2">CC0授权的高清图片网站，很多实用的商务图片，同时提供收费图片项目。</p></a>
         <div id="shuxian3"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge4" href="http://www.4freephotos.com" target="_blank"><!-- content --><h2 id="wangzhi2">4 Free Photos</h2><p id="shuoming2">拥有近六千张可商用大图，不过图片有相应的CC授权，使用时需要注意。</p></a>
+        <a id="fangge4" href="http://www.gratisography.com" target="_blank"><!-- content --><h2 id="wangzhi1">Gratisography</h2><p id="shuoming2">CC0授权的高质量图片素材网站，图片质量相当高，并且每周都会更新。</p></a>
         <div id="shuxian4"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge5" href="http://www.alegriphotos.com" target="_blank"><!-- content --><h2 id="wangzhi2">Alegri photos</h2><p id="shuoming2">超过2400张高清图片可以下载，图片使用有相应的CC授权，下载时请注意。</p></a>
+        <a id="fangge5" href="http://magdeleine.co" target="_blank"><!-- content --><h2 id="wangzhi2">Magdeleine</h2><p id="shuoming2">包含CC0授权的高清图片网站，网站可以按颜色进行图片查看，同时包含其他CC授权图片。</p></a>
         <div id="shuxian5"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge6" href="http://goodstock.photos" target="_blank"><!-- content --><h2 id="wangzhi2">goodstock</h2><p id="shuoming2">免费可商用的高清摄影图片下载，可以进行搜索，有部分可用的好图。</p></a>
+        <a id="fangge6" href="https://stockphotos.io" target="_blank"><!-- content --><h2 id="wangzhi1">StockPhotos</h2><p id="shuoming2">超过两万七千张CC授权的高清图片可以下载，分类具体实用。</p></a>
        </div>
       </div>
       <div id="shuoming1"><!-- content -->

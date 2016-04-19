@@ -501,7 +501,7 @@ textarea
 	-o-box-shadow: 0 1px 2px rgba(0,0,0,0.4),0 0 30px rgba(10,10,0,0.1) inset;
 	box-shadow: 0 1px 2px rgba(0,0,0,0.4),0 0 30px rgba(10,10,0,0.1) inset;
 	width: 100px;
-	height: 400px;
+	height: 670px;
 	position: absolute;
 	margin-left: 0px;
 	z-index:10;
@@ -546,7 +546,7 @@ textarea
 	height: 800px;
 	position: fixed;
 	left:7%;
-	top: 141px
+	top: 110px
 }
 
 a.nonblock.nontext,img.block
@@ -586,33 +586,32 @@ a.nonblock.nontext,img.block
        </div>
        <div id="hengxian1"><!-- simple frame --></div>
        <div id="kuang4"><!-- 第一行 -->
-        <div id="icohot1"><!-- image -->
-        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11"/>
-        </div>
+       
         <div id="icohot6"><!-- image -->
         <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11"/>
         </div>
-        <a id="fangge1" href="http://pixabay.com/" target="_blank"><!-- content --><h2 id="wangzhi1">Pixabay</h2><p id="shuoming2">拥有33万张免费的照片、矢量文件和艺术插图，图片均可商用，无版权问题。</p></a>
+        
+        <a id="fangge1" href="https://unsplash.com" target="_blank"><!-- content --><h2 id="wangzhi2">Unsplash</h2><p id="shuoming2">CC0授权的高质量真实摄影图，每10天更新10张，不一定能遇到合适的图。</p></a>
         <div id="shuxian1"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge2" href="http://www.gratisography.com/" target="_blank"><!-- content --><h2 id="wangzhi2">Gratisography</h2><p id="shuoming2">免费的高分辨率图片网站。所有图片由Ryan McGuire免费提供，并且每周更新。</p></a>
+        <a id="fangge2" href="http://negativespace.co" target="_blank"><!-- content --><h2 id="wangzhi2">Negative Space</h2><p id="shuoming2">CC0授权的高清大图，每周更新一次，里面有部分商务相关的图片不错。</p></a>
         <div id="shuxian2"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge3" href="http://picjumbo.com/" target="_blank"><!-- content --><h2 id="wangzhi2">Pic Jumbo</h2><p id="shuoming2">为商务和个人作品提供完全免费的照片。同时提供高级账号，付费后可获得更多图片。</p></a>
+        <a id="fangge3" href="http://www.splitshire.com" target="_blank"><!-- content --><h2 id="wangzhi2">SplitShire</h2><p id="shuoming2">CC0授权的高清图片站，有分类和搜索，部分分类很适合PPTer使用。</p></a>
         <div id="shuxian3"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge4" href="http://www.lifeofpix.com/" target="_blank"><!-- content --><h2 id="wangzhi2">Life of Pix</h2><p id="shuoming2">提供免费的高分辨率照片的网站，无版权限制。图片多为欧洲景观。</p></a>
+        <a id="fangge4" href="http://www.lifeofpix.com" target="_blank"><!-- content --><h2 id="wangzhi2">Life of Pix</h2><p id="shuoming2">CC0授权的高清大图网站，每周更新一次，有分类但图片多为欧洲景观。</p></a>
         <div id="shuxian4"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge5" href="http://www.imcreator.com/free" target="_blank"><!-- content --><h2 id="wangzhi2">imcreator</h2><p id="shuoming2">提供搜索和分类目录，有人物、自然、艺术、图标等分类。可惜有的分类图较少。</p></a>
+        <a id="fangge5" href="http://freestocks.org" target="_blank"><!-- content --><h2 id="wangzhi2">freestocks</h2><p id="shuoming2">可商用的高清摄影图片，图片数量较少，objects & technology分类比较喜欢。</p></a>
         <div id="shuxian5"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge6" href="http://www.pexels.com/" target="_blank"><!-- content --><h2 id="wangzhi1">Pexels</h2><p id="shuoming2">非常漂亮的免版权高清图片网站，网站的用户体验非常好，值得收藏。</p></a>
+        <a id="fangge6" href="https://picjumbo.com" target="_blank"><!-- content --><h2 id="wangzhi1">picjumbo</h2><p id="shuoming2">完全免费可商用的图片站，有分类和搜索，有不少比较实用的图片。</p></a>
        </div>
        <div id="kuang4"><!-- 第二行 -->
         <div id="icohot2"><!-- image -->
@@ -645,7 +644,7 @@ a.nonblock.nontext,img.block
        </div>
       </div>
       <div id="shuoming1"><!-- content -->
-       <p>有了设计派提供的免版权图库，终于可以安安静静的做一名美腻的射鸡师了！欧耶！</p>
+       <p>免版权图库，请根据说明按需查看，无法访问的请自行科学上网。</p>
       </div>
      </div>
      <a id="gaoqingtuku"></a>
@@ -728,10 +727,10 @@ a.nonblock.nontext,img.block
      </div>
      <a id="shejikuzhan"></a>
     </div>
-    
+
   </div>
 </div>
-    
+​    
 
 
 <div id="nav">

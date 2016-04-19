@@ -607,40 +607,39 @@ a.nonblock.nontext,img.block
         <div id="shuxian4"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge5" href="http://freestocks.org" target="_blank"><!-- content --><h2 id="wangzhi2">freestocks</h2><p id="shuoming2">可商用的高清摄影图片，图片数量较少，objects & technology分类比较喜欢。</p></a>
+        <a id="fangge5" href="http://freestocks.org" target="_blank"><!-- content --><h2 id="wangzhi2">freestocks</h2><p id="shuoming2">可商用的高清摄影图片，图片数量较少，其中的部分图集比较喜欢。</p></a>
         <div id="shuxian5"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
         <a id="fangge6" href="https://picjumbo.com" target="_blank"><!-- content --><h2 id="wangzhi1">picjumbo</h2><p id="shuoming2">完全免费可商用的图片站，有分类和搜索，有不少比较实用的图片。</p></a>
        </div>
        <div id="kuang4"><!-- 第二行 -->
-        <div id="icohot2"><!-- image -->
+       
+        <div id="icohot1"><!-- image -->
         <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11"/>
         </div>
-        <div id="icohot4"><!-- image -->
-        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11"/>
-        </div>
-        <a id="fangge1" href="http://deathtothestockphoto.com/" target="_blank"><!-- content --><h2 id="wangzhi2">Death To Stock Photos</h2><p id="shuoming2">用户需要邮箱订阅后才能获取该网站上的图片，每月会向你发送免费的图片素材。</p></a>
+        
+        <a id="fangge1" href="http://www.imcreator.com/free" target="_blank"><!-- content --><h2 id="wangzhi1">IM Free</h2><p id="shuoming2">全部可商用的高清大图库，有分类和搜索，部分分类图比较少。</p></a>
         <div id="shuxian1"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge2" href="http://publicdomainarchive.com/" target="_blank"><!-- content --><h2 id="wangzhi1">Public domain archive</h2><p id="shuoming2">目前已经有15万张免费高清图像下载，设计师可以免费使用在你的创意项目上。</p></a>
+        <a id="fangge2" href="http://getrefe.tumblr.com" target="_blank"><!-- content --><h2 id="wangzhi2">getrefe</h2><p id="shuoming2">可商用的高清图片tumblr博客，有不少比较实用的商务图片可以下载。</p></a>
         <div id="shuxian2"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge3" href="http://snapographic.com/" target="_blank"><!-- content --><h2 id="wangzhi2">Snapo graphic</h2><p id="shuoming2">免版权高清图库，图片质量很高，但分类与图片数量较少。</p></a>
+        <a id="fangge3" href="http://deathtothestockphoto.com" target="_blank"><!-- content --><h2 id="wangzhi2">Death to Stock</h2><p id="shuoming2">需要邮箱订阅后才能获取图片，每个月会发送免费图片素材。</p></a>
         <div id="shuxian3"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge4" href="http://www.designerspics.com/" target="_blank"><!-- content --><h2 id="wangzhi1">Designerspics</h2><p id="shuoming2">设计师专用高清无版权图片网站。图片质量超高，均为设计师精选。</p></a>
+        <a id="fangge4" href="https://stock.tookapic.com/photos?filter=free" target="_blank"><!-- content --><h2 id="wangzhi2">tookapic</h2><p id="shuoming2">CC0授权的高清图片，无搜索，网站同时提供收费图片。</p></a>
         <div id="shuxian4"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge5" href="https://stocksnap.io/" target="_blank"><!-- content --><h2 id="wangzhi2">Stock Snap</h2><p id="shuoming2">超赞的免版权高清图库，网站很有设计感，且所有图片均无需注明版权信息。</p></a>
+        <a id="fangge5" href="http://jaymantri.com" target="_blank"><!-- content --><h2 id="wangzhi2">Jay mantri</h2><p id="shuoming2">CC0授权的高清摄影图片，风景摄影居多且不带搜索，不定期更新。</p></a>
         <div id="shuxian5"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge6" href="http://travelcoffeebook.com/" target="_blank"><!-- content --><h2 id="wangzhi2">Travel coffee book</h2><p id="shuoming2">均为漂亮的旅行照片，同样无版权限制。每十天更新10张图片。</p></a>
+        <a id="fangge6" href="http://snapwiresnaps.tumblr.com" target="_blank"><!-- content --><h2 id="wangzhi2">Snapwire Snaps</h2><p id="shuoming2">CC0授权的高清摄影图片，风景图片为主，每7天更新7张。</p></a>
        </div>
       </div>
       <div id="shuoming1"><!-- content -->

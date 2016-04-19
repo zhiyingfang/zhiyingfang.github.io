@@ -641,6 +641,40 @@ a.nonblock.nontext,img.block
         </div>
         <a id="fangge6" href="http://snapwiresnaps.tumblr.com" target="_blank"><!-- content --><h2 id="wangzhi2">Snapwire Snaps</h2><p id="shuoming2">CC0授权的高清摄影图片，风景图片为主，每7天更新7张。</p></a>
        </div>
+       <div id="kuang4"><!-- 第三行 -->
+       
+        <div id="icohot2"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11"/>
+        </div>
+        <div id="icohot4"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11"/>
+        </div>
+        <div id="icohot6"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11"/>
+        </div>
+        
+        <a id="fangge1" href="http://nos.twnsnd.co" target="_blank"><!-- content --><h2 id="wangzhi2">New Old Stock</h2><p id="shuoming2">整站都是老照片，质量一般，有这方面需求的可以看看。</p></a>
+        <div id="shuxian1"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge2" href="https://www.pexels.com" target="_blank"><!-- content --><h2 id="wangzhi1">Pexels</h2><p id="shuoming2">CC0授权的高清图库，数量和质量都很令人满意，强烈推荐。</p></a>
+        <div id="shuxian2"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge3" href="http://raumrot.com" target="_blank"><!-- content --><h2 id="wangzhi2">raumrot</h2><p id="shuoming2">可商用高清图片，目前已有近千张，使用时需注意图片的CC授权。</p></a>
+        <div id="shuxian3"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge4" href="https://pixabay.com" target="_blank"><!-- content --><h2 id="wangzhi1">Pixabay</h2><p id="shuoming2">CC0授权的高清图片网站，目前有超过62万张图，用起来十分顺手。</p></a>
+        <div id="shuxian4"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge5" href="https://foodiesfeed.com" target="_blank"><!-- content --><h2 id="wangzhi2">FoodiesFeed</h2><p id="shuoming2">可任意使用的高清食物图片站，同时提供收费图片项目。</p></a>
+        <div id="shuxian5"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge6" href="http://www.uhdwallpapers.org/" target="_blank"><!-- content --><h2 id="wangzhi1">Ultra HD Wallpapers</h2><p id="shuoming2">超清壁纸分享站点，提供大量CC0授权的壁纸，其他壁纸可查看授权进行使用。</p></a>
+       </div>
       </div>
       <div id="shuoming1"><!-- content -->
        <p>免版权图库，请根据说明按需查看，无法访问的请自行科学上网。</p>

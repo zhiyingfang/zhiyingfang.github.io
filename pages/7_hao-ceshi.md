@@ -572,8 +572,8 @@ a.nonblock.nontext,img.block
   <body>
   <div id="page"><!-- column -->
    <div class="position_content" id="page_position_content">
-    <a id="CC0tuku"></a>
     <div id="kuang1"><!-- group -->
+    <a id="CC0tuku"></a>
      <div id="kuang2"><!-- group -->
       <div id="bg1"><!-- column -->
        <div id="kuang3"><!-- group -->
@@ -797,9 +797,9 @@ a.nonblock.nontext,img.block
        <p>免版权图库，请根据说明按需查看，无法访问的请自行科学上网。</p>
       </div>
      </div>
-     <a id="gaoqingtuku"></a>
     </div>
     <div id="kuang1"><!-- group -->
+     <a id="gaoqingtuku"></a>
      <div id="kuang2"><!-- group -->
       <div id="bg1"><!-- column -->
        <div id="kuang3"><!-- group -->
@@ -875,7 +875,6 @@ a.nonblock.nontext,img.block
          <p>学会利用素材资源，天天都是开挂模式！更多现成素材请<a class="nonblock" href="http://www.shejipai.cn/category/materials-and-download" target="_blank"><font color="#76A510"> 点击这里&gt;&gt;</font></a></p>
      </div>
      </div>
-     <a id="shejikuzhan"></a>
     </div>
 
   </div>

@@ -816,7 +816,7 @@ a.nonblock.nontext,img.block
         <div id="shuxian3"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge4" href="http://www.freeepy.com" target="_blank"><!-- content --><h2 id="wangzhi2">Freeepy</h2><p id="shuoming2">CC0授权的高清摄影图片，脸书分享后可下载，或打开网页源码搜索“Download image”得到原图地址。</p></a>
+        <a id="fangge4" href="http://www.freeepy.com" target="_blank"><!-- content --><h2 id="wangzhi2">Freeepy</h2><p id="shuoming2">CC0授权，脸书分享后可下载，或源码搜索“Download image”得到原图地址。</p></a>
         <div id="shuxian4"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>

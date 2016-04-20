@@ -1058,6 +1058,34 @@ a.nonblock.nontext,img.block
         </div>
         <a id="fangge6" href="http://librestock.com" target="_blank"><!-- content --><h2 id="wangzhi1">LibreStock</h2><p id="shuoming2">CC0授权，聚合43个免版权图库的搜索引擎，强烈推荐。</p></a>
        </div>
+       <div id="kuang4"><!-- 第十六行 -->
+       
+        <div id="icohot5"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        
+        <a id="fangge1" href="http://www.freemediagoo.com" target="_blank"><!-- content --><h2 id="wangzhi2">FreeMediaGoo</h2><p id="shuoming2">提供免费可商用的图片、纹理和背景素材下载，质量一般。</p></a>
+        <div id="shuxian1"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge2" href="http://pickupimage.com" target="_blank"><!-- content --><h2 id="wangzhi2">pickupimage</h2><p id="shuoming2">可商用图片素材下载，内容一般且需要注册才能下载。</p></a>
+        <div id="shuxian2"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge3" href="http://www.photober.com" target="_blank"><!-- content --><h2 id="wangzhi2">PHOTOBER</h2><p id="shuoming2">提供免费可商用图片下载，有分类和搜索。</p></a>
+        <div id="shuxian3"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge4" href="http://www.stockpholio.net" target="_blank"><!-- content --><h2 id="wangzhi2">StockPholio</h2><p id="shuoming2">可搜索上百万张可商用图片素材，同时提供多尺寸下载选择，使用时注意授权。</p></a>
+        <div id="shuxian4"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge5" href="http://www.sitebuilderreport.com/stock-up" target="_blank"><!-- content --><h2 id="wangzhi1">Stock Up</h2><p id="shuoming2">可搜索26个免版权图库的上万张免费可商用图片。</p></a>
+        <div id="shuxian5"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge6" href="http://foodshot.co" target="_blank"><!-- content --><h2 id="wangzhi2">Foodshot</h2><p id="shuoming2">CC0授权，高质量食物摄影图片可以下载，网站滚动加载。</p></a>
+       </div>
       </div>
       <div id="shuoming1"><!-- content -->
        <p>免版权图库，请根据说明按需查看，无法访问的请自行科学上网。</p>

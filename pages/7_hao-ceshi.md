@@ -246,7 +246,7 @@ textarea
 	width: 50px;
 	min-height: 18px;
 	background-color: transparent;
-	opacity: 0.5;	/* 透明度，范围0-1 */
+	opacity: 0;	/* 透明度，范围0-1 */
 	-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	color: #7F7F7F;
@@ -841,6 +841,7 @@ a.nonblock.nontext,img.block
         </div>
         <a id="fangge6" href="http://www.agiledesigners.com/" target="_blank"><!-- content --><h2 id="wangzhi2">Agile designers</h2><p id="shuoming2">提供高质量平面设计与网页设计的素材。数量不多，但质量极高。</p></a>
        </div>
+      </div>
      <div id="shuoming1"><!-- content -->
          <p>学会利用素材资源，天天都是开挂模式！更多现成素材请<a class="nonblock" href="http://www.shejipai.cn/category/materials-and-download" target="_blank"><font color="#76A510"> 点击这里&gt;&gt;</font></a></p>
      </div>

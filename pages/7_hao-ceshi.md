@@ -846,7 +846,7 @@ a.nonblock.nontext,img.block
         <div id="shuxian2"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge3" href="http://foter.com" target="_blank"><!-- content --><h2 id="wangzhi1">Foter</h2><p id="shuoming1">CC授权的可搜索超过两亿张的高清图库，可按是否可商用进行查看，强烈推荐。</p></a>
+        <a id="fangge3" href="http://foter.com" target="_blank"><!-- content --><h2 id="wangzhi1">Foter</h2><p id="shuoming2">CC授权的可搜索超过两亿张的高清图库，可按是否可商用进行查看，强烈推荐。</p></a>
         <div id="shuxian3"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>

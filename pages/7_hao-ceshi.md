@@ -991,7 +991,38 @@ a.nonblock.nontext,img.block
         <div id="shuxian5"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge6" href="hhttps://imagefinder.co" target="_blank"><!-- content --><h2 id="wangzhi1">Image Finder</h2><p id="shuoming2">CC授权的高质量图片分享站，可搜索超过2万张图片，使用时注意授权。</p></a>
+        <a id="fangge6" href="https://imagefinder.co" target="_blank"><!-- content --><h2 id="wangzhi1">Image Finder</h2><p id="shuoming2">CC授权的高质量图片分享站，可搜索超过2万张图片，使用时注意授权。</p></a>
+       </div>
+       <div id="kuang4"><!-- 第十四行 -->
+       
+        <div id="icohot1"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        <div id="icohot5"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        
+        <a id="fangge1" href="http://skuawk.com" target="_blank"><!-- content --><h2 id="wangzhi1">skuawk</h2><p id="shuoming2">CC0授权的高质量摄影图片分享，提供多个分类，质量超高，网站也比较酷。</p></a>
+        <div id="shuxian1"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge2" href="http://finda.photo" target="_blank"><!-- content --><h2 id="wangzhi2">FindA</h2><p id="shuoming2">提供数千张CC0授权的高质量图片，图片基本来自各大免版权图库站。</p></a>
+        <div id="shuxian2"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge3" href="https://megapixelstock.com" target="_blank"><!-- content --><h2 id="wangzhi2">Megapixelstock</h2><p id="shuoming2">CC0授权的高质量图片素材站。</p></a>
+        <div id="shuxian3"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge4" href="http://epicva.com" target="_blank"><!-- content --><h2 id="wangzhi2">epicva</h2><p id="shuoming2">完全免费可商用的图片分享站点，多为欧洲风景人文摄影图片。</p></a>
+        <div id="shuxian4"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge5" href="http://photos.bypeople.com" target="_blank"><!-- content --><h2 id="wangzhi1">ByPeople</h2><p id="shuoming2">CC0授权的高清大图分享，目测搜索有点问题，站点的其他资源也很好。</p></a>
+        <div id="shuxian5"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge6" href="http://www.thelightpaintersloft.com" target="_blank"><!-- content --><h2 id="wangzhi2">Light Painters Loft</h2><p id="shuoming2">可免费使用的高清图片下载站点，同时提供付费图片下载服务。</p></a>
        </div>
       </div>
       <div id="shuoming1"><!-- content -->

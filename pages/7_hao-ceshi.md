@@ -744,7 +744,7 @@ a.nonblock.nontext,img.block
         <div id="shuxian2"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge3" href="http://cn.freeimages.com" target="_blank"><!-- content --><h2 id="wangzhi2">FreeImages</h2><p id="shuoming2">拥有超过38万张免费图片可以使用，但需要遵守网站的版权规定，几乎不能商用，商务幻灯片都不行。</p></a>
+        <a id="fangge3" href="http://cn.freeimages.com" target="_blank"><!-- content --><h2 id="wangzhi2">FreeImages</h2><p id="shuoming2">拥有超过38万张免费图片可以使用，但需要遵守网站的版权规定，几乎不能商用。</p></a>
         <div id="shuxian3"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
@@ -825,6 +825,40 @@ a.nonblock.nontext,img.block
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
         <a id="fangge6" href="http://www.freejpg.com.ar" target="_blank"><!-- content --><h2 id="wangzhi1">FreeJPG</h2><p id="shuoming2">上万张免费的高清图片，可搜索，质量参差不齐。</p></a>
+       </div>
+       <div id="kuang4"><!-- 第九行 -->
+       
+        <div id="icohot2"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        <div id="icohot3"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        <div id="icohot6"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        
+        <a id="fangge1" href="http://www.photostockeditor.com" target="_blank"><!-- content --><h2 id="wangzhi2">PhotoStockEditor</h2><p id="shuoming2">可商用的高清自然风光摄影图片分享，无搜索和分类。</p></a>
+        <div id="shuxian1"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge2" href="http://freefoodphotos.com" target="_blank"><!-- content --><h2 id="wangzhi1">Free Food Photos</h2><p id="shuoming2">可商用的高清食物摄影图片，量大可搜索，使用需注意CC—BY授权。</p></a>
+        <div id="shuxian2"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge3" href="http://foter.com" target="_blank"><!-- content --><h2 id="wangzhi1">Foter</h2><p id="shuoming1">CC授权的可搜索超过两亿张的高清图库，可按是否可商用进行查看，强烈推荐。</p></a>
+        <div id="shuxian3"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge4" href="http://www.resplashed.com" target="_blank"><!-- content --><h2 id="wangzhi2">resplashed</h2><p id="shuoming2">CC0授权的高清摄影图片网站，有近千张图片可进行搜索。</p></a>
+        <div id="shuxian4"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge5" href="http://beststockphotofree.com" target="_blank"><!-- content --><h2 id="wangzhi2">Best Stock Photo Free</h2><p id="shuoming2">注册可下载的高清图片站，图片有相应的CC授权，商用时查看下要求即可。</p></a>
+        <div id="shuxian5"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge6" href="http://fancycrave.com" target="_blank"><!-- content --><h2 id="wangzhi1">fancycrave</h2><p id="shuoming2">免费的高质量图片可使用，每天更新两张，还提供打包下载。</p></a>
        </div>
       </div>
       <div id="shuoming1"><!-- content -->

@@ -922,6 +922,40 @@ a.nonblock.nontext,img.block
         </div>
         <a id="fangge6" href="http://www.imagebase.net" target="_blank"><!-- content --><h2 id="wangzhi2">Imagebase</h2><p id="shuoming2">免费可商用的高清图片素材下载站，有六大分类并可搜索查看，提供多尺寸下载。</p></a>
        </div>
+       <div id="kuang4"><!-- 第十二行 -->
+       
+        <div id="icohot1"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        <div id="icohot3"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        <div id="icohot5"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        
+        <a id="fangge1" href="http://jeshoots.com" target="_blank"><!-- content --><h2 id="wangzhi1">JÉSHOOTS</h2><p id="shuoming2">CC0授权的高质量图片分享站点，提供很多模型下载。</p></a>
+        <div id="shuxian1"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge2" href="http://photos.polarfox.com" target="_blank"><!-- content --><h2 id="wangzhi2">polarfox</h2><p id="shuoming2">CC0授权的高清摄影图片分享，图片信息详细，数量不多。</p></a>
+        <div id="shuxian2"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge3" href="http://realisticshots.com" target="_blank"><!-- content --><h2 id="wangzhi1">Realistic Shots</h2><p id="shuoming2">均为可商用的高质量图片，有不少能用得上的图，每周更新7张。</p></a>
+        <div id="shuxian3"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge4" href="http://www.schoolphotoproject.com" target="_blank"><!-- content --><h2 id="wangzhi2">schoolphotoproject</h2><p id="shuoming2">提供免费的图片下载服务，目标受众是学生，目测不能商用。</p></a>
+        <div id="shuxian4"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge5" href="http://travelcoffeebook.com" target="_blank"><!-- content --><h2 id="wangzhi1">travelcoffeebook</h2><p id="shuoming2">基于CC0的高清旅行摄影图片分享站，适合做背景，可全部图片打包下载。</p></a>
+        <div id="shuxian5"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge6" href="http://www.everystockphoto.com" target="_blank"><!-- content --><h2 id="wangzhi2">everystockphoto</h2><p id="shuoming2">可搜索近三千万张免费图片，所有图片均有来源和相应授权说明。</p></a>
+       </div>
       </div>
       <div id="shuoming1"><!-- content -->
        <p>免版权图库，请根据说明按需查看，无法访问的请自行科学上网。</p>

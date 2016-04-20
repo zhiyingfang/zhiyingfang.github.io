@@ -489,7 +489,7 @@ textarea
 	width: 22px;
 	height: 18px;
 	margin-right: -10000px;
-	margin-top: 177px;
+	margin-top: -110px;
 	display: inline;
 	float: left;
 }
@@ -572,8 +572,8 @@ a.nonblock.nontext,img.block
   <body>
   <div id="page"><!-- column -->
    <div class="position_content" id="page_position_content">
-    <div id="kuang1"><!-- group -->
     <a id="CC0tuku"></a>
+    <div id="kuang1"><!-- group -->
      <div id="kuang2"><!-- group -->
       <div id="bg1"><!-- column -->
        <div id="kuang3"><!-- group -->

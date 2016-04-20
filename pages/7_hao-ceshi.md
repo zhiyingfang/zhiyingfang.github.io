@@ -786,7 +786,7 @@ a.nonblock.nontext,img.block
         <div id="shuxian4"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge5" href="http://magdeleine.co" target="_blank"><!-- content --><h2 id="wangzhi2">Magdeleine</h2><p id="shuoming2">包含CC0授权的高清图片网站，网站可以按颜色进行图片查看，同时包含其他CC授权图片。</p></a>
+        <a id="fangge5" href="http://magdeleine.co" target="_blank"><!-- content --><h2 id="wangzhi2">Magdeleine</h2><p id="shuoming2">包含CC0授权的高清图片网站，可以按颜色进行图片查看，同时包含其他CC授权图片。</p></a>
         <div id="shuxian5"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
@@ -860,6 +860,37 @@ a.nonblock.nontext,img.block
         </div>
         <a id="fangge6" href="http://fancycrave.com" target="_blank"><!-- content --><h2 id="wangzhi1">fancycrave</h2><p id="shuoming2">免费的高质量图片可使用，每天更新两张，还提供打包下载。</p></a>
        </div>
+       <div id="kuang4"><!-- 第十行 -->
+       
+        <div id="icohot3"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        <div id="icohot4"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        
+        <a id="fangge1" href="http://libreshot.com" target="_blank"><!-- content --><h2 id="wangzhi2">LibreShot</h2><p id="shuoming2">CC0授权的高质量图片可以下载，图片关键词详细，可进行搜索查看。</p></a>
+        <div id="shuxian1"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge2" href="http://huney.co" target="_blank"><!-- content --><h2 id="wangzhi2">Huney Co</h2><p id="shuoming2">CC0授权的高清图片分享站，不过要一页页翻看，不一定能遇到合适的图。</p></a>
+        <div id="shuxian2"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge3" href="http://www.rgbstock.com" target="_blank"><!-- content --><h2 id="wangzhi1">rgbstock</h2><p id="shuoming2">注册后可下载的高清图库，有超过10万张免版税图，使用时要注意网站授权。</p></a>
+        <div id="shuxian3"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge4" href="https://visualhunt.com" target="_blank"><!-- content --><h2 id="wangzhi1">Visual Hunt</h2><p id="shuoming2">超过5万张CC0以及3亿多张CC授权的高质量图片，功能十分强大，极力推荐。</p></a>
+        <div id="shuxian4"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge5" href="http://foodeverest.com" target="_blank"><!-- content --><h2 id="wangzhi2">FoodEverest</h2><p id="shuoming2">提供免费可商用的食物图片，同时提供收费图片项目。</p></a>
+        <div id="shuxian5"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge6" href="http://www.adigitaldreamer.com/gallery" target="_blank"><!-- content --><h2 id="wangzhi2">adigitaldreamer</h2><p id="shuoming2">完全免费的上千张图片素材资源，不过图片质量参差不齐。</p></a>
+       </div>
       </div>
       <div id="shuoming1"><!-- content -->
        <p>免版权图库，请根据说明按需查看，无法访问的请自行科学上网。</p>
@@ -918,7 +949,7 @@ a.nonblock.nontext,img.block
 
   </div>
 </div>
-    
+​    
 
 
 <div id="nav">

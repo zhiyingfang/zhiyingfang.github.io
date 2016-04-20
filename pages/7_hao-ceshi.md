@@ -792,6 +792,40 @@ a.nonblock.nontext,img.block
         </div>
         <a id="fangge6" href="https://stockphotos.io" target="_blank"><!-- content --><h2 id="wangzhi1">StockPhotos</h2><p id="shuoming2">超过两万七千张CC授权的高清图片可以下载，分类具体实用。</p></a>
        </div>
+       <div id="kuang4"><!-- 第八行 -->
+       
+        <div id="icohot1"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        <div id="icohot5"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        <div id="icohot6"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        
+        <a id="fangge1" href="http://startupstockphotos.com" target="_blank"><!-- content --><h2 id="wangzhi1">Startup Stock Photos</h2><p id="shuoming2">CC0授权的高质量图片分享，以商务工作图片为主，强烈推荐PPT制作使用。</p></a>
+        <div id="shuxian1"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge2" href="http://hiresstock.com" target="_blank"><!-- content --><h2 id="wangzhi2">HiResStock</h2><p id="shuoming2">完全可商用的高清图片素材，有分类，同时提供付费图片项目。</p></a>
+        <div id="shuxian2"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge3" href="http://mmtstock.com" target="_blank"><!-- content --><h2 id="wangzhi2">MMT</h2><p id="shuoming2">CC0授权的高质量摄影图片分享，有分类与搜索，数量较少，质量不错。</p></a>
+        <div id="shuxian3"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge4" href="http://www.freeepy.com" target="_blank"><!-- content --><h2 id="wangzhi2">Freeepy</h2><p id="shuoming2">CC0授权的高清摄影图片，脸书分享后可下载，或打开网页源码搜索“Download image”得到原图地址。</p></a>
+        <div id="shuxian4"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge5" href="http://freeuse.io" target="_blank"><!-- content --><h2 id="wangzhi1">FreeUse.io</h2><p id="shuoming2">全部可商用的高清图片分享站，数量可观并且可以搜索，可按标签查看图片。</p></a>
+        <div id="shuxian5"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge6" href="http://www.freejpg.com.ar" target="_blank"><!-- content --><h2 id="wangzhi1">FreeJPG</h2><p id="shuoming2">上万张免费的高清图片，可搜索，质量参差不齐。</p></a>
+       </div>
       </div>
       <div id="shuoming1"><!-- content -->
        <p>免版权图库，请根据说明按需查看，无法访问的请自行科学上网。</p>

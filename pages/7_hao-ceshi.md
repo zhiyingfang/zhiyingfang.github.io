@@ -956,6 +956,43 @@ a.nonblock.nontext,img.block
         </div>
         <a id="fangge6" href="http://www.everystockphoto.com" target="_blank"><!-- content --><h2 id="wangzhi2">everystockphoto</h2><p id="shuoming2">可搜索近三千万张免费图片，所有图片均有来源和相应授权说明。</p></a>
        </div>
+       <div id="kuang4"><!-- 第十三行 -->
+       
+        <div id="icohot1"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        <div id="icohot2"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        <div id="icohot5"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        <div id="icohot6"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        
+        <a id="fangge1" href="http://photopin.com" target="_blank"><!-- content --><h2 id="wangzhi1">PhotoPin</h2><p id="shuoming2">基于Flickr API的高清图片搜索，提供多尺寸下载，使用需注意CC授权。</p></a>
+        <div id="shuxian1"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge2" href="https://www.desktopnexus.com" target="_blank"><!-- content --><h2 id="wangzhi1">Desktop Nexus</h2><p id="shuoming2">高清壁纸下载站，提供超过140万张高清壁纸，版权不明确，商业慎用。</p></a>
+        <div id="shuxian2"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge3" href="http://www.goodfon.su" target="_blank"><!-- content --><h2 id="wangzhi2">GoodFon</h2><p id="shuoming2">提供超过46万张多尺寸壁纸，版权不明，商业慎用。</p></a>
+        <div id="shuxian3"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge4" href="http://www.hdwallpapers.in" target="_blank"><!-- content --><h2 id="wangzhi2">HD Wallpapers</h2><p id="shuoming2">超清壁纸站点，版权不明，商业慎用。</p></a>
+        <div id="shuxian4"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge5" href="https://freerangestock.com/#" target="_blank"><!-- content --><h2 id="wangzhi1">Freerange Stock</h2><p id="shuoming2">提供数千张高质量图片注册下载，免费可商用。</p></a>
+        <div id="shuxian5"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge6" href="hhttps://imagefinder.co" target="_blank"><!-- content --><h2 id="wangzhi1">Image Finder</h2><p id="shuoming2">CC授权的高质量图片分享站，可搜索超过2万张图片，使用时注意授权。</p></a>
+       </div>
       </div>
       <div id="shuoming1"><!-- content -->
        <p>免版权图库，请根据说明按需查看，无法访问的请自行科学上网。</p>

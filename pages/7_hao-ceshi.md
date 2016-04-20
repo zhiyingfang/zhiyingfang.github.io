@@ -891,6 +891,37 @@ a.nonblock.nontext,img.block
         </div>
         <a id="fangge6" href="http://www.adigitaldreamer.com/gallery" target="_blank"><!-- content --><h2 id="wangzhi2">adigitaldreamer</h2><p id="shuoming2">完全免费的上千张图片素材资源，不过图片质量参差不齐。</p></a>
        </div>
+       <div id="kuang4"><!-- 第十一行 -->
+       
+        <div id="icohot1"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        <div id="icohot3"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        
+        <a id="fangge1" href="http://albumarium.com" target="_blank"><!-- content --><h2 id="wangzhi1">Albumarium</h2><p id="shuoming2">CC授权的高质量图片分享站点，包含大量可商用的图片，带分类和搜索。</p></a>
+        <div id="shuxian1"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge2" href="http://animalphotos.info/a/" target="_blank"><!-- content --><h2 id="wangzhi2">Animal Photos</h2><p id="shuoming2">CC授权的动物图片分享站，分类详细，但质量一般，注意图片授权说明。</p></a>
+        <div id="shuxian2"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge3" href="http://www.freeimageslive.co.uk" target="_blank"><!-- content --><h2 id="wangzhi1">freeimageslive</h2><p id="shuoming2">提供上万张可商用图片素材，基本是CC-BY授权。</p></a>
+        <div id="shuxian3"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge4" href="http://www.freepixels.com" target="_blank"><!-- content --><h2 id="wangzhi2">freepixels</h2><p id="shuoming2">提供超过六千张可商用的高清图片下载，有分类和搜索。</p></a>
+        <div id="shuxian4"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge5" href="http://www.goodfreephotos.com" target="_blank"><!-- content --><h2 id="wangzhi2">goodfreephotos</h2><p id="shuoming2">拥有近六千张公众领域的免费图片，图片质量一般。</p></a>
+        <div id="shuxian5"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge6" href="http://www.imagebase.net" target="_blank"><!-- content --><h2 id="wangzhi2">Imagebase</h2><p id="shuoming2">免费可商用的高清图片素材下载站，有六大分类并可搜索查看，提供多尺寸下载。</p></a>
+       </div>
       </div>
       <div id="shuoming1"><!-- content -->
        <p>免版权图库，请根据说明按需查看，无法访问的请自行科学上网。</p>

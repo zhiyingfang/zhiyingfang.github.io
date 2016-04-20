@@ -246,7 +246,7 @@ textarea
 	width: 50px;
 	min-height: 18px;
 	background-color: transparent;
-	opacity: 0;	/* 透明度，范围0-1 */
+	opacity: 0.5;	/* 透明度，范围0-1 */
 	-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	color: #7F7F7F;
@@ -581,7 +581,7 @@ a.nonblock.nontext,img.block
          <p>CC0图库</p>
         </div>
         <div id="gengduo1"><!-- content -->
-         <p>更多&gt;&gt;</p>
+         <p><a class="nonblock" href="http://zhiyingfang.github.io" target="_blank"><font color="#76A510">更多&gt;&gt;</font></a></p>
         </div>
        </div>
        <div id="hengxian1"><!-- simple frame --></div>
@@ -808,7 +808,7 @@ a.nonblock.nontext,img.block
         </div>
         
         <div id="gengduo1"><!-- content -->
-         <p>更多&gt;&gt;</p>
+         <p><a class="nonblock" href="http://zhiyingfang.github.io" target="_blank"><font color="#76A510">更多&gt;&gt;</font></a></p>
         </div>
        </div>
        <div id="hengxian1"><!-- simple frame --></div>
@@ -841,36 +841,6 @@ a.nonblock.nontext,img.block
         </div>
         <a id="fangge6" href="http://www.agiledesigners.com/" target="_blank"><!-- content --><h2 id="wangzhi2">Agile designers</h2><p id="shuoming2">提供高质量平面设计与网页设计的素材。数量不多，但质量极高。</p></a>
        </div>
-       <div id="kuang4"><!-- 第二行 -->
-        <div id="icohot1"><!-- image -->
-        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
-        </div>
-        <div id="icohot4"><!-- image -->
-        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
-        </div>
-        <a id="fangge1" href="http://www.zcool.com.cn/gfxs/" target="_blank"><!-- content --><h2 id="wangzhi1">站酷素材</h2><p id="shuoming2">国内设计师人尽皆知的素材网站，并且是国内超高人气的设计师聚集地。</p></a>
-        <div id="shuxian1"><!-- image -->
-         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
-        </div>
-        <a id="fangge2" href="http://www.nipic.com/index.html" target="_blank"><!-- content --><h2 id="wangzhi2">昵图网</h2><p id="shuoming2">国内比较老牌的素材网站，素材很全，不过大部分素材需要共享分才可以下载。</p></a>
-        <div id="shuxian2"><!-- image -->
-         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
-        </div>
-        <a id="fangge3" href="http://sc.chinaz.com/" target="_blank"><!-- content --><h2 id="wangzhi2">站长素材</h2><p id="shuoming2">站长之家旗下网站，提供格式各样的素材，非常全面，而且下载速度也较快。</p></a>
-        <div id="shuxian3"><!-- image -->
-         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
-        </div>
-        <a id="fangge4" href="http://xiaba.shijue.me/stuff/?ref=main_nav" target="_blank"><!-- content --><h2 id="wangzhi1">下吧</h2><p id="shuoming2">视觉中国旗下的素材网站，素材均为免费，不需要积分和金币即可下载。</p></a>
-        <div id="shuxian4"><!-- image -->
-         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
-        </div>
-        <a id="fangge5" href="http://www.daimg.com/" target="_blank"><!-- content --><h2 id="wangzhi2">大图网</h2><p id="shuoming2">提供影楼素材、PSD素材与淘宝素材等，大部分需要积分才能下载。</p></a>
-        <div id="shuxian5"><!-- image -->
-         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
-        </div>
-        <a id="fangge6" href="http://www.58pic.com/" target="_blank"><!-- content --><h2 id="wangzhi2">千图网</h2><p id="shuoming2">素材较全的网站，提供各个行业的素材，并且大部分可以免费下载。</p></a>
-       </div>
-      </div>
      <div id="shuoming1"><!-- content -->
          <p>学会利用素材资源，天天都是开挂模式！更多现成素材请<a class="nonblock" href="http://www.shejipai.cn/category/materials-and-download" target="_blank"><font color="#76A510"> 点击这里&gt;&gt;</font></a></p>
      </div>
@@ -879,7 +849,7 @@ a.nonblock.nontext,img.block
 
   </div>
 </div>
-​    
+    
 
 
 <div id="nav">

@@ -1024,6 +1024,40 @@ a.nonblock.nontext,img.block
         </div>
         <a id="fangge6" href="http://www.thelightpaintersloft.com" target="_blank"><!-- content --><h2 id="wangzhi2">Light Painters Loft</h2><p id="shuoming2">可免费使用的高清图片下载站点，同时提供付费图片下载服务。</p></a>
        </div>
+       <div id="kuang4"><!-- 第十五行 -->
+       
+        <div id="icohot1"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        <div id="icohot3"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        <div id="icohot6"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        
+        <a id="fangge1" href="https://www.rawpixel.com" target="_blank"><!-- content --><h2 id="wangzhi1">Rawpixel</h2><p id="shuoming2">可商用的高质量图片分享，商务图片为主，需注册才能使用。</p></a>
+        <div id="shuxian1"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge2" href="http://www.patternpictures.com" target="_blank"><!-- content --><h2 id="wangzhi2">patternpictures</h2><p id="shuoming2">提供免费可商用的高清图片下载，以自然风景摄影为主。</p></a>
+        <div id="shuxian2"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge3" href="http://www.bookgraphy.com/free-images" target="_blank"><!-- content --><h2 id="wangzhi1">Bookgraphy</h2><p id="shuoming2">免费可商用的高质量图片素材，主打商务人物图，需要留邮箱获取下载。</p></a>
+        <div id="shuxian3"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge4" href="http://www.marblepics.com" target="_blank"><!-- content --><h2 id="wangzhi2">MarblePics</h2><p id="shuoming2">提供CC0授权的高清图片素材，有分类和搜索。</p></a>
+        <div id="shuxian4"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge5" href="http://freephotos.online" target="_blank"><!-- content --><h2 id="wangzhi2">FreePhotos.online</h2><p id="shuoming2">提供可商用图片素材下载，同时提供矢量图和PSD素材下载。</p></a>
+        <div id="shuxian5"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge6" href="http://librestock.com" target="_blank"><!-- content --><h2 id="wangzhi1">LibreStock</h2><p id="shuoming2">CC0授权，聚合43个免版权图库的搜索引擎，强烈推荐。</p></a>
+       </div>
       </div>
       <div id="shuoming1"><!-- content -->
        <p>免版权图库，请根据说明按需查看，无法访问的请自行科学上网。</p>

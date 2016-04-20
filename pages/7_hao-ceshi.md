@@ -1133,7 +1133,7 @@ a.nonblock.nontext,img.block
         <div id="shuxian1"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge2" href="http://alana.io" target="_blank"><!-- content --><h2 id="wangzhi2">alana.io</h2><p id="shuoming1">CC0授权的高质量图片搜索下载，实用且质量较高。</p></a>
+        <a id="fangge2" href="http://alana.io" target="_blank"><!-- content --><h2 id="wangzhi1">alana.io</h2><p id="shuoming2">CC0授权的高质量图片搜索下载，实用且质量较高。</p></a>
         <div id="shuxian2"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>

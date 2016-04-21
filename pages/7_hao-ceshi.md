@@ -1633,7 +1633,35 @@ a.nonblock.nontext,img.block
         <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
         </div>
         
-        <a id="fangge1" href="待补充" target="_blank"><!-- content --><h2 id="wangzhi2">待补充</h2><p id="shuoming2">待补充</p></a>
+        <a id="fangge1" href="http://ui-cloud.com" target="_blank"><!-- content --><h2 id="wangzhi1">UICloud</h2><p id="shuoming2">UI搜索引擎，提供界面PSD下载。</p></a>
+        <div id="shuxian1"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge2" href="http://codemyui.com" target="_blank"><!-- content --><h2 id="wangzhi2">CodeMyUI</h2><p id="shuoming2">精选的交互代码片段，可以在这里找到网站设计灵感与相应代码。</p></a>
+        <div id="shuxian2"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge3" href="http://collectui.com" target="_blank"><!-- content --><h2 id="wangzhi2">Collect UI</h2><p id="shuoming2">界面设计灵感网站，每天都会更新精选的设计内容。</p></a>
+        <div id="shuxian3"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge4" href="http://uimovement.com" target="_blank"><!-- content --><h2 id="wangzhi2">UI Movement</h2><p id="shuoming2">界面设计灵感站，可进行站内搜索，内容基本精选自其他网站。</p></a>
+        <div id="shuxian4"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge5" href="http://useyourinterface.com" target="_blank"><!-- content --><h2 id="wangzhi2">Use Your Interface</h2><p id="shuoming2">界面设计灵感启发，网站专注于动效展示方面。</p></a>
+        <div id="shuxian5"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge6" href="http://uxchecklist.github.io" target="_blank"><!-- content --><h2 id="wangzhi2">UX项目检查清单</h2><p id="shuoming2">UX项目检查清单，包含所有用户体验过程中的内容及设计步骤。</p></a>
+       </div>
+       <div id="kuang4"><!-- 第二行 -->
+       
+        <div id="icohot1"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        
+        <a id="fangge1" href="http://www.ui.cn" target="_blank"><!-- content --><h2 id="wangzhi1">UI中国</h2><p id="shuoming2">国内专业界面设计平台，前身为 iconfans，会发布不少质量不错的教程。</p></a>
         <div id="shuxian1"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>

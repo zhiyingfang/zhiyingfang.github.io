@@ -1145,11 +1145,39 @@ a.nonblock.nontext,img.block
         <div id="shuxian4"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge5" href="待补充网址" target="_blank"><!-- content --><h2 id="wangzhi2">待补充</h2><p id="shuoming2">待补充说明</p></a>
+        <a id="fangge5" href="http://trunklog.com" target="_blank"><!-- content --><h2 id="wangzhi2">Trunklog</h2><p id="shuoming2">CC0授权的个人摄影博客，多为生活照，数量较少。</p></a>
         <div id="shuxian5"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge6" href="待补充网址" target="_blank"><!-- content --><h2 id="wangzhi2">待补充</h2><p id="shuoming2">待补充说明</p></a>
+        <a id="fangge6" href="https://avopix.com" target="_blank"><!-- content --><h2 id="wangzhi2">Avopix</h2><p id="shuoming2">提供近两万张CC0授权的高清图片搜索下载，同时提供其他付费项目。</p></a>
+       </div>
+       <div id="kuang4"><!-- 第十九行 -->
+       
+        <div id="icohot2"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        
+        <a id="fangge1" href="http://www.freestockphotos.org" target="_blank"><!-- content --><h2 id="wangzhi2">FreeStockPhotos</h2><p id="shuoming2">CC0授权的高质量摄影图片分享，需要输入邮箱下载，比较实用。</p></a>
+        <div id="shuxian1"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge2" href="http://wallpapershome.com" target="_blank"><!-- content --><h2 id="wangzhi2">wallpapershome</h2><p id="shuoming2">高质量壁纸站点，版权不明，商业慎用。</p></a>
+        <div id="shuxian2"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge3" href="http://streetwill.co" target="_blank"><!-- content --><h2 id="wangzhi2">Streetwill</h2><p id="shuoming2">CC0授权的高质量摄影图片分享，数量不多，主要为自然风景人文摄影。</p></a>
+        <div id="shuxian3"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge4" href="http://creativevix.com/stock" target="_blank"><!-- content --><h2 id="wangzhi2">Creative Vix</h2><p id="shuoming2">CC0授权的摄影图片分享，多为欧洲风景人文摄影图片，质量一般。</p></a>
+        <div id="shuxian4"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge5" href="http://www.bara-art.com/photos" target="_blank"><!-- content --><h2 id="wangzhi2">bara-art</h2><p id="shuoming2">CC0授权的个人摄影博客，有分类功能，多为自然风景人文。</p></a>
+        <div id="shuxian5"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge6" href="http://thestockpile.net" target="_blank"><!-- content --><h2 id="wangzhi2">THE STOCKPILE</h2><p id="shuoming2">CC0授权的摄影图片分享站点，有分类，提供部分打包下载。</p></a>
        </div>
       </div>
       <div id="shuoming1"><!-- content -->

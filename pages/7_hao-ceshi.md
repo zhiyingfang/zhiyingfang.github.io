@@ -484,7 +484,7 @@ textarea
 	float: left;
 }
 /* 定义跳转 */
-#gaoqingtuku,#shejikuzhan,#lingganchuangyi,#shipinyinxiao,#peisefangan,#zitizishe,#sucaiziyuan,#shiyonggongju,#wangzhanwangye,#jiemiansheji,#shujuyanjiu,#wenzhangjiaocheng,#tubiaologo,#pszhuanqu,#baozhuangsheji,#manhuachatu,#daimatexiao,#shejiluntan,#shejituandui,#qitawangzhan,#dibu {
+#gaoqingtuku,#shejikuzhan,#lingganchuangyi,#shipinyinxiao,#peisefangan,#zitizishe,#sucaiziyuan,#shiyonggongju,#wangzhanwangye,#jiemiansheji,#shujuyanjiu,#wenzhangjiaocheng,#tubiaologo,#pszhuanqu,#baozhuangsheji,#manhuachatu,#daimatexiao,#shejiluntan,#shejituandui,#qitawangzhan {
 	position: relative;
 	width: 22px;
 	height: 18px;
@@ -2170,7 +2170,8 @@ a.nonblock.nontext,img.block
      </div>
     </div>
     <div id="kuang1"><!-- group -->
-     <a id="dibu"></a>
+    </div>
+    <div id="kuang1"><!-- group -->
     </div>
 
   </div>

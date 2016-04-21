@@ -1152,10 +1152,6 @@ a.nonblock.nontext,img.block
         <a id="fangge6" href="https://avopix.com" target="_blank"><!-- content --><h2 id="wangzhi2">Avopix</h2><p id="shuoming2">提供近两万张CC0授权的高清图片搜索下载，同时提供其他付费项目。</p></a>
        </div>
        <div id="kuang4"><!-- 第十九行 -->
-       
-        <div id="icohot2"><!-- image -->
-        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
-        </div>
         
         <a id="fangge1" href="http://www.freestockphotos.org" target="_blank"><!-- content --><h2 id="wangzhi2">FreeStockPhotos</h2><p id="shuoming2">CC0授权的高质量摄影图片分享，需要输入邮箱下载，比较实用。</p></a>
         <div id="shuxian1"><!-- image -->

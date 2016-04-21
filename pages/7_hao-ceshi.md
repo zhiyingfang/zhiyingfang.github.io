@@ -1422,12 +1422,12 @@ a.nonblock.nontext,img.block
      </div>
     </div>
     <div id="kuang1"><!-- group -->
-     <a id="zitizixiao"></a>
+     <a id="zitizishe"></a>
      <div id="kuang2"><!-- group -->
       <div id="bg1"><!-- column -->
        <div id="kuang3"><!-- group -->
         <div id="biaoti1"><!-- content -->
-         <p>字体字效</p>
+         <p>字体字设</p>
         </div>
         
         <div id="gengduo1"><!-- content -->
@@ -2156,7 +2156,7 @@ a.nonblock.nontext,img.block
     <a href="#lingganchuangyi">灵感创意</a>
     <a href="#shipinyinxiao">视频音效</a>
     <a href="#peisefangan">配色方案</a>        
-    <a href="#zitizishe">字体字效</a>
+    <a href="#zitizishe">字体字设</a>
     <a href="#sucaiziyuan">素材资源</a>
     <a href="#shiyonggongju">实用工具</a>
     <a href="#wangzhanwangye">网站网页</a>

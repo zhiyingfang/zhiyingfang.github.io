@@ -1584,6 +1584,37 @@ a.nonblock.nontext,img.block
         <div id="icohot1"><!-- image -->
         <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
         </div>
+        <div id="icohot6"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        
+        <a id="fangge1" href="http://templates.entheosweb.com" target="_blank"><!-- content --><h2 id="wangzhi1">Entheos Templates</h2><p id="shuoming2">强大的网站模板库，包括最流行的响应式网页、HTML5酷站。</p></a>
+        <div id="shuxian1"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge2" href="http://www.dreamtemplate.com" target="_blank"><!-- content --><h2 id="wangzhi2">DreamTemplate</h2><p id="shuoming2">拥有上万个网站及其他模板可以下载。</p></a>
+        <div id="shuxian2"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge3" href="http://www.templateworld.com" target="_blank"><!-- content --><h2 id="wangzhi2">Template World</h2><p id="shuoming2">提供各种网页模板注册下载，有较详细分类，样式较老。</p></a>
+        <div id="shuxian3"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge4" href="https://freewebsitetemplates.com" target="_blank"><!-- content --><h2 id="wangzhi2">FreeWebsiteTemplates/h2><p id="shuoming2">提供不少网站模板下载，不过质量参差不齐。</p></a>
+        <div id="shuxian4"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge5" href="http://www.freewebtemplates.com" target="_blank"><!-- content --><h2 id="wangzhi2">Free Web Templates</h2><p id="shuoming2">提供近4千个网站模板免费下载，同时提供收费模板项目。</p></a>
+        <div id="shuxian5"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge6" href="http://www.templatemonster.com" target="_blank"><!-- content --><h2 id="wangzhi1">Template Monster</h2><p id="shuoming2">强大的网页模板商城，拥有大量的优秀网页模板可以欣赏。</p></a>
+       </div>
+       <div id="kuang4"><!-- 第二行 -->
+       
+        <div id="icohot1"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
         
         <a id="fangge1" href="待补充" target="_blank"><!-- content --><h2 id="wangzhi2">待补充</h2><p id="shuoming2">待补充</p></a>
         <div id="shuxian1"><!-- image -->

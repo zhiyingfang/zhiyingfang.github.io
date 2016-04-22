@@ -1600,7 +1600,7 @@ a.nonblock.nontext,img.block
         <div id="shuxian3"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge4" href="https://freewebsitetemplates.com" target="_blank"><!-- content --><h2 id="wangzhi2">FreeWebsiteTemplates/h2><p id="shuoming2">提供不少网站模板下载，不过质量参差不齐。</p></a>
+        <a id="fangge4" href="https://freewebsitetemplates.com" target="_blank"><!-- content --><h2 id="wangzhi2">FreeWebsiteTemplates</h2><p id="shuoming2">提供不少网站模板下载，不过质量参差不齐。</p></a>
         <div id="shuxian4"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
@@ -1644,7 +1644,6 @@ a.nonblock.nontext,img.block
       </div>
      <div id="shuoming1"><!-- content -->
          <p>说明待补充</p>
-     </div>
      </div>
      </div>
     </div>

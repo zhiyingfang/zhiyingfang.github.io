@@ -1612,19 +1612,22 @@ a.nonblock.nontext,img.block
        </div>
        <div id="kuang4"><!-- 第二行 -->
        
-        <div id="icohot1"><!-- image -->
+        <div id="icohot2"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        <div id="icohot3"><!-- image -->
         <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
         </div>
         
-        <a id="fangge1" href="待补充" target="_blank"><!-- content --><h2 id="wangzhi2">待补充</h2><p id="shuoming2">待补充</p></a>
+        <a id="fangge1" href="https://www.gavick.com" target="_blank"><!-- content --><h2 id="wangzhi2">GavickPro</h2><p id="shuoming2">高颜值Joomla和WordPress主题模板商城。</p></a>
         <div id="shuxian1"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge2" href="待补充" target="_blank"><!-- content --><h2 id="wangzhi2">待补充</h2><p id="shuoming2">待补充</p></a>
+        <a id="fangge2" href="https://www.crayon.co" target="_blank"><!-- content --><h2 id="wangzhi1">Crayon</h2><p id="shuoming2">近3千万个网页设计作品，获取灵感的绝佳地，需注册后使用。</p></a>
         <div id="shuxian2"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge3" href="待补充" target="_blank"><!-- content --><h2 id="wangzhi2">待补充</h2><p id="shuoming2">待补充</p></a>
+        <a id="fangge3" href="http://www.wix.com" target="_blank"><!-- content --><h2 id="wangzhi1">WIX</h2><p id="shuoming2">可以帮你免费定制网站，有不少模板可以选择。</p></a>
         <div id="shuxian3"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>

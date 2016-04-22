@@ -1618,6 +1618,12 @@ a.nonblock.nontext,img.block
         <div id="icohot3"><!-- image -->
         <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
         </div>
+        <div id="icohot5"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        <div id="icohot6"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
         
         <a id="fangge1" href="https://www.gavick.com" target="_blank"><!-- content --><h2 id="wangzhi2">GavickPro</h2><p id="shuoming2">高颜值Joomla和WordPress主题模板商城。</p></a>
         <div id="shuxian1"><!-- image -->
@@ -1631,7 +1637,72 @@ a.nonblock.nontext,img.block
         <div id="shuxian3"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge4" href="待补充" target="_blank"><!-- content --><h2 id="wangzhi2">待补充</h2><p id="shuoming2">待补充</p></a>
+        <a id="fangge4" href="http://www.jimdo.com" target="_blank"><!-- content --><h2 id="wangzhi2">jimdo</h2><p id="shuoming2">帮助你快速搭建免费网站，后台不支持中文。</p></a>
+        <div id="shuxian4"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge5" href="http://html5up.net" target="_blank"><!-- content --><h2 id="wangzhi1">HTML5 UP</h2><p id="shuoming2">网站提供基于CC授权的免费响应式网站下载。</p></a>
+        <div id="shuxian5"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge6" href="http://templated.co" target="_blank"><!-- content --><h2 id="wangzhi1">TEMPLATED</h2><p id="shuoming2">提供8百多个基于CC授权的免费CSS和HTML5网站模板下载。</p></a>
+       </div>
+       <div id="kuang4"><!-- 第三行 -->
+       
+        <div id="icohot1"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        <div id="icohot3"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        <div id="icohot5"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        
+        <a id="fangge1" href="http://www.awwwards.com" target="_blank"><!-- content --><h2 id="wangzhi1">Awwwards</h2><p id="shuoming2">精选世界各地的最佳网站并打分评奖，灵感来源绝佳地。</p></a>
+        <div id="shuxian1"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge2" href="http://www.landingfolio.com" target="_blank"><!-- content --><h2 id="wangzhi2">Landingfolio</h2><p id="shuoming2">整合了各行业的网站登录页面模板，为设计者提供登录与加载页面的设计灵感。</p></a>
+        <div id="shuxian2"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge3" href="http://www.webdesign-inspiration.com" target="_blank"><!-- content --><h2 id="wangzhi1">Webdesign Inspiration</h2><p id="shuoming2">网页设计灵感聚集地，分类详细。</p></a>
+        <div id="shuxian3"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge4" href="http://www.siteinspire.com" target="_blank"><!-- content --><h2 id="wangzhi2">siteInspire</h2><p id="shuoming2">分享推荐优秀网页及交互设计案例。</p></a>
+        <div id="shuxian4"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge5" href="http://www.csswinner.com" target="_blank"><!-- content --><h2 id="wangzhi1">CSS Winner</h2><p id="shuoming2">全球网页设计画廊，并对提交的佳作颁奖。</p></a>
+        <div id="shuxian5"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge6" href="http://www.cssdesignawards.com" target="_blank"><!-- content --><h2 id="wangzhi2">CSS Design Awards</h2><p id="shuoming2">展示全球最棒的网站，提供网页设计师灵感。</p></a>
+       </div>
+       <div id="kuang4"><!-- 第四行 -->
+       
+        <div id="icohot1"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        <div id="icohot2"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
+        
+        <a id="fangge1" href="http://www.webdesignerdepot.com" target="_blank"><!-- content --><h2 id="wangzhi1">Webdesigner Depot</h2><p id="shuoming2">网页设计师必备，涵盖大量教程、工具、素材。</p></a>
+        <div id="shuxian1"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge2" href="http://www.calltoidea.com" target="_blank"><!-- content --><h2 id="wangzhi1">Calltoidea</h2><p id="shuoming2">按类型查看网页制作的灵感，推荐之。</p></a>
+        <div id="shuxian2"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge3" href="http://www.templatepinboard.com" target="_blank"><!-- content --><h2 id="wangzhi2">TemplatePinboard</h2><p id="shuoming2">免费网站模板，质量数量都一般。</p></a>
+        <div id="shuxian3"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge4" href="http://www.thefwa.com" target="_blank"><!-- content --><h2 id="wangzhi2">FWA</h2><p id="shuoming2">世界著名的互动多媒体网站收录平台，展示世界上最优秀、最前沿的网络媒体艺术设计作品。</p></a>
         <div id="shuxian4"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>

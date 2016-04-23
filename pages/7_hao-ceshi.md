@@ -1248,32 +1248,59 @@ a.nonblock.nontext,img.block
         <div id="icohot1"><!-- image -->
         <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
         </div>
+        <div id="icohot2"><!-- image -->
+        <img class="block" src="/assets/hao/hot.png" alt="" width="11" height="11" />
+        </div>
         
-        <a id="fangge1" href="待补充" target="_blank"><!-- content --><h2 id="wangzhi2">待补充</h2><p id="shuoming2">待补充</p></a>
+        <a id="fangge1" href="https://envato.com" target="_blank"><!-- content --><h2 id="wangzhi1">envato</h2><p id="shuoming2">这里有设计师需要的一切，拥有超强大的设计商城及教程博客。</p></a>
         <div id="shuxian1"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge2" href="待补充" target="_blank"><!-- content --><h2 id="wangzhi2">待补充</h2><p id="shuoming2">待补充</p></a>
+        <a id="fangge2" href="http://www.shutterstock.com" target="_blank"><!-- content --><h2 id="wangzhi1">Shutterstock</h2><p id="shuoming2">最棒的图片、插画、矢量图、影像及音频商城，找灵感的绝佳去处。</p></a>
         <div id="shuxian2"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge3" href="待补充" target="_blank"><!-- content --><h2 id="wangzhi2">待补充</h2><p id="shuoming2">待补充</p></a>
+        <a id="fangge3" href="http://cn.depositphotos.com" target="_blank"><!-- content --><h2 id="wangzhi2">depositphotos</h2><p id="shuoming2">拥有数百万高质量免版税图库图片和高清视频片段的网上商城。</p></a>
         <div id="shuxian3"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge4" href="待补充" target="_blank"><!-- content --><h2 id="wangzhi2">待补充</h2><p id="shuoming2">待补充</p></a>
+        <a id="fangge4" href="http://www.istockphoto.com" target="_blank"><!-- content --><h2 id="wangzhi2">iStock</h2><p id="shuoming2">微利图片概念提出者，提供图片、插画、矢量图及影像的网上商城。</p></a>
         <div id="shuxian4"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge5" href="待补充" target="_blank"><!-- content --><h2 id="wangzhi2">待补充</h2><p id="shuoming2">待补充</p></a>
+        <a id="fangge5" href="https://creativemarket.com" target="_blank"><!-- content --><h2 id="wangzhi2">Creative Market</h2><p id="shuoming2">平面设计素材商城，注册提供6个免费素材下载。</p></a>
         <div id="shuxian5"><!-- image -->
          <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
         </div>
-        <a id="fangge6" href="待补充" target="_blank"><!-- content --><h2 id="wangzhi2">待补充</h2><p id="shuoming2">待补充</p></a>
+        <a id="fangge6" href="https://en.fotolia.com" target="_blank"><!-- content --><h2 id="wangzhi2">Fotolia</h2><p id="shuoming2">很棒微利图片商城，可搜索大量的图片、矢量图及短片。</p></a>
+       </div>
+       <div id="kuang4"><!-- 第二行 -->
+        
+        <a id="fangge1" href="http://www.123rf.com.cn" target="_blank"><!-- content --><h2 id="wangzhi2">123RF</h2><p id="shuoming2">拥有超过3千万张正版图片素材的图库商城，可以中文浏览海量创意图片。</p></a>
+        <div id="shuxian1"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge2" href="http://www.dreamstime.com" target="_blank"><!-- content --><h2 id="wangzhi2">Dreamstime</h2><p id="shuoming2">又一个高清图片商城，拥有超过4千万张正版图片。</p></a>
+        <div id="shuxian2"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge3" href="https://thehungryjpeg.com" target="_blank"><!-- content --><h2 id="wangzhi2">TheHungryJPEG</h2><p id="shuoming2">不仅是个设计商城，同时提供大量免费设计素材。</p></a>
+        <div id="shuxian3"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge4" href="http://www.motionelements.com" target="_blank"><!-- content --><h2 id="wangzhi2">motionelements</h2><p id="shuoming2">视频、动画、特效、音乐、模型等内容的网上商城</p></a>
+        <div id="shuxian4"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge5" href="https://www.graphicstock.com" target="_blank"><!-- content --><h2 id="wangzhi2">graphicstock</h2><p id="shuoming2">又一个网上图库商城，同时提供收费视频和音乐项目。</p></a>
+        <div id="shuxian5"><!-- image -->
+         <img class="block" src="/assets/hao/line.png" alt="" width="1" height="80"/>
+        </div>
+        <a id="fangge6" href="https://medialoot.com" target="_blank"><!-- content --><h2 id="wangzhi2">Medialoot</h2><p id="shuoming2">这里有UI、图标、平面设计、字体及模型等收费作品，同时提供免费作品下载。</p></a>
        </div>
       </div>
      <div id="shuoming1"><!-- content -->
-         <p>说明待补充</p>
+         <p>最优秀的作品合集，一般都在商店里，不买也该多看看。</p>
      </div>
      </div>
     </div>
